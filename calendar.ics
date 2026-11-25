@@ -1,0 +1,748 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Hachile Events//Campus Calendar//ZH
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:neccs26-signup@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20260301
+DTEND;VALUE=DATE:20260316
+SUMMARY:2026 全国大学生英语竞赛（同济考点）（校内报名
+ ）
+DESCRIPTION:本科生B、C类。年级、既往缺考及非英语专业资
+ 格限制见通知。
+URL:https://gongyingbu.tongji.edu.cn/info/1037/1396.htm
+END:VEVENT
+BEGIN:VEVENT
+UID:x-chem-design@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20260301
+DTEND;VALUE=DATE:20260401
+SUMMARY:第二十届全国大学生化工设计竞赛（全国报名）
+DESCRIPTION:参赛团队通过组委会网站在线填写报名表。
+URL:https://iche.zju.edu.cn/uploads/20260228/ad683cd23bc2417ffa3e1dd020f000
+ a7.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:x-ican@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20260401
+DTEND;VALUE=DATE:20260901
+SUMMARY:第二十届 iCAN 大学生创新创业大赛（全国报名）
+DESCRIPTION:全国大赛报名窗口；各赛区选拔日程另行通知。
+URL:https://www.g-ican.com/news/details?id=234
+END:VEVENT
+BEGIN:VEVENT
+UID:neccs26-pre@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART:20260412T010000Z
+DTEND:20260412T030000Z
+SUMMARY:2026 全国大学生英语竞赛（同济考点）（初赛）
+DESCRIPTION:笔试，四平路、嘉定校区设考点。
+URL:https://gongyingbu.tongji.edu.cn/info/1037/1396.htm
+END:VEVENT
+BEGIN:VEVENT
+UID:stats26-submit@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART:20260430T100000Z
+SUMMARY:第十二届全国大学生统计建模大赛同济校赛（作品
+ 截止）
+DESCRIPTION:报名截止为 3 月 24 日 24:00。校赛由数学科学学
+ 院组织，全校全日制本科生与研究生分组参赛，每队 3 
+ 人。
+URL:https://math.tongji.edu.cn/info/1180/13261.htm
+END:VEVENT
+BEGIN:VEVENT
+UID:neccs26-final@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART:20260510T010000Z
+DTEND:20260510T030000Z
+SUMMARY:2026 全国大学生英语竞赛（同济考点）（决赛）
+DESCRIPTION:此时段为笔试，口试另行安排。
+URL:https://gongyingbu.tongji.edu.cn/info/1037/1396.htm
+END:VEVENT
+BEGIN:VEVENT
+UID:transport-final-20260523@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20260523
+DTEND;VALUE=DATE:20260525
+SUMMARY:第二十一届全国大学生交通运输科技大赛（全国决
+ 赛）
+DESCRIPTION:决赛在北京建筑大学举行。
+URL:https://jty.njfu.edu.cn/xydt/20260525/i358598.html
+END:VEVENT
+BEGIN:VEVENT
+UID:see-smartcar-race-20260530@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20260530
+DTEND;VALUE=DATE:20260531
+SUMMARY:全国大学生智能汽车竞赛同济预选（竞速赛）
+DESCRIPTION:在汽车学院和电信学院基地举行。
+URL:https://see.tongji.edu.cn/info/1178/14809.htm
+END:VEVENT
+BEGIN:VEVENT
+UID:med-imspq-registration-2026@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20260601
+DTEND;VALUE=DATE:20260701
+SUMMARY:第22届国际医学生生理学竞赛（IMSPQ）（常规报名）
+DESCRIPTION:马来亚大学接受各医学院团队报名，按队提交申
+ 请。此日期取自主办方常规报名表。
+URL:https://umevent.um.edu.my/22NDIMSPQ2026=86a1793f65aeef4aeef4b479fc9b2bc
+ a
+END:VEVENT
+BEGIN:VEVENT
+UID:see-smartcar-ideas-20260606@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20260606
+DTEND;VALUE=DATE:20260607
+SUMMARY:全国大学生智能汽车竞赛同济预选（综合创意赛）
+DESCRIPTION:在电信学院基地举行。
+URL:https://see.tongji.edu.cn/info/1178/14809.htm
+END:VEVENT
+BEGIN:VEVENT
+UID:pilot26-signup@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20260608
+DTEND;VALUE=DATE:20260702
+SUMMARY:同济大学智能计算创新设计赛（先导杯校赛）（报
+ 名）
+DESCRIPTION:本校在读学生可跨专业组队，每队3至4人。
+URL:https://cs.tongji.edu.cn/info/1113/3878.htm
+END:VEVENT
+BEGIN:VEVENT
+UID:pilot26-contest@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20260703
+DTEND;VALUE=DATE:20260706
+SUMMARY:同济大学智能计算创新设计赛（先导杯校赛）（比
+ 赛）
+DESCRIPTION:嘉定校区线下开展金融大模型推理部署优化赛题
+ 。
+URL:https://cs.tongji.edu.cn/info/1113/3878.htm
+END:VEVENT
+BEGIN:VEVENT
+UID:fl-video-20260820@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART:20260820T080000Z
+SUMMARY:全国大学生外语能力大赛英语组短视频校选（报名
+ 及交件截止）
+DESCRIPTION:同济选手须完成官网报名并向校赛指定邮箱提交
+ 视频。
+URL:https://gongyingbu.tongji.edu.cn/info/1036/1391.htm
+END:VEVENT
+BEGIN:VEVENT
+UID:fl-fournew-20260831@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20260831
+DTEND;VALUE=DATE:20260901
+SUMMARY:全国大学生外语能力大赛英语组“四新”校选（报
+ 名及交件截止）
+DESCRIPTION:通知原文为8月31日24:00。官网报名后同时提交英
+ 文研究报告。
+URL:https://gongyingbu.tongji.edu.cn/info/1036/1391.htm
+END:VEVENT
+BEGIN:VEVENT
+UID:med-imspq-contest-2026@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20260909
+DTEND;VALUE=DATE:20260911
+SUMMARY:第22届国际医学生生理学竞赛（IMSPQ）（比赛）
+DESCRIPTION:比赛在马来西亚吉隆坡的马来亚大学医学院举行
+ ，来自不同国家的医学生组队参加。
+URL:https://medicine.um.edu.my/events/22nd-inter-medical-school-physiology-
+ quiz-imspq-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:cumcm26@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART:20260910T100000Z
+DTEND:20260913T120000Z
+SUMMARY:2026 高教社杯全国大学生数学建模竞赛（比赛）
+DESCRIPTION:全国统一竞赛时段。
+URL:https://shumo.hrbeu.edu.cn/_upload/article/files/97/75/fae9f59e403d911a
+ aea9159aedb4/9e5cc07f-51b4-4e9b-b968-a754b293fd33.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:law-digital-2026@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART:20260912T090000Z
+SUMMARY:法学院本科生奖学金第二课堂附加分（电子材料截
+ 止）
+DESCRIPTION:2025—2026学年第一批评奖。在线提交已获奖项材
+ 料，证书落款须在2025年9月1日至2026年8月31日。另须按期
+ 递交一致的纸质版。
+URL:https://law.tongji.edu.cn/info/1090/8699.htm
+END:VEVENT
+BEGIN:VEVENT
+UID:math-scholar26@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20260914
+DTEND;VALUE=DATE:20260915
+SUMMARY:数学科学学院本科生奖学金（申报截止）
+DESCRIPTION:2025—2026 学年奖学金申请问卷于当日 24:00 截止
+ 。申请人同步向班长报备，班级于 9 月 15 至 16 日评议。
+URL:https://math.tongji.edu.cn/info/1029/13398.htm
+END:VEVENT
+BEGIN:VEVENT
+UID:law-paper-2026@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART:20260914T090000Z
+SUMMARY:法学院本科生奖学金第二课堂附加分（纸质材料截
+ 止）
+DESCRIPTION:向衷和楼1301B学生工作办公室提交纸质材料，内
+ 容需与已提交的电子版一致。
+URL:https://law.tongji.edu.cn/info/1090/8699.htm
+END:VEVENT
+BEGIN:VEVENT
+UID:di-scholar26@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART:20260916T040000Z
+SUMMARY:设计创意学院本科生奖学金（第一批）（材料截止
+ ）
+DESCRIPTION:2025—2026 学年首批申请需提交表格及证明材料，
+ 并按通知填写线上汇总。
+URL:https://student-tjdi.tongji.edu.cn/detail.do?id=970
+END:VEVENT
+BEGIN:VEVENT
+UID:cmc18-signup@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART:20260916T230000Z
+DTEND:20260924T130000Z
+SUMMARY:第十八届全国大学生数学竞赛（上海赛区）（校内
+ 报名）
+DESCRIPTION:同济考生在教务系统报名，并按通知填写补充信
+ 息。
+URL:https://gaoshutongbu.tongji.edu.cn/info/1056/1602.htm
+END:VEVENT
+BEGIN:VEVENT
+UID:chem26-award@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART:20260917T090000Z
+SUMMARY:化学科学与工程学院本科生奖学金（申报截止）
+DESCRIPTION:2025–2026学年，9月14日起受理；按本次通知提交
+ 综合评定材料。
+URL:https://chemweb.tongji.edu.cn/info/1538/15860.htm
+END:VEVENT
+BEGIN:VEVENT
+UID:caup-scholar26@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART:20260918T100000Z
+SUMMARY:建筑与城市规划学院本科生奖学金（材料截止）
+DESCRIPTION:提交 2025 年 9 月 1 日至 2026 年 8 月 31 日取得的
+ 竞赛等材料。附件 2 按省部级、国家级单项获奖及等级
+ 计算竞赛加分，累计上限 0.08。
+URL:https://caup.tongji.edu.cn/d4/a1/c33822a382113/page.htm
+END:VEVENT
+BEGIN:VEVENT
+UID:arts-review-20260928@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART:20260928T040000Z
+SUMMARY:艺术与传媒学院本科生第二批奖学金综测（申报截
+ 止）
+DESCRIPTION:提交综测数据包并在学院成果系统录入2025–2026
+ 学年成果。
+URL:https://am.tongji.edu.cn/info/1549/6051.htm
+END:VEVENT
+BEGIN:VEVENT
+UID:hypcup26@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+SUMMARY:2026 霍普杯国际大学生建筑设计竞赛（作品截止）
+DESCRIPTION:北京时间 10 月 10 日 24:00 前提交。面向符合组委
+ 会资格要求的建筑及相关专业学生，含个人和小组参赛
+ 。
+URL:https://hypcup.uedmagazine.net/?a=index&c=Lists&m=home&tid=39
+END:VEVENT
+BEGIN:VEVENT
+UID:x-milan-design@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20270201
+SUMMARY:第十一届米兰设计周：“数智融境，风物新语”文
+ 创创新实践设计大赛（线上投稿）
+DESCRIPTION:本日期适用于该具体赛题；其他赛题以各自的征
+ 集安排为准。
+URL:https://www.milan-aap.org.cn/#/channel/wccx
+END:VEVENT
+BEGIN:VEVENT
+UID:tjpt-apply@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261101
+SUMMARY:第二届同济大学大学生物理学术竞赛（TJPT）（初赛
+ 报名）
+DESCRIPTION:本科生院、创新创业学院主办，物理科学与工程
+ 学院承办。面向全校 2025、2026 级理工科学生。 可个人参
+ 赛或组队，每队最多 5 人。
+URL:https://mphylab.tongji.edu.cn/page/home/info23624_INFO
+END:VEVENT
+BEGIN:VEVENT
+UID:x-robomaster-2027@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART:20261020T070000Z
+DTEND:20261027T070000Z
+SUMMARY:RoboMaster 2027 机甲大师超级对抗赛（战队报名）
+DESCRIPTION:符合资格的高校战队通过组委会报名系统提交。
+URL:https://www.robomaster.com/zh-CN/robo/rm
+END:VEVENT
+BEGIN:VEVENT
+UID:x-milan-rural@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20270201
+SUMMARY:第十一届米兰设计周：第二届乡村新消费暨 OPC 创
+ 新实践大赛（线上投稿）
+DESCRIPTION:本日期适用于该具体赛题；其他赛题以各自的征
+ 集安排为准。
+URL:https://www.milan-aap.org.cn/#/channel/xcxxf
+END:VEVENT
+BEGIN:VEVENT
+UID:cs-icpc-chengdu-20261025@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY:第51届ICPC亚洲区域赛成都站（区域赛）
+DESCRIPTION:在电子科技大学举行，同济大学组队参加。
+URL:https://ci.tongji.edu.cn/62/86/c29620a418438/page.htm
+END:VEVENT
+BEGIN:VEVENT
+UID:mgg-gov-2027@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261221
+SUMMARY:2027年度中国政府海洋奖学金（来华读研）（申请）
+DESCRIPTION:面向公告所列南海、印度洋及太平洋周边和岛屿
+ 国家以及非洲发展中国家的非中国籍公民。申请涉海硕
+ 士或博士，须先取得同济拟接收导师同意，并完成两个
+ 平台报名及邮件报送。
+URL:https://mgg.tongji.edu.cn/5e/96/c10076a417430/page.htm
+END:VEVENT
+BEGIN:VEVENT
+UID:x-challenge-cup@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261103
+SUMMARY:第十五届“挑战杯”中国大学生创业计划竞赛（终
+ 审决赛）
+DESCRIPTION:大连理工大学承办，包含主体赛及专项赛。
+URL:https://www.cae.cn/cae/html/main/col125/2026-11/05/20261105111721432426
+ 011_1.html
+END:VEVENT
+BEGIN:VEVENT
+UID:x-energy-saving@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:第二十届全国大学生节能减排社会实践与科技竞赛
+ （校内报名截止）
+DESCRIPTION:同济大学校内报名表收取节点。校内选拔日期由
+ 后续通知确定。
+URL:https://caup.tongji.edu.cn/d7/fa/c33362a382970/page.htm
+END:VEVENT
+BEGIN:VEVENT
+UID:fl-german-star-20261101@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART:20261101T000000Z
+DTEND:20261101T043000Z
+SUMMARY:第五届“德语之星”全国高校德语演讲比赛（决赛
+ ）
+DESCRIPTION:同济大学主办，地点为同济大学德文图书馆。
+URL:https://deutsch.tongji.edu.cn/info/1041/1386.htm
+END:VEVENT
+BEGIN:VEVENT
+UID:x-ccpc-women@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART:20261101T010000Z
+DTEND:20261101T060000Z
+SUMMARY:第十二届中国大学生程序设计竞赛（女生专场）（
+ 正式比赛）
+DESCRIPTION:成都信息工程大学承办，比赛时长 5 小时。
+URL:https://www.cuit.edu.cn/info/1003/17263.htm
+END:VEVENT
+BEGIN:VEVENT
+UID:x-upc@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART:20261107T010000Z
+DTEND:20261109T010000Z
+SUMMARY:2026 国际大学生物理竞赛（比赛）
+DESCRIPTION:原定北美山地标准时间 11 月 6 日 18:00 开赛，持
+ 续 48 小时，已换算为北京时间。
+URL:https://www.uphysicsc.com/2026contest.html
+END:VEVENT
+BEGIN:VEVENT
+UID:jmc-landscape@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261201
+SUMMARY:普洱景迈山古茶林文化景观世界遗产主题展（展览
+ ）
+DESCRIPTION:同济大学建筑与城市规划学院钟庭展厅。与北京
+ 大学城市与环境学院共同策划，展示景迈山茶林与传统
+ 村落的保护及申遗历程。
+URL:https://landscape-caup.tongji.edu.cn/5d/ec/c10586a417260/page.htm
+END:VEVENT
+BEGIN:VEVENT
+UID:cmc18-test@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART:20261114T010000Z
+DTEND:20261114T033000Z
+SUMMARY:第十八届全国大学生数学竞赛（上海赛区）（初赛
+ ）
+DESCRIPTION:上海赛区初赛同时作为上海市大学生数学竞赛。
+URL:https://gaoshutongbu.tongji.edu.cn/info/1056/1602.htm
+END:VEVENT
+BEGIN:VEVENT
+UID:x-cncee-signup@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261217
+SUMMARY:第十三届全国大学生能源经济学术创意大赛（全国
+ 报名）
+DESCRIPTION:由作品联系人在大赛系统办理报名，取得作品编
+ 号后可提交作品。
+URL:https://energy.qibebt.ac.cn/eneco/contribution/index.html#/newsDetail?i
+ d=982d8290-d469-11f1-9175-7b297bcc3d39
+END:VEVENT
+BEGIN:VEVENT
+UID:x-physics-experiment@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261123
+SUMMARY:第十二届全国大学生物理实验竞赛（创新）（全国
+ 决赛）
+DESCRIPTION:本届决赛由哈尔滨工业大学承办。
+URL:https://cri.hit.edu.cn/2026/1124/c16138a408206/page.htm
+END:VEVENT
+BEGIN:VEVENT
+UID:fl-translation-20261121@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART:20261121T060000Z
+DTEND:20261121T070000Z
+SUMMARY:全国大学生外语能力大赛英语组笔译国赛（第一阶
+ 段）
+DESCRIPTION:晋级选手线上完成汉英、英汉译后编辑。
+URL:https://ucc.fltrp.com/c/2026-11-06/545130.shtml
+END:VEVENT
+BEGIN:VEVENT
+UID:sem-firm@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART:20261127T060000Z
+DTEND:20261127T073000Z
+SUMMARY:企业间联结的“双刃剑”效应（讲座）
+DESCRIPTION:同济大厦 A 楼 2101。管理高等研究院公开学术报
+ 告第 169 期，讨论创投网络中创新与价值获取之间的关系
+ 。
+URL:https://sem.tongji.edu.cn/semch/57292.html
+END:VEVENT
+BEGIN:VEVENT
+UID:tjpt-submit@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+SUMMARY:第二届同济大学大学生物理学术竞赛（TJPT）（作品
+ 截止）
+DESCRIPTION:本科生院、创新创业学院主办，物理科学与工程
+ 学院承办。面向全校 2025、2026 级理工科学生。 已报名队
+ 伍线上提交研究报告和视频。
+URL:https://mphylab.tongji.edu.cn/page/home/info23624_INFO
+END:VEVENT
+BEGIN:VEVENT
+UID:lanqiao18-ip@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART:20261130T060000Z
+SUMMARY:第十八届蓝桥杯：主视觉与赛事 IP 文创专项（报名
+ 截止）
+DESCRIPTION:全国系统截止时间；院校可设更早的校内截止。
+ 视觉与专项类别的认定请核对所属学院。
+URL:https://www.cqie.edu.cn/uploads/98044313534702081/file/2026/10/20261028
+ 135716223_j02ilae6gr4t.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:red27-early@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20270121
+SUMMARY:2027 红点设计概念奖（早鸟报名）
+DESCRIPTION:设计概念组（Design Concept）各报名阶段分开计费
+ 。日期按组委会公布的日历，报名费用和资格见原文。
+URL:https://www.red-dot.org/de/design-concept/dates-fees
+END:VEVENT
+BEGIN:VEVENT
+UID:fl-translation-20261204@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:全国大学生外语能力大赛英语组笔译国赛（第二阶
+ 段）
+DESCRIPTION:北京线下进行，时间为12月4日上午，限第一阶段
+ 晋级的40名选手。
+URL:https://ucc.fltrp.com/c/2026-11-06/545130.shtml
+END:VEVENT
+BEGIN:VEVENT
+UID:sem-stock@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART:20261204T060000Z
+SUMMARY:缺货驱动替代行为的仿真与近似（讲座）
+DESCRIPTION:同济大厦 A 楼 510。管理高等研究院学术研讨，
+ 报告人 Jingwei Zhang。
+URL:https://sem.tongji.edu.cn/semch/57362.html
+END:VEVENT
+BEGIN:VEVENT
+UID:cs-icpc-shanghai-20261206@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART:20261206T010000Z
+DTEND:20261206T060000Z
+SUMMARY:第51届 ICPC 亚洲区域赛上海站（正式赛）
+DESCRIPTION:上海大学宝山校区体育馆；前一日安排报到、开
+ 幕式和热身赛。
+URL:https://icpc.pku.edu.cn/docs/2026-10/390553972c6041edb3e02109b7d54fa9.p
+ df
+END:VEVENT
+BEGIN:VEVENT
+UID:sem-vote@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART:20261208T063000Z
+SUMMARY:从信息流到选票：社交媒体讨论与股东投票（讲座
+ ）
+DESCRIPTION:同济大厦 A 楼 510。报告人王征，香港城市大学
+ 教授。
+URL:https://sem.tongji.edu.cn/semch/57376.html
+END:VEVENT
+BEGIN:VEVENT
+UID:tjpt-round2-apply@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261217
+SUMMARY:第二届同济大学大学生物理学术竞赛（TJPT）（复赛
+ 报名）
+DESCRIPTION:本科生院、创新创业学院主办，物理科学与工程
+ 学院承办。面向全校 2025、2026 级理工科学生。 仅初赛优
+ 胜者可组队，每队 5 人。
+URL:https://mphylab.tongji.edu.cn/page/home/info23624_INFO
+END:VEVENT
+BEGIN:VEVENT
+UID:lanqiao18-software@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART:20261218T060000Z
+SUMMARY:第十八届蓝桥杯：软件、电子、人工智能及鸿蒙专
+ 项（报名截止）
+DESCRIPTION:全国系统截止时间；院校可设更早的校内截止。
+ 视觉与专项类别的认定请核对所属学院。
+URL:https://www.cqie.edu.cn/uploads/98044313534702081/file/2026/10/20261028
+ 135716223_j02ilae6gr4t.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:x-3d-design-national@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261221
+SUMMARY:第十九届全国三维数字化创新设计大赛（全国总决
+ 赛）
+DESCRIPTION:数字化设计与制造赛项，地点为广州航海学院。
+URL:https://3dds.3ddl.net/index.php?ctl=Informationlist&id=760&met=details
+END:VEVENT
+BEGIN:VEVENT
+UID:cs-icpc-nanchang-20261220@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART:20261220T010000Z
+DTEND:20261220T060000Z
+SUMMARY:第51届 ICPC 亚洲区域赛南昌站（正式赛（拟））
+DESCRIPTION:江西师范大学。邀请函日程标注为拟定，前一日
+ 安排报到、开幕式和热身赛。
+URL:https://icpc.pku.edu.cn/docs/2026-11/aeee3a1fced849d8b28ec6edb9d89c23.p
+ df
+END:VEVENT
+BEGIN:VEVENT
+UID:tjpt-round2@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20261226
+DTEND;VALUE=DATE:20261227
+SUMMARY:第二届同济大学大学生物理学术竞赛（TJPT）（复赛
+ ）
+DESCRIPTION:本科生院、创新创业学院主办，物理科学与工程
+ 学院承办。面向全校 2025、2026 级理工科学生。 初赛晋级
+ 队伍参加线下对抗赛，包括小组赛和决赛。
+URL:https://mphylab.tongji.edu.cn/page/home/info23624_INFO
+END:VEVENT
+BEGIN:VEVENT
+UID:cs-icpc-hongkong-20270109@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20270109
+DTEND;VALUE=DATE:20270111
+SUMMARY:第51届 ICPC 亚洲区域赛香港站（赛站日程）
+DESCRIPTION:赛站由香港大学举办，参赛队伍按名额分配和注
+ 册名单确定。
+URL:https://i.cs.hku.hk/~icpc/
+END:VEVENT
+BEGIN:VEVENT
+UID:x-culsc-register@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20270115
+DTEND;VALUE=DATE:20270116
+SUMMARY:第十二届全国大学生生命科学竞赛（科学探究类）
+ （报名截止）
+DESCRIPTION:科学探究类全国网络报名，截止当日 24:00。
+URL:https://xxgk.czu.cn/_upload/article/files/99/77/338ca314401591e4dd6c168
+ a649d/6b690bcf-8b09-49f1-971a-05614dcdaab5.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:red27-regular@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20270121
+DTEND;VALUE=DATE:20270318
+SUMMARY:2027 红点设计概念奖（常规报名）
+DESCRIPTION:设计概念组（Design Concept）各报名阶段分开计费
+ 。日期按组委会公布的日历，报名费用和资格见原文。
+URL:https://www.red-dot.org/de/design-concept/dates-fees
+END:VEVENT
+BEGIN:VEVENT
+UID:sg27-training@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART:20270126T130000Z
+DTEND:20270126T150000Z
+SUMMARY:圣戈班建筑学生竞赛 2027 马德里站（赛前培训）
+DESCRIPTION:组委会的第二场 One Click LCA 培训。官方时间为法
+ 国当地 14:00–16:00，此处已换算为北京时间。
+URL:https://architecture-student-contest.saint-gobain.com/edition-2027-madr
+ id
+END:VEVENT
+BEGIN:VEVENT
+UID:comap27-register@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART:20270128T200000Z
+SUMMARY:2027 美国大学生数学建模竞赛 MCM/ICM（报名截止）
+DESCRIPTION:指导教师须在此时间前完成注册。已将美东标准
+ 时间1月28日15:00换算为北京时间。
+URL:https://www.contest.comap.org/undergraduate/contests/mcm/instructions.h
+ tml
+END:VEVENT
+BEGIN:VEVENT
+UID:comap27-contest@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART:20270128T220000Z
+DTEND:20270202T010000Z
+SUMMARY:2027 美国大学生数学建模竞赛 MCM/ICM（比赛）
+DESCRIPTION:对应美东标准时间1月28日17:00至2月1日20:00，参赛
+ 队须在比赛结束时停止工作。
+URL:https://www.contest.comap.org/undergraduate/contests/mcm/instructions.h
+ tml
+END:VEVENT
+BEGIN:VEVENT
+UID:x-culsc-plan@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20270131
+DTEND;VALUE=DATE:20270201
+SUMMARY:第十二届全国大学生生命科学竞赛（科学探究类）
+ （材料截止）
+DESCRIPTION:研究综述、实验设计上传，截止当日 24:00。
+URL:https://xxgk.czu.cn/_upload/article/files/99/77/338ca314401591e4dd6c168
+ a649d/6b690bcf-8b09-49f1-971a-05614dcdaab5.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:comap27-submit@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART:20270202T020000Z
+SUMMARY:2027 美国大学生数学建模竞赛 MCM/ICM（提交截止）
+DESCRIPTION:最终论文提交期限比停止作答晚一小时。
+URL:https://www.contest.comap.org/undergraduate/contests/mcm/instructions.h
+ tml
+END:VEVENT
+BEGIN:VEVENT
+UID:if27-jury@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20270216
+DTEND;VALUE=DATE:20270219
+SUMMARY:2027 iF 设计奖（终审）
+DESCRIPTION:汉堡终审，限预选入围作品；参赛报名已于 2026 
+ 年 11 月结束。日期按主办方当地日历。
+URL:https://ifdesign.com/en/if-design-award-get-in-contact
+END:VEVENT
+BEGIN:VEVENT
+UID:x-cncee-works@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20270222
+DTEND;VALUE=DATE:20270314
+SUMMARY:第十三届全国大学生能源经济学术创意大赛（作品
+ 提交）
+DESCRIPTION:已取得作品编号的团队由联系人上传作品与相关
+ 材料。
+URL:https://energy.qibebt.ac.cn/eneco/contribution/index.html#/newsDetail?i
+ d=982d8290-d469-11f1-9175-7b297bcc3d39
+END:VEVENT
+BEGIN:VEVENT
+UID:red27-late@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20270318
+DTEND;VALUE=DATE:20270429
+SUMMARY:2027 红点设计概念奖（后期报名）
+DESCRIPTION:设计概念组（Design Concept）各报名阶段分开计费
+ 。日期按组委会公布的日历，报名费用和资格见原文。
+URL:https://www.red-dot.org/de/design-concept/dates-fees
+END:VEVENT
+BEGIN:VEVENT
+UID:jx16-signup@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART:20270326T100000Z
+SUMMARY:第十六届全国大学生金相技能大赛（高校报名截止
+ ）
+DESCRIPTION:三个赛道由高校统一报名。学生须另行查看校内
+ 选拔日期。
+URL:https://www.jxds.tech/dangjie-shiyan-zhinan
+END:VEVENT
+BEGIN:VEVENT
+UID:lanqiao18-art@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART:20270426T060000Z
+SUMMARY:第十八届蓝桥杯：视觉艺术设计、数字科技创新（
+ 报名截止）
+DESCRIPTION:全国系统截止时间；院校可设更早的校内截止。
+ 视觉与专项类别的认定请核对所属学院。
+URL:https://www.cqie.edu.cn/uploads/98044313534702081/file/2026/10/20261028
+ 135716223_j02ilae6gr4t.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:x-culsc-results@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20270531
+DTEND;VALUE=DATE:20270601
+SUMMARY:第十二届全国大学生生命科学竞赛（科学探究类）
+ （材料截止）
+DESCRIPTION:实验记录、论文和参赛承诺书上传，截止当日 24
+ :00。
+URL:https://xxgk.czu.cn/_upload/article/files/99/77/338ca314401591e4dd6c168
+ a649d/6b690bcf-8b09-49f1-971a-05614dcdaab5.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:sg27-finals@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20270614
+DTEND;VALUE=DATE:20270617
+SUMMARY:圣戈班建筑学生竞赛 2027 马德里站（国际赛）
+DESCRIPTION:马德里国际赛阶段，日期按主办方当地日历。各
+ 国选拔及报名窗口由当地赛区公布。
+URL:https://architecture-student-contest.saint-gobain.com/edition-2027-madr
+ id
+END:VEVENT
+BEGIN:VEVENT
+UID:jx16-final@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20270727
+DTEND;VALUE=DATE:20270731
+SUMMARY:第十六届全国大学生金相技能大赛（决赛）
+DESCRIPTION:实验技能赛道决赛，地点为西南交通大学犀浦校
+ 区。
+URL:https://www.jxds.tech/dangjie-shiyan-zhinan
+END:VEVENT
+BEGIN:VEVENT
+UID:igem27@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20271018
+DTEND;VALUE=DATE:20271022
+SUMMARY:2027 iGEM Grand Jamboree（大会）
+DESCRIPTION:巴黎会议中心，按主办方公布的当地日历日期展
+ 示。此项为大会日期。
+URL:https://review.igem.org/main/jamboree/2026/home
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,2 @@
+# An iCalendar fold can fall immediately after a space in the original text.
+*.ics -text -whitespace

@@ -1,0 +1,5414 @@
+{
+  "updated": "2026-11-25",
+  "colleges": [
+    {
+      "id": "gh",
+      "name": "国豪书院",
+      "scope": "下列73项及系数取自2025年6月9日印发的供稿附件2。不同届次、赛道及当年评奖适用范围请核对书院通知。",
+      "source": "https://ghc.tongji.edu.cn/info/1221/6017.htm",
+      "sourceLabel": "书院官网另刊的推荐目录（2025版）"
+    },
+    {
+      "id": "rail",
+      "name": "铁道与城市轨道交通研究院",
+      "scope": "摘录轨交院本科生奖学金细则附件四的参考赛事。历史院系文件按其原名展示，请核对本人参评单位与当年细则。",
+      "source": "https://railway.tongji.edu.cn/_upload/article/files/ee/be/1f8b147249d993aaa6cd7c278e59/946633c0-310a-44d2-917d-5450283abf0e.pdf",
+      "sourceLabel": "轨交院本科生奖学金细则及附件四"
+    },
+    {
+      "id": "chem",
+      "name": "化学科学与工程学院",
+      "scope": "本科奖学评优办法区分科技竞赛及经认定的文体竞赛，另有团队排序、奖励等级和上限要求。",
+      "source": "https://chemweb.tongji.edu.cn/info/1538/15860.htm",
+      "sourceLabel": "2025–2026学年本科生奖学金通知"
+    },
+    {
+      "id": "di",
+      "name": "设计创意学院",
+      "scope": "2025—2026 学年本科生奖学金。附件 4 是常见竞赛类目参考，等级按证书落款及盖章单位认定，同一作品同一竞赛按最高级别计算。",
+      "source": "https://student-tjdi.tongji.edu.cn/detail.do?id=970",
+      "sourceLabel": "本科生评审通知及竞赛附件"
+    },
+    {
+      "id": "caup",
+      "name": "建筑与城市规划学院",
+      "scope": "2026 年研究生奖学金的竞赛目录按专业分类。本科生另按该学年本科评定细则凭获奖证书申报。",
+      "source": "https://caup.tongji.edu.cn/d4/50/c33822a382032/page.htm",
+      "sourceLabel": "2026 年研究生评审通知及竞赛目录"
+    },
+    {
+      "id": "sem",
+      "name": "经济与管理学院",
+      "scope": "研究生奖学金公开计分附件。竞赛计分考虑赛事类别、获奖阶段和证书排序，申请时须核对当年学院文件。",
+      "source": "https://sem.tongji.edu.cn/semch/wp-content/uploads/sites/2/2024/09/附件2-经济与管理学院研究生奖学金评定计分方法.pdf",
+      "sourceLabel": "研究生奖学金评定计分方法"
+    },
+    {
+      "id": "math",
+      "name": "数学科学学院",
+      "scope": "2025—2026 学年本科生评审采用同数内〔2026〕14 号细则。校赛通知另行说明实际参赛范围。",
+      "source": "https://math.tongji.edu.cn/info/1029/13398.htm",
+      "sourceLabel": "本科生奖学金评审通知"
+    },
+    {
+      "id": "physics",
+      "name": "物理科学与工程学院",
+      "scope": "学院公布本科生奖学金实施细则。TJPT 是物理学院承办的校内选拔赛，获奖如何计入奖学金请查参评学年细则。",
+      "source": "https://physics.tongji.edu.cn/info/1089/4428.htm",
+      "sourceLabel": "本科生奖学金评定实施细则"
+    },
+    {
+      "id": "arts-media",
+      "name": "艺术与传媒学院",
+      "scope": "2025年修订的综测办法涵盖本科生奖学金。学科竞赛按当年专业目录认定，第一署名单位须为同济大学。2025–2026学年的专业参考目录见第二批申报通知附件6。",
+      "source": "https://am.tongji.edu.cn/info/1549/6051.htm",
+      "sourceLabel": "本科生综测申报通知及专业竞赛目录"
+    },
+    {
+      "id": "foreign-languages",
+      "name": "外国语学院",
+      "scope": "本科生评奖时，当年校级目录中的外语学科类赛事和学术创新、职业规划等综合类赛事走高水平竞赛档。团队贡献、奖级及其他竞赛由有关部门审核。",
+      "source": "https://sfs.tongji.edu.cn/_upload/article/files/d1/e5/b310668c4937b89f909401da5499/eef543a9-848e-456c-9d90-91356a179f32.pdf",
+      "sourceLabel": "外国语学院本科生奖学金评定实施细则（2025年修订）"
+    },
+    {
+      "id": "transport",
+      "name": "交通学院",
+      "scope": "2025年修订公示稿区分专业与非专业学科类竞赛，目录以学院教务科从本科生院取得的版本为准。2022级车辆工程（轨交）另行评定。",
+      "source": "https://tjjt.tongji.edu.cn/info/1587/11395.htm",
+      "sourceLabel": "交通学院本科生奖学金评选办法修订公示"
+    },
+    {
+      "id": "electronics",
+      "name": "电子与信息工程学院",
+      "scope": "2026年细则按赛事级别、院内推荐等级、获奖等第计算学科创新竞赛成绩；学院推荐A+、A、B、C、D档的系数依次为100%、80%、60%、30%、15%。单项所属档次查学院7月目录。",
+      "source": "https://see.tongji.edu.cn/info/1096/14047.htm",
+      "sourceLabel": "电信学院学生奖学金评定细则（同济电内〔2026〕6号）"
+    },
+    {
+      "id": "computer",
+      "name": "计算机科学与技术学院",
+      "scope": "2025–2026学年奖学金评审通知附评审材料。校级竞赛目录和具体赛程可供备赛，单项计分请对照学院当年细则。",
+      "source": "https://cs.tongji.edu.cn/info/1051/3845.htm",
+      "sourceLabel": "计算机学院2025–2026学年奖学金评审通知"
+    },
+    {
+      "id": "mechanical",
+      "name": "机械工程与机器人学院",
+      "scope": "2026年6月2日通过本科生奖学金评定细则。学院参与举办的赛事标注办赛依据，获奖计分应另查适用细则。",
+      "source": "https://mefaculty.tongji.edu.cn/info/1108/3535.htm",
+      "sourceLabel": "机械学院本科生奖学金评定细则（同济机内〔2026〕28号）"
+    },
+    {
+      "id": "med",
+      "name": "医学院",
+      "scope": "2025年7月公布的本科生奖学金评审细则列出重要赛事和医学类赛事。须以本院为依托或申报第一单位。同一项目取最高分，竞赛加分累计最多5分，团队奖按人数折算。",
+      "source": "https://med.tongji.edu.cn/__local/0/E1/39/6BD2AD009F9EB8B3278E8EF0F75_C0C99F4A_3D7C4.pdf",
+      "sourceLabel": "医学院本科生奖学金评审实施细则，第5至6页"
+    },
+    {
+      "id": "law",
+      "name": "法学院",
+      "scope": "本科生学习类奖学金将科技创新、学科竞赛等获奖纳入第二课堂附加分，合计最多2分。2025—2026学年第一批申报要求电子版和纸质版材料齐备。",
+      "source": "https://law.tongji.edu.cn/__local/0/59/B6/DDE4CCF6DBDBB73B2F657EB06FC_1BD4C08B_269AE.pdf",
+      "sourceLabel": "法学院本科生奖学金评定细则，2025年7月"
+    },
+    {
+      "id": "sese",
+      "name": "环境科学与工程学院",
+      "scope": "同济环内〔2026〕13号设有科技创新团队奖。专业性团队奖按有关协议评审，个人奖学金综合测评办法每年修订。",
+      "source": "https://sese.tongji.edu.cn/info/3705/5990.htm",
+      "sourceLabel": "环境学院学生奖学金评审实施细则，2026年8月"
+    },
+    {
+      "id": "smse",
+      "name": "材料科学与工程学院",
+      "scope": "学院公开的2019年6月修订版列明课外学术、科技活动的竞赛认定方式。这里保留历史口径，申报当前学年时请向学院核实最新名单。",
+      "source": "https://smse.tongji.edu.cn/info/1077/1979.htm",
+      "sourceLabel": "材料学院本科生奖学金评定细则，2019年修订"
+    },
+    {
+      "id": "mgg",
+      "name": "海洋与地球科学学院",
+      "scope": "海洋学院负责同济大学海洋奖学金评审，该奖面向符合条件的全校本科生和研究生。另一项目“中国政府海洋奖学金”接受指定国家的申请者来华攻读涉海硕士或博士。",
+      "source": "https://news.tongji.edu.cn/info/1006/78667.htm",
+      "sourceLabel": "同济大学海洋奖学金设立及评审分工"
+    },
+    {
+      "id": "unit-20",
+      "name": "创新创业学院",
+      "scope": "仅收录2026校级目录中的责任赛事。学院奖学金认定条件请查当学年评审文件。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "unit-21",
+      "name": "团委",
+      "scope": "仅收录2026校级目录中的责任赛事。学院奖学金认定条件请查当学年评审文件。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "unit-22",
+      "name": "测绘与地理信息学院",
+      "scope": "仅收录2026校级目录中的责任赛事。学院奖学金认定条件请查当学年评审文件。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "unit-23",
+      "name": "航空航天与力学学院",
+      "scope": "仅收录2026校级目录中的责任赛事。学院奖学金认定条件请查当学年评审文件。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "unit-24",
+      "name": "汽车与能源学院",
+      "scope": "仅收录2026校级目录中的责任赛事。学院奖学金认定条件请查当学年评审文件。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "unit-25",
+      "name": "生命科学与技术学院",
+      "scope": "仅收录2026校级目录中的责任赛事。学院奖学金认定条件请查当学年评审文件。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "unit-26",
+      "name": "土木工程学院",
+      "scope": "仅收录2026校级目录中的责任赛事。学院奖学金认定条件请查当学年评审文件。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "unit-27",
+      "name": "学生工作部",
+      "scope": "仅收录2026校级目录中的责任赛事。学院奖学金认定条件请查当学年评审文件。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "unit-28",
+      "name": "口腔医学院",
+      "scope": "仅收录2026校级目录中的责任赛事。学院奖学金认定条件请查当学年评审文件。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "unit-29",
+      "name": "政治与国际关系学院",
+      "scope": "仅收录2026校级目录中的责任赛事。学院奖学金认定条件请查当学年评审文件。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "unit-30",
+      "name": "马克思主义学院",
+      "scope": "仅收录2026校级目录中的责任赛事。学院奖学金认定条件请查当学年评审文件。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "unit-31",
+      "name": "中德工程学院",
+      "scope": "仅收录2026校级目录中的责任赛事。学院奖学金认定条件请查当学年评审文件。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    }
+  ],
+  "catalog": [
+    {
+      "id": "gh-1",
+      "college": "gh",
+      "title": "中国国际大学生创新大赛",
+      "detail": "2025年供稿附件2第1项，赛事系数 2。",
+      "source": "./guohao-2025.txt",
+      "sourceLabel": "供稿附件2整理本"
+    },
+    {
+      "id": "gh-2",
+      "college": "gh",
+      "title": "“挑战杯”全国大学生课外学术科技作品竞赛（含专项赛）",
+      "detail": "2025年供稿附件2第2项，赛事系数 2。",
+      "source": "./guohao-2025.txt",
+      "sourceLabel": "供稿附件2整理本"
+    },
+    {
+      "id": "gh-3",
+      "college": "gh",
+      "title": "“挑战杯”中国大学生创业计划大赛",
+      "detail": "2025年供稿附件2第3项，赛事系数 2。",
+      "source": "./guohao-2025.txt",
+      "sourceLabel": "供稿附件2整理本"
+    },
+    {
+      "id": "gh-4",
+      "college": "gh",
+      "title": "全国大学生职业规划大赛",
+      "detail": "2025年供稿附件2第4项，赛事系数 2。",
+      "source": "./guohao-2025.txt",
+      "sourceLabel": "供稿附件2整理本"
+    },
+    {
+      "id": "gh-5",
+      "college": "gh",
+      "title": "“知行杯”上海市大学生社会实践大赛",
+      "detail": "2025年供稿附件2第5项，赛事系数 2。",
+      "source": "./guohao-2025.txt",
+      "sourceLabel": "供稿附件2整理本"
+    },
+    {
+      "id": "gh-6",
+      "college": "gh",
+      "title": "“学创杯”全国大学生创业综合模拟大赛",
+      "detail": "2025年供稿附件2第6项，赛事系数 1.5。",
+      "source": "./guohao-2025.txt",
+      "sourceLabel": "供稿附件2整理本"
+    },
+    {
+      "id": "gh-7",
+      "college": "gh",
+      "title": "iCAN 大学生创新创业大赛",
+      "detail": "2025年供稿附件2第7项，赛事系数 1.5。",
+      "source": "./guohao-2025.txt",
+      "sourceLabel": "供稿附件2整理本"
+    },
+    {
+      "id": "gh-8",
+      "college": "gh",
+      "title": "全国大学生数学竞赛",
+      "detail": "2025年供稿附件2第8项，赛事系数 1.5。",
+      "source": "./guohao-2025.txt",
+      "sourceLabel": "供稿附件2整理本"
+    },
+    {
+      "id": "gh-9",
+      "college": "gh",
+      "title": "全国大学生数学建模竞赛",
+      "detail": "2025年供稿附件2第9项，赛事系数 1.5。",
+      "source": "./guohao-2025.txt",
+      "sourceLabel": "供稿附件2整理本"
+    },
+    {
+      "id": "gh-10",
+      "college": "gh",
+      "title": "丘成桐大学生数学竞赛",
+      "detail": "2025年供稿附件2第10项，赛事系数 1.5。",
+      "source": "./guohao-2025.txt",
+      "sourceLabel": "供稿附件2整理本"
+    },
+    {
+      "id": "gh-11",
+      "college": "gh",
+      "title": "全国大学生统计建模大赛",
+      "detail": "2025年供稿附件2第11项，赛事系数 1.5。",
+      "source": "./guohao-2025.txt",
+      "sourceLabel": "供稿附件2整理本"
+    },
+    {
+      "id": "gh-12",
+      "college": "gh",
+      "title": "美国大学生数学建模竞赛",
+      "detail": "2025年供稿附件2第12项，赛事系数 1.5。",
+      "source": "./guohao-2025.txt",
+      "sourceLabel": "供稿附件2整理本"
+    },
+    {
+      "id": "gh-13",
+      "college": "gh",
+      "title": "国际大学生物理竞赛",
+      "detail": "2025年供稿附件2第13项，赛事系数 1.5。",
+      "source": "./guohao-2025.txt",
+      "sourceLabel": "供稿附件2整理本"
+    },
+    {
+      "id": "gh-14",
+      "college": "gh",
+      "title": "中国大学生物理学术竞赛",
+      "detail": "2025年供稿附件2第14项，赛事系数 1.5。",
+      "source": "./guohao-2025.txt",
+      "sourceLabel": "供稿附件2整理本"
+    },
+    {
+      "id": "gh-15",
+      "college": "gh",
+      "title": "全国大学生物理实验竞赛（创新）",
+      "detail": "2025年供稿附件2第15项，赛事系数 1.5。",
+      "source": "./guohao-2025.txt",
+      "sourceLabel": "供稿附件2整理本"
+    },
+    {
+      "id": "gh-16",
+      "college": "gh",
+      "title": "全国大学生光电设计竞赛",
+      "detail": "2025年供稿附件2第16项，赛事系数 1.5。",
+      "source": "./guohao-2025.txt",
+      "sourceLabel": "供稿附件2整理本"
+    },
+    {
+      "id": "gh-17",
+      "college": "gh",
+      "title": "全国大学生化工设计竞赛",
+      "detail": "2025年供稿附件2第17项，赛事系数 1.5。",
+      "source": "./guohao-2025.txt",
+      "sourceLabel": "供稿附件2整理本"
+    },
+    {
+      "id": "gh-18",
+      "college": "gh",
+      "title": "全国大学生化工实验大赛",
+      "detail": "2025年供稿附件2第18项，赛事系数 1.5。",
+      "source": "./guohao-2025.txt",
+      "sourceLabel": "供稿附件2整理本"
+    },
+    {
+      "id": "gh-19",
+      "college": "gh",
+      "title": "全国大学生化学实验创新设计大赛",
+      "detail": "2025年供稿附件2第19项，赛事系数 1.5。",
+      "source": "./guohao-2025.txt",
+      "sourceLabel": "供稿附件2整理本"
+    },
+    {
+      "id": "gh-20",
+      "college": "gh",
+      "title": "国际遗传工程机器设计大赛（iGEM）",
+      "detail": "2025年供稿附件2第20项，赛事系数 1.5。",
+      "source": "./guohao-2025.txt",
+      "sourceLabel": "供稿附件2整理本"
+    },
+    {
+      "id": "gh-21",
+      "college": "gh",
+      "title": "全国大学生生命科学竞赛",
+      "detail": "2025年供稿附件2第21项，赛事系数 1.5。",
+      "source": "./guohao-2025.txt",
+      "sourceLabel": "供稿附件2整理本"
+    },
+    {
+      "id": "gh-22",
+      "college": "gh",
+      "title": "全国周培源大学生力学竞赛/上海市大学生力学竞赛",
+      "detail": "2025年供稿附件2第22项，赛事系数 1.5。",
+      "source": "./guohao-2025.txt",
+      "sourceLabel": "供稿附件2整理本"
+    },
+    {
+      "id": "gh-23",
+      "college": "gh",
+      "title": "国际大学生工程力学竞赛",
+      "detail": "2025年供稿附件2第23项，赛事系数 1.5。",
+      "source": "./guohao-2025.txt",
+      "sourceLabel": "供稿附件2整理本"
+    },
+    {
+      "id": "gh-24",
+      "college": "gh",
+      "title": "国际奥林匹克互联网学科竞赛“理论力学”/“材料力学”",
+      "detail": "2025年供稿附件2第24项，赛事系数 1.5。",
+      "source": "./guohao-2025.txt",
+      "sourceLabel": "供稿附件2整理本"
+    },
+    {
+      "id": "gh-25",
+      "college": "gh",
+      "title": "全国大学生地质技能竞赛",
+      "detail": "2025年供稿附件2第25项，赛事系数 1.5。",
+      "source": "./guohao-2025.txt",
+      "sourceLabel": "供稿附件2整理本"
+    },
+    {
+      "id": "gh-26",
+      "college": "gh",
+      "title": "中国大学生医学技术技能大赛",
+      "detail": "2025年供稿附件2第26项，赛事系数 1.5。",
+      "source": "./guohao-2025.txt",
+      "sourceLabel": "供稿附件2整理本"
+    },
+    {
+      "id": "gh-27",
+      "college": "gh",
+      "title": "全国大学生基础医学创新研究暨实验设计论坛(大赛)",
+      "detail": "2025年供稿附件2第27项，赛事系数 1.5。",
+      "source": "./guohao-2025.txt",
+      "sourceLabel": "供稿附件2整理本"
+    },
+    {
+      "id": "gh-28",
+      "college": "gh",
+      "title": "ACM-ICPC 国际大学生程序设计竞赛",
+      "detail": "2025年供稿附件2第28项，赛事系数 1.5。",
+      "source": "./guohao-2025.txt",
+      "sourceLabel": "供稿附件2整理本"
+    },
+    {
+      "id": "gh-29",
+      "college": "gh",
+      "title": "中国大学生程序设计竞赛（CCPC）",
+      "detail": "2025年供稿附件2第29项，赛事系数 1.5。",
+      "source": "./guohao-2025.txt",
+      "sourceLabel": "供稿附件2整理本"
+    },
+    {
+      "id": "gh-30",
+      "college": "gh",
+      "title": "中国大学生计算机设计大赛",
+      "detail": "2025年供稿附件2第30项，赛事系数 1.5。",
+      "source": "./guohao-2025.txt",
+      "sourceLabel": "供稿附件2整理本"
+    },
+    {
+      "id": "gh-31",
+      "college": "gh",
+      "title": "中国高校计算机大赛（大数据挑战赛、团体程序设计天梯赛、移动应用创新赛、网络技术挑战赛、人工智能创意赛）",
+      "detail": "2025年供稿附件2第31项，赛事系数 1.5。",
+      "source": "./guohao-2025.txt",
+      "sourceLabel": "供稿附件2整理本"
+    },
+    {
+      "id": "gh-32",
+      "college": "gh",
+      "title": "“中国软件杯”大学生软件设计大赛",
+      "detail": "2025年供稿附件2第32项，赛事系数 1.5。",
+      "source": "./guohao-2025.txt",
+      "sourceLabel": "供稿附件2整理本"
+    },
+    {
+      "id": "gh-33",
+      "college": "gh",
+      "title": "全国大学生信息安全竞赛",
+      "detail": "2025年供稿附件2第33项，赛事系数 1.5。",
+      "source": "./guohao-2025.txt",
+      "sourceLabel": "供稿附件2整理本"
+    },
+    {
+      "id": "gh-34",
+      "college": "gh",
+      "title": "中国机器人及人工智能大赛",
+      "detail": "2025年供稿附件2第34项，赛事系数 1.5。",
+      "source": "./guohao-2025.txt",
+      "sourceLabel": "供稿附件2整理本"
+    },
+    {
+      "id": "gh-35",
+      "college": "gh",
+      "title": "全国大学生计算机系统能力大赛",
+      "detail": "2025年供稿附件2第35项，赛事系数 1.5。",
+      "source": "./guohao-2025.txt",
+      "sourceLabel": "供稿附件2整理本"
+    },
+    {
+      "id": "gh-36",
+      "college": "gh",
+      "title": "全国大学生信息安全与对抗技术竞赛",
+      "detail": "2025年供稿附件2第36项，赛事系数 1.5。",
+      "source": "./guohao-2025.txt",
+      "sourceLabel": "供稿附件2整理本"
+    },
+    {
+      "id": "gh-37",
+      "college": "gh",
+      "title": "蓝桥杯全国软件和信息技术专业人才大赛",
+      "detail": "2025年供稿附件2第37项，赛事系数 1.5。",
+      "source": "./guohao-2025.txt",
+      "sourceLabel": "供稿附件2整理本"
+    },
+    {
+      "id": "gh-38",
+      "college": "gh",
+      "title": "中国大学生服务外包创新创业大赛",
+      "detail": "2025年供稿附件2第38项，赛事系数 1.5。",
+      "source": "./guohao-2025.txt",
+      "sourceLabel": "供稿附件2整理本"
+    },
+    {
+      "id": "gh-39",
+      "college": "gh",
+      "title": "百度之星·程序设计大赛",
+      "detail": "2025年供稿附件2第39项，赛事系数 1.5。",
+      "source": "./guohao-2025.txt",
+      "sourceLabel": "供稿附件2整理本"
+    },
+    {
+      "id": "gh-40",
+      "college": "gh",
+      "title": "“大唐杯”全国大学生新一代信息通信技术大赛",
+      "detail": "2025年供稿附件2第40项，赛事系数 1.5。",
+      "source": "./guohao-2025.txt",
+      "sourceLabel": "供稿附件2整理本"
+    },
+    {
+      "id": "gh-41",
+      "college": "gh",
+      "title": "中国机器人大赛暨 RoboCup 机器人世界杯中国赛",
+      "detail": "2025年供稿附件2第41项，赛事系数 1.5。",
+      "source": "./guohao-2025.txt",
+      "sourceLabel": "供稿附件2整理本"
+    },
+    {
+      "id": "gh-42",
+      "college": "gh",
+      "title": "全国大学生机器人大赛 RoboMaster、RoboCon、RoboTac",
+      "detail": "2025年供稿附件2第42项，赛事系数 1.5。",
+      "source": "./guohao-2025.txt",
+      "sourceLabel": "供稿附件2整理本"
+    },
+    {
+      "id": "gh-43",
+      "college": "gh",
+      "title": "睿抗机器人开发者大赛(RAICOM)",
+      "detail": "2025年供稿附件2第43项，赛事系数 1.5。",
+      "source": "./guohao-2025.txt",
+      "sourceLabel": "供稿附件2整理本"
+    },
+    {
+      "id": "gh-44",
+      "college": "gh",
+      "title": "VEX 机器人世界锦标赛/亚洲公开赛/中国 VEX 机器人大赛暨 VEX 世锦赛中国选拔赛",
+      "detail": "2025年供稿附件2第44项，赛事系数 1.5。",
+      "source": "./guohao-2025.txt",
+      "sourceLabel": "供稿附件2整理本"
+    },
+    {
+      "id": "gh-45",
+      "college": "gh",
+      "title": "中国高校智能机器人创意大赛",
+      "detail": "2025年供稿附件2第45项，赛事系数 1.5。",
+      "source": "./guohao-2025.txt",
+      "sourceLabel": "供稿附件2整理本"
+    },
+    {
+      "id": "gh-46",
+      "college": "gh",
+      "title": "全国大学生电子设计竞赛（含专题邀请赛）",
+      "detail": "2025年供稿附件2第46项，赛事系数 1.5。",
+      "source": "./guohao-2025.txt",
+      "sourceLabel": "供稿附件2整理本"
+    },
+    {
+      "id": "gh-47",
+      "college": "gh",
+      "title": "全国大学生嵌入式芯片与系统设计竞赛",
+      "detail": "2025年供稿附件2第47项，赛事系数 1.5。",
+      "source": "./guohao-2025.txt",
+      "sourceLabel": "供稿附件2整理本"
+    },
+    {
+      "id": "gh-48",
+      "college": "gh",
+      "title": "全国大学生集成电路创新创业大赛",
+      "detail": "2025年供稿附件2第48项，赛事系数 1.5。",
+      "source": "./guohao-2025.txt",
+      "sourceLabel": "供稿附件2整理本"
+    },
+    {
+      "id": "gh-49",
+      "college": "gh",
+      "title": "全国大学生物联网设计竞赛",
+      "detail": "2025年供稿附件2第49项，赛事系数 1.5。",
+      "source": "./guohao-2025.txt",
+      "sourceLabel": "供稿附件2整理本"
+    },
+    {
+      "id": "gh-50",
+      "college": "gh",
+      "title": "全球校园人工智能算法精英大赛",
+      "detail": "2025年供稿附件2第50项，赛事系数 1.5。",
+      "source": "./guohao-2025.txt",
+      "sourceLabel": "供稿附件2整理本"
+    },
+    {
+      "id": "gh-51",
+      "college": "gh",
+      "title": "高校电气电子工程创新大赛",
+      "detail": "2025年供稿附件2第51项，赛事系数 1.5。",
+      "source": "./guohao-2025.txt",
+      "sourceLabel": "供稿附件2整理本"
+    },
+    {
+      "id": "gh-52",
+      "college": "gh",
+      "title": "华为 ICT 大赛",
+      "detail": "2025年供稿附件2第52项，赛事系数 1.5。",
+      "source": "./guohao-2025.txt",
+      "sourceLabel": "供稿附件2整理本"
+    },
+    {
+      "id": "gh-53",
+      "college": "gh",
+      "title": "“西门子杯”中国智能制造挑战赛",
+      "detail": "2025年供稿附件2第53项，赛事系数 1.5。",
+      "source": "./guohao-2025.txt",
+      "sourceLabel": "供稿附件2整理本"
+    },
+    {
+      "id": "gh-54",
+      "college": "gh",
+      "title": "国际大学生智能农业装备创新大赛",
+      "detail": "2025年供稿附件2第54项，赛事系数 1.5。",
+      "source": "./guohao-2025.txt",
+      "sourceLabel": "供稿附件2整理本"
+    },
+    {
+      "id": "gh-55",
+      "college": "gh",
+      "title": "全国大学生机械创新设计大赛",
+      "detail": "2025年供稿附件2第55项，赛事系数 1.5。",
+      "source": "./guohao-2025.txt",
+      "sourceLabel": "供稿附件2整理本"
+    },
+    {
+      "id": "gh-56",
+      "college": "gh",
+      "title": "全国大学生先进成图技术与产品信息建模创新大赛",
+      "detail": "2025年供稿附件2第56项，赛事系数 1.5。",
+      "source": "./guohao-2025.txt",
+      "sourceLabel": "供稿附件2整理本"
+    },
+    {
+      "id": "gh-57",
+      "college": "gh",
+      "title": "中国大学生机械工程创新创意大赛（过程装备、铸造工艺、材料热处理、起重机创意赛、智能创造大赛）",
+      "detail": "2025年供稿附件2第57项，赛事系数 1.5。",
+      "source": "./guohao-2025.txt",
+      "sourceLabel": "供稿附件2整理本"
+    },
+    {
+      "id": "gh-58",
+      "college": "gh",
+      "title": "中国大学生工程实践与创新能力大赛",
+      "detail": "2025年供稿附件2第58项，赛事系数 1.5。",
+      "source": "./guohao-2025.txt",
+      "sourceLabel": "供稿附件2整理本"
+    },
+    {
+      "id": "gh-59",
+      "college": "gh",
+      "title": "全国大学生金相技能大赛",
+      "detail": "2025年供稿附件2第59项，赛事系数 1.5。",
+      "source": "./guohao-2025.txt",
+      "sourceLabel": "供稿附件2整理本"
+    },
+    {
+      "id": "gh-60",
+      "college": "gh",
+      "title": "全国大学生智能汽车竞赛",
+      "detail": "2025年供稿附件2第60项，赛事系数 1.5。",
+      "source": "./guohao-2025.txt",
+      "sourceLabel": "供稿附件2整理本"
+    },
+    {
+      "id": "gh-61",
+      "college": "gh",
+      "title": "全国三维数字化创新设计大赛",
+      "detail": "2025年供稿附件2第61项，赛事系数 1.5。",
+      "source": "./guohao-2025.txt",
+      "sourceLabel": "供稿附件2整理本"
+    },
+    {
+      "id": "gh-62",
+      "college": "gh",
+      "title": "米兰设计周——中国高校设计学科师生优秀作品展",
+      "detail": "2025年供稿附件2第62项，赛事系数 1.5。",
+      "source": "./guohao-2025.txt",
+      "sourceLabel": "供稿附件2整理本"
+    },
+    {
+      "id": "gh-63",
+      "college": "gh",
+      "title": "中美青年创客大赛",
+      "detail": "2025年供稿附件2第63项，赛事系数 1.5。",
+      "source": "./guohao-2025.txt",
+      "sourceLabel": "供稿附件2整理本"
+    },
+    {
+      "id": "gh-64",
+      "college": "gh",
+      "title": "中国好创意暨全国数字艺术设计大赛",
+      "detail": "2025年供稿附件2第64项，赛事系数 1.5。",
+      "source": "./guohao-2025.txt",
+      "sourceLabel": "供稿附件2整理本"
+    },
+    {
+      "id": "gh-65",
+      "college": "gh",
+      "title": "全国大学生工业设计大赛",
+      "detail": "2025年供稿附件2第65项，赛事系数 1.5。",
+      "source": "./guohao-2025.txt",
+      "sourceLabel": "供稿附件2整理本"
+    },
+    {
+      "id": "gh-66",
+      "college": "gh",
+      "title": "全国大学生节能减排社会实践与科技竞赛",
+      "detail": "2025年供稿附件2第66项，赛事系数 1.5。",
+      "source": "./guohao-2025.txt",
+      "sourceLabel": "供稿附件2整理本"
+    },
+    {
+      "id": "gh-67",
+      "college": "gh",
+      "title": "全国大学生能源经济学术创意大赛",
+      "detail": "2025年供稿附件2第67项，赛事系数 1.5。",
+      "source": "./guohao-2025.txt",
+      "sourceLabel": "供稿附件2整理本"
+    },
+    {
+      "id": "gh-68",
+      "college": "gh",
+      "title": "全国大学生水利创新设计大赛",
+      "detail": "2025年供稿附件2第68项，赛事系数 1.5。",
+      "source": "./guohao-2025.txt",
+      "sourceLabel": "供稿附件2整理本"
+    },
+    {
+      "id": "gh-69",
+      "college": "gh",
+      "title": "全国数字建筑创新应用大赛",
+      "detail": "2025年供稿附件2第69项，赛事系数 1.5。",
+      "source": "./guohao-2025.txt",
+      "sourceLabel": "供稿附件2整理本"
+    },
+    {
+      "id": "gh-70",
+      "college": "gh",
+      "title": "全国大学生花园设计建造竞赛",
+      "detail": "2025年供稿附件2第70项，赛事系数 1.5。",
+      "source": "./guohao-2025.txt",
+      "sourceLabel": "供稿附件2整理本"
+    },
+    {
+      "id": "gh-71",
+      "college": "gh",
+      "title": "全国大学生结构设计竞赛",
+      "detail": "2025年供稿附件2第71项，赛事系数 1.5。",
+      "source": "./guohao-2025.txt",
+      "sourceLabel": "供稿附件2整理本"
+    },
+    {
+      "id": "gh-72",
+      "college": "gh",
+      "title": "全国高校 BIM 毕业设计创新大赛",
+      "detail": "2025年供稿附件2第72项，赛事系数 1.5。",
+      "source": "./guohao-2025.txt",
+      "sourceLabel": "供稿附件2整理本"
+    },
+    {
+      "id": "gh-73",
+      "college": "gh",
+      "title": "全国大学生测绘学科创新创业智能大赛（测绘技能竞赛、开发设计竞赛和科技论文竞赛）",
+      "detail": "2025年供稿附件2第73项，赛事系数 1.5。",
+      "source": "./guohao-2025.txt",
+      "sourceLabel": "供稿附件2整理本"
+    },
+    {
+      "id": "rail-3",
+      "college": "rail",
+      "title": "“挑战杯”全国大学生课外学术科技作品竞赛",
+      "detail": "本科生奖学金评定实施细则，附件四参考列表第 3 项。"
+    },
+    {
+      "id": "rail-4",
+      "college": "rail",
+      "title": "“挑战杯”中国大学生创业计划竞赛",
+      "detail": "本科生奖学金评定实施细则，附件四参考列表第 4 项。"
+    },
+    {
+      "id": "rail-7",
+      "college": "rail",
+      "title": "中美青年创客大赛",
+      "detail": "本科生奖学金评定实施细则，附件四参考列表第 7 项。"
+    },
+    {
+      "id": "rail-16",
+      "college": "rail",
+      "title": "全国周培源大学生力学竞赛",
+      "detail": "本科生奖学金评定实施细则，附件四参考列表第 16 项。"
+    },
+    {
+      "id": "rail-18",
+      "college": "rail",
+      "title": "全国大学生交通运输科技大赛",
+      "detail": "本科生奖学金评定实施细则，附件四参考列表第 18 项。"
+    },
+    {
+      "id": "rail-19",
+      "college": "rail",
+      "title": "全国大学生物流设计大赛",
+      "detail": "本科生奖学金评定实施细则，附件四参考列表第 19 项。"
+    },
+    {
+      "id": "rail-20",
+      "college": "rail",
+      "title": "全国高校智能交通创新与创业大赛",
+      "detail": "本科生奖学金评定实施细则，附件四参考列表第 20 项。"
+    },
+    {
+      "id": "rail-25",
+      "college": "rail",
+      "title": "世界大学生桥梁设计大赛",
+      "detail": "本科生奖学金评定实施细则，附件四参考列表第 25 项。"
+    },
+    {
+      "id": "rail-27",
+      "college": "rail",
+      "title": "全国大学生结构设计竞赛",
+      "detail": "本科生奖学金评定实施细则，附件四参考列表第 27 项。"
+    },
+    {
+      "id": "rail-28",
+      "college": "rail",
+      "title": "全国大学生水利创新设计大赛",
+      "detail": "本科生奖学金评定实施细则，附件四参考列表第 28 项。"
+    },
+    {
+      "id": "rail-33",
+      "college": "rail",
+      "title": "全国大学生光电设计竞赛",
+      "detail": "本科生奖学金评定实施细则，附件四参考列表第 33 项。"
+    },
+    {
+      "id": "rail-34",
+      "college": "rail",
+      "title": "全国大学生物理实验竞赛",
+      "detail": "本科生奖学金评定实施细则，附件四参考列表第 34 项。"
+    },
+    {
+      "id": "rail-36",
+      "college": "rail",
+      "title": "中国大学生物理学术竞赛",
+      "detail": "本科生奖学金评定实施细则，附件四参考列表第 36 项。"
+    },
+    {
+      "id": "rail-37",
+      "college": "rail",
+      "title": "国际遗传工程机器设计大赛（iGEM）",
+      "detail": "本科生奖学金评定实施细则，附件四参考列表第 37 项。"
+    },
+    {
+      "id": "rail-38",
+      "college": "rail",
+      "title": "全国大学生生命科学竞赛",
+      "detail": "本科生奖学金评定实施细则，附件四参考列表第 38 项。"
+    },
+    {
+      "id": "chem-1",
+      "college": "chem",
+      "title": "中国国际大学生创新大赛（原“互联网+”）",
+      "detail": "参见办法“竞赛获奖类”中的科技竞赛及团队排序规定。",
+      "source": "https://chemweb.tongji.edu.cn/huaxuekexueyugongchengxueyuanbenkeshengjiangxuepingyouzonghepingdingbanfafujian1.pdf",
+      "sourceLabel": "学院本科生奖学评优综合评定办法"
+    },
+    {
+      "id": "chem-2",
+      "college": "chem",
+      "title": "“挑战杯”",
+      "detail": "参见办法“竞赛获奖类”中的科技竞赛及团队排序规定。",
+      "source": "https://chemweb.tongji.edu.cn/huaxuekexueyugongchengxueyuanbenkeshengjiangxuepingyouzonghepingdingbanfafujian1.pdf",
+      "sourceLabel": "学院本科生奖学评优综合评定办法"
+    },
+    {
+      "id": "chem-3",
+      "college": "chem",
+      "title": "全国大学生艺术展演（非专业组艺术表演类）",
+      "detail": "限校团委认定的相应类别，见学院办法所列条件。",
+      "source": "https://chemweb.tongji.edu.cn/huaxuekexueyugongchengxueyuanbenkeshengjiangxuepingyouzonghepingdingbanfafujian1.pdf",
+      "sourceLabel": "学院本科生奖学评优综合评定办法"
+    },
+    {
+      "id": "chem-4",
+      "college": "chem",
+      "title": "全国大学生体育类单项锦标赛（非高水平运动员）",
+      "detail": "限校团委认定的相应类别，见学院办法所列条件。",
+      "source": "https://chemweb.tongji.edu.cn/huaxuekexueyugongchengxueyuanbenkeshengjiangxuepingyouzonghepingdingbanfafujian1.pdf",
+      "sourceLabel": "学院本科生奖学评优综合评定办法"
+    },
+    {
+      "id": "math-cmc",
+      "title": "全国大学生数学竞赛",
+      "college": "math",
+      "detail": "数学 A 组全国决赛一、二等奖分别计 6.0、4.0 分；上海赛区一等奖及以上计 1.5 分，二等奖计 0.8 分。",
+      "source": "https://math.tongji.edu.cn/info/1028/13377.htm",
+      "sourceLabel": "数学院本科生奖学金细则（2026 年修订），文件第 8 页"
+    },
+    {
+      "id": "math-yau",
+      "title": "丘成桐大学生数学竞赛",
+      "college": "math",
+      "detail": "个人赛进入决赛并获奖计 6.0 分，进入决赛计 4.0 分，优胜奖计 3.0 分。团体赛进入决赛并获奖计 4.0 分，进入决赛计 3.0 分。",
+      "source": "https://math.tongji.edu.cn/info/1028/13377.htm",
+      "sourceLabel": "数学院本科生奖学金细则（2026 年修订），文件第 8 页"
+    },
+    {
+      "id": "math-tjcm",
+      "title": "同济大学数学竞赛",
+      "college": "math",
+      "detail": "获二等奖及以上计 0.4 分。",
+      "source": "https://math.tongji.edu.cn/info/1028/13377.htm",
+      "sourceLabel": "数学院本科生奖学金细则（2026 年修订），文件第 8 页"
+    },
+    {
+      "id": "math-sas",
+      "title": "中国高校 SAS 大赛",
+      "college": "math",
+      "detail": "决赛前十计 1.2 分，前二十计 0.6 分。",
+      "source": "https://math.tongji.edu.cn/info/1028/13377.htm",
+      "sourceLabel": "数学院本科生奖学金细则（2026 年修订），文件第 8 页"
+    },
+    {
+      "id": "math-shenzhen",
+      "title": "深圳杯数学建模挑战赛",
+      "college": "math",
+      "detail": "获优秀论文奖计 0.8 分。",
+      "source": "https://math.tongji.edu.cn/info/1028/13377.htm",
+      "sourceLabel": "数学院本科生奖学金细则（2026 年修订），文件第 8 页"
+    },
+    {
+      "id": "math-stats",
+      "title": "全国大学生统计建模大赛",
+      "college": "math",
+      "detail": "获国家级奖计 1.2 分。上海赛区一、二等奖分别计 0.6、0.3 分。",
+      "source": "https://math.tongji.edu.cn/info/1028/13377.htm",
+      "sourceLabel": "数学院本科生奖学金细则（2026 年修订），文件第 8 页"
+    },
+    {
+      "id": "math-cumcm",
+      "title": "全国大学生数学建模竞赛",
+      "college": "math",
+      "detail": "获国家级奖计 1.2 分。上海赛区一、二等奖分别计 0.6、0.3 分。",
+      "source": "https://math.tongji.edu.cn/info/1028/13377.htm",
+      "sourceLabel": "数学院本科生奖学金细则（2026 年修订），文件第 8 页"
+    },
+    {
+      "id": "math-tjmodel",
+      "title": "同济大学数学建模竞赛",
+      "college": "math",
+      "detail": "获二等奖及以上计 0.2 分。",
+      "source": "https://math.tongji.edu.cn/info/1028/13377.htm",
+      "sourceLabel": "数学院本科生奖学金细则（2026 年修订），文件第 8 页"
+    },
+    {
+      "id": "math-mcm",
+      "title": "美国大学生数学建模竞赛",
+      "college": "math",
+      "detail": "获 M 奖及以上计 0.4 分。",
+      "source": "https://math.tongji.edu.cn/info/1028/13377.htm",
+      "sourceLabel": "数学院本科生奖学金细则（2026 年修订），文件第 8 页"
+    },
+    {
+      "id": "di-a1",
+      "title": "中国国际大学生创新大赛",
+      "college": "di",
+      "detail": "本科生奖学金参考类目「学科竞赛、社会实践与文体竞赛」第 1 项。",
+      "source": "https://student-tjdi.tongji.edu.cn/file.do?id=3023",
+      "sourceLabel": "学院常见竞赛类目参考"
+    },
+    {
+      "id": "di-a2",
+      "title": "“挑战杯”全国大学生课外学术科技作品竞赛",
+      "college": "di",
+      "detail": "本科生奖学金参考类目「学科竞赛、社会实践与文体竞赛」第 2 项。",
+      "source": "https://student-tjdi.tongji.edu.cn/file.do?id=3023",
+      "sourceLabel": "学院常见竞赛类目参考"
+    },
+    {
+      "id": "di-a3",
+      "title": "“挑战杯”中国大学生创业计划大赛",
+      "college": "di",
+      "detail": "本科生奖学金参考类目「学科竞赛、社会实践与文体竞赛」第 3 项。",
+      "source": "https://student-tjdi.tongji.edu.cn/file.do?id=3023",
+      "sourceLabel": "学院常见竞赛类目参考"
+    },
+    {
+      "id": "di-a4",
+      "title": "全国大学生创新体验竞赛",
+      "college": "di",
+      "detail": "本科生奖学金参考类目「学科竞赛、社会实践与文体竞赛」第 4 项。",
+      "source": "https://student-tjdi.tongji.edu.cn/file.do?id=3023",
+      "sourceLabel": "学院常见竞赛类目参考"
+    },
+    {
+      "id": "di-a5",
+      "title": "全国大学生工业设计大赛",
+      "college": "di",
+      "detail": "本科生奖学金参考类目「学科竞赛、社会实践与文体竞赛」第 5 项。",
+      "source": "https://student-tjdi.tongji.edu.cn/file.do?id=3023",
+      "sourceLabel": "学院常见竞赛类目参考"
+    },
+    {
+      "id": "di-a6",
+      "title": "全国大学生机器人大赛",
+      "college": "di",
+      "detail": "本科生奖学金参考类目「学科竞赛、社会实践与文体竞赛」第 6 项。",
+      "source": "https://student-tjdi.tongji.edu.cn/file.do?id=3023",
+      "sourceLabel": "学院常见竞赛类目参考"
+    },
+    {
+      "id": "di-a7",
+      "title": "全国大学生结构设计竞赛",
+      "college": "di",
+      "detail": "本科生奖学金参考类目「学科竞赛、社会实践与文体竞赛」第 7 项。",
+      "source": "https://student-tjdi.tongji.edu.cn/file.do?id=3023",
+      "sourceLabel": "学院常见竞赛类目参考"
+    },
+    {
+      "id": "di-a8",
+      "title": "中国大学生/高校计算机设计大赛",
+      "college": "di",
+      "detail": "本科生奖学金参考类目「学科竞赛、社会实践与文体竞赛」第 8 项。",
+      "source": "https://student-tjdi.tongji.edu.cn/file.do?id=3023",
+      "sourceLabel": "学院常见竞赛类目参考"
+    },
+    {
+      "id": "di-a9",
+      "title": "全国大学生数字媒体科技作品及创意竞赛",
+      "college": "di",
+      "detail": "本科生奖学金参考类目「学科竞赛、社会实践与文体竞赛」第 9 项。",
+      "source": "https://student-tjdi.tongji.edu.cn/file.do?id=3023",
+      "sourceLabel": "学院常见竞赛类目参考"
+    },
+    {
+      "id": "di-a10",
+      "title": "全国大学生广告艺术大赛",
+      "college": "di",
+      "detail": "本科生奖学金参考类目「学科竞赛、社会实践与文体竞赛」第 10 项。",
+      "source": "https://student-tjdi.tongji.edu.cn/file.do?id=3023",
+      "sourceLabel": "学院常见竞赛类目参考"
+    },
+    {
+      "id": "di-a11",
+      "title": "全国大学生信息安全与对抗技术竞赛",
+      "college": "di",
+      "detail": "本科生奖学金参考类目「学科竞赛、社会实践与文体竞赛」第 11 项。",
+      "source": "https://student-tjdi.tongji.edu.cn/file.do?id=3023",
+      "sourceLabel": "学院常见竞赛类目参考"
+    },
+    {
+      "id": "di-a12",
+      "title": "全国大学生市场调查与分析大赛",
+      "college": "di",
+      "detail": "本科生奖学金参考类目「学科竞赛、社会实践与文体竞赛」第 12 项。",
+      "source": "https://student-tjdi.tongji.edu.cn/file.do?id=3023",
+      "sourceLabel": "学院常见竞赛类目参考"
+    },
+    {
+      "id": "di-a13",
+      "title": "全国三维数字化创新设计大赛",
+      "college": "di",
+      "detail": "本科生奖学金参考类目「学科竞赛、社会实践与文体竞赛」第 13 项。",
+      "source": "https://student-tjdi.tongji.edu.cn/file.do?id=3023",
+      "sourceLabel": "学院常见竞赛类目参考"
+    },
+    {
+      "id": "di-a14",
+      "title": "全国企业竞争模拟大赛",
+      "college": "di",
+      "detail": "本科生奖学金参考类目「学科竞赛、社会实践与文体竞赛」第 14 项。",
+      "source": "https://student-tjdi.tongji.edu.cn/file.do?id=3023",
+      "sourceLabel": "学院常见竞赛类目参考"
+    },
+    {
+      "id": "di-a15",
+      "title": "中美青年创客大赛",
+      "college": "di",
+      "detail": "本科生奖学金参考类目「学科竞赛、社会实践与文体竞赛」第 15 项。",
+      "source": "https://student-tjdi.tongji.edu.cn/file.do?id=3023",
+      "sourceLabel": "学院常见竞赛类目参考"
+    },
+    {
+      "id": "di-a16",
+      "title": "iCAN大学生创新创业大赛",
+      "college": "di",
+      "detail": "本科生奖学金参考类目「学科竞赛、社会实践与文体竞赛」第 16 项。",
+      "source": "https://student-tjdi.tongji.edu.cn/file.do?id=3023",
+      "sourceLabel": "学院常见竞赛类目参考"
+    },
+    {
+      "id": "di-a17",
+      "title": "米兰设计周：中国高校设计学科师生优秀作品展",
+      "college": "di",
+      "detail": "本科生奖学金参考类目「学科竞赛、社会实践与文体竞赛」第 17 项。",
+      "source": "https://student-tjdi.tongji.edu.cn/file.do?id=3023",
+      "sourceLabel": "学院常见竞赛类目参考"
+    },
+    {
+      "id": "di-a18",
+      "title": "中国好创意暨全国数字艺术设计大赛",
+      "college": "di",
+      "detail": "本科生奖学金参考类目「学科竞赛、社会实践与文体竞赛」第 18 项。",
+      "source": "https://student-tjdi.tongji.edu.cn/file.do?id=3023",
+      "sourceLabel": "学院常见竞赛类目参考"
+    },
+    {
+      "id": "di-a19",
+      "title": "未来设计师·中国高校数字艺术设计大赛",
+      "college": "di",
+      "detail": "本科生奖学金参考类目「学科竞赛、社会实践与文体竞赛」第 19 项。",
+      "source": "https://student-tjdi.tongji.edu.cn/file.do?id=3023",
+      "sourceLabel": "学院常见竞赛类目参考"
+    },
+    {
+      "id": "di-a20",
+      "title": "两岸新锐设计竞赛“华灿奖”",
+      "college": "di",
+      "detail": "本科生奖学金参考类目「学科竞赛、社会实践与文体竞赛」第 20 项。",
+      "source": "https://student-tjdi.tongji.edu.cn/file.do?id=3023",
+      "sourceLabel": "学院常见竞赛类目参考"
+    },
+    {
+      "id": "di-a21",
+      "title": "睿抗机器人开发者大赛（RAICOM）",
+      "college": "di",
+      "detail": "本科生奖学金参考类目「学科竞赛、社会实践与文体竞赛」第 21 项。",
+      "source": "https://student-tjdi.tongji.edu.cn/file.do?id=3023",
+      "sourceLabel": "学院常见竞赛类目参考"
+    },
+    {
+      "id": "di-a22",
+      "title": "中国机器人大赛暨RoboCup机器人世界杯中国赛",
+      "college": "di",
+      "detail": "本科生奖学金参考类目「学科竞赛、社会实践与文体竞赛」第 22 项。",
+      "source": "https://student-tjdi.tongji.edu.cn/file.do?id=3023",
+      "sourceLabel": "学院常见竞赛类目参考"
+    },
+    {
+      "id": "di-a23",
+      "title": "蓝桥杯全国软件和信息技术专业人才大赛",
+      "college": "di",
+      "detail": "本科生奖学金参考类目「学科竞赛、社会实践与文体竞赛」第 23 项。",
+      "source": "https://student-tjdi.tongji.edu.cn/file.do?id=3023",
+      "sourceLabel": "学院常见竞赛类目参考"
+    },
+    {
+      "id": "di-a24",
+      "title": "外研社全国大学生英语系列赛",
+      "college": "di",
+      "detail": "本科生奖学金参考类目「学科竞赛、社会实践与文体竞赛」第 24 项。",
+      "source": "https://student-tjdi.tongji.edu.cn/file.do?id=3023",
+      "sourceLabel": "学院常见竞赛类目参考"
+    },
+    {
+      "id": "di-a25",
+      "title": "“21世纪杯”全国英语演讲比赛",
+      "college": "di",
+      "detail": "本科生奖学金参考类目「学科竞赛、社会实践与文体竞赛」第 25 项。",
+      "source": "https://student-tjdi.tongji.edu.cn/file.do?id=3023",
+      "sourceLabel": "学院常见竞赛类目参考"
+    },
+    {
+      "id": "di-a26",
+      "title": "中华经典诵写讲大赛",
+      "college": "di",
+      "detail": "本科生奖学金参考类目「学科竞赛、社会实践与文体竞赛」第 26 项。",
+      "source": "https://student-tjdi.tongji.edu.cn/file.do?id=3023",
+      "sourceLabel": "学院常见竞赛类目参考"
+    },
+    {
+      "id": "di-a27",
+      "title": "“知行杯”上海市大学生社会实践大赛",
+      "college": "di",
+      "detail": "本科生奖学金参考类目「学科竞赛、社会实践与文体竞赛」第 27 项。",
+      "source": "https://student-tjdi.tongji.edu.cn/file.do?id=3023",
+      "sourceLabel": "学院常见竞赛类目参考"
+    },
+    {
+      "id": "di-a28",
+      "title": "全国高校大学生讲思政课公开课展示活动",
+      "college": "di",
+      "detail": "本科生奖学金参考类目「学科竞赛、社会实践与文体竞赛」第 28 项。",
+      "source": "https://student-tjdi.tongji.edu.cn/file.do?id=3023",
+      "sourceLabel": "学院常见竞赛类目参考"
+    },
+    {
+      "id": "di-a29",
+      "title": "同济大学“使命与担当”社会实践与创新竞赛",
+      "college": "di",
+      "detail": "本科生奖学金参考类目「学科竞赛、社会实践与文体竞赛」第 29 项。",
+      "source": "https://student-tjdi.tongji.edu.cn/file.do?id=3023",
+      "sourceLabel": "学院常见竞赛类目参考"
+    },
+    {
+      "id": "di-a30",
+      "title": "同济大学运动会",
+      "college": "di",
+      "detail": "本科生奖学金参考类目「学科竞赛、社会实践与文体竞赛」第 30 项。",
+      "source": "https://student-tjdi.tongji.edu.cn/file.do?id=3023",
+      "sourceLabel": "学院常见竞赛类目参考"
+    },
+    {
+      "id": "di-d1",
+      "title": "A' Design Award",
+      "college": "di",
+      "detail": "本科生奖学金参考类目「设计竞赛」第 1 项。",
+      "source": "https://student-tjdi.tongji.edu.cn/file.do?id=3023",
+      "sourceLabel": "学院常见竞赛类目参考"
+    },
+    {
+      "id": "di-d2",
+      "title": "德国 iF 设计奖",
+      "college": "di",
+      "detail": "本科生奖学金参考类目「设计竞赛」第 2 项。",
+      "source": "https://student-tjdi.tongji.edu.cn/file.do?id=3023",
+      "sourceLabel": "学院常见竞赛类目参考"
+    },
+    {
+      "id": "di-d3",
+      "title": "德国红点设计奖",
+      "college": "di",
+      "detail": "本科生奖学金参考类目「设计竞赛」第 3 项。",
+      "source": "https://student-tjdi.tongji.edu.cn/file.do?id=3023",
+      "sourceLabel": "学院常见竞赛类目参考"
+    },
+    {
+      "id": "di-d4",
+      "title": "日本 G-MARK 设计奖",
+      "college": "di",
+      "detail": "本科生奖学金参考类目「设计竞赛」第 4 项。",
+      "source": "https://student-tjdi.tongji.edu.cn/file.do?id=3023",
+      "sourceLabel": "学院常见竞赛类目参考"
+    },
+    {
+      "id": "di-d5",
+      "title": "美国 IDEA 工业设计优秀奖",
+      "college": "di",
+      "detail": "本科生奖学金参考类目「设计竞赛」第 5 项。",
+      "source": "https://student-tjdi.tongji.edu.cn/file.do?id=3023",
+      "sourceLabel": "学院常见竞赛类目参考"
+    },
+    {
+      "id": "di-d6",
+      "title": "英国 G-CROSS 创意奖",
+      "college": "di",
+      "detail": "本科生奖学金参考类目「设计竞赛」第 6 项。",
+      "source": "https://student-tjdi.tongji.edu.cn/file.do?id=3023",
+      "sourceLabel": "学院常见竞赛类目参考"
+    },
+    {
+      "id": "di-d7",
+      "title": "IDC Awards 国际设计师俱乐部奖",
+      "college": "di",
+      "detail": "本科生奖学金参考类目「设计竞赛」第 7 项。",
+      "source": "https://student-tjdi.tongji.edu.cn/file.do?id=3023",
+      "sourceLabel": "学院常见竞赛类目参考"
+    },
+    {
+      "id": "di-d8",
+      "title": "英国 DBA 设计大奖",
+      "college": "di",
+      "detail": "本科生奖学金参考类目「设计竞赛」第 8 项。",
+      "source": "https://student-tjdi.tongji.edu.cn/file.do?id=3023",
+      "sourceLabel": "学院常见竞赛类目参考"
+    },
+    {
+      "id": "di-d9",
+      "title": "美国新概念设计艺术大赛",
+      "college": "di",
+      "detail": "本科生奖学金参考类目「设计竞赛」第 9 项。",
+      "source": "https://student-tjdi.tongji.edu.cn/file.do?id=3023",
+      "sourceLabel": "学院常见竞赛类目参考"
+    },
+    {
+      "id": "di-d10",
+      "title": "戴森设计大奖",
+      "college": "di",
+      "detail": "本科生奖学金参考类目「设计竞赛」第 10 项。",
+      "source": "https://student-tjdi.tongji.edu.cn/file.do?id=3023",
+      "sourceLabel": "学院常见竞赛类目参考"
+    },
+    {
+      "id": "di-d11",
+      "title": "香港数字艺术设计大赛",
+      "college": "di",
+      "detail": "本科生奖学金参考类目「设计竞赛」第 11 项。",
+      "source": "https://student-tjdi.tongji.edu.cn/file.do?id=3023",
+      "sourceLabel": "学院常见竞赛类目参考"
+    },
+    {
+      "id": "di-d12",
+      "title": "新加坡金沙艺术设计大赛",
+      "college": "di",
+      "detail": "本科生奖学金参考类目「设计竞赛」第 12 项。",
+      "source": "https://student-tjdi.tongji.edu.cn/file.do?id=3023",
+      "sourceLabel": "学院常见竞赛类目参考"
+    },
+    {
+      "id": "di-d13",
+      "title": "深圳环球设计大奖（SDA）",
+      "college": "di",
+      "detail": "本科生奖学金参考类目「设计竞赛」第 13 项。",
+      "source": "https://student-tjdi.tongji.edu.cn/file.do?id=3023",
+      "sourceLabel": "学院常见竞赛类目参考"
+    },
+    {
+      "id": "di-d14",
+      "title": "ICAD 国际当代青年美术设计大赛",
+      "college": "di",
+      "detail": "本科生奖学金参考类目「设计竞赛」第 14 项。",
+      "source": "https://student-tjdi.tongji.edu.cn/file.do?id=3023",
+      "sourceLabel": "学院常见竞赛类目参考"
+    },
+    {
+      "id": "di-d15",
+      "title": "亚洲 IP 设计大赛",
+      "college": "di",
+      "detail": "本科生奖学金参考类目「设计竞赛」第 15 项。",
+      "source": "https://student-tjdi.tongji.edu.cn/file.do?id=3023",
+      "sourceLabel": "学院常见竞赛类目参考"
+    },
+    {
+      "id": "di-d16",
+      "title": "全球华人艺术设计奖（art-D Award）",
+      "college": "di",
+      "detail": "本科生奖学金参考类目「设计竞赛」第 16 项。",
+      "source": "https://student-tjdi.tongji.edu.cn/file.do?id=3023",
+      "sourceLabel": "学院常见竞赛类目参考"
+    },
+    {
+      "id": "di-d17",
+      "title": "“汇创青春”上海市大学生文化创意作品展",
+      "college": "di",
+      "detail": "本科生奖学金参考类目「设计竞赛」第 17 项。",
+      "source": "https://student-tjdi.tongji.edu.cn/file.do?id=3023",
+      "sourceLabel": "学院常见竞赛类目参考"
+    },
+    {
+      "id": "di-d18",
+      "title": "海峡两岸青少年创客大赛",
+      "college": "di",
+      "detail": "本科生奖学金参考类目「设计竞赛」第 18 项。",
+      "source": "https://student-tjdi.tongji.edu.cn/file.do?id=3023",
+      "sourceLabel": "学院常见竞赛类目参考"
+    },
+    {
+      "id": "di-d19",
+      "title": "中国创新设计红星奖",
+      "college": "di",
+      "detail": "本科生奖学金参考类目「设计竞赛」第 19 项。",
+      "source": "https://student-tjdi.tongji.edu.cn/file.do?id=3023",
+      "sourceLabel": "学院常见竞赛类目参考"
+    },
+    {
+      "id": "di-d20",
+      "title": "东方设计奖·全国高校创新设计大赛",
+      "college": "di",
+      "detail": "本科生奖学金参考类目「设计竞赛」第 20 项。",
+      "source": "https://student-tjdi.tongji.edu.cn/file.do?id=3023",
+      "sourceLabel": "学院常见竞赛类目参考"
+    },
+    {
+      "id": "di-d21",
+      "title": "华夏奖文化艺术设计大赛",
+      "college": "di",
+      "detail": "本科生奖学金参考类目「设计竞赛」第 21 项。",
+      "source": "https://student-tjdi.tongji.edu.cn/file.do?id=3023",
+      "sourceLabel": "学院常见竞赛类目参考"
+    },
+    {
+      "id": "di-d22",
+      "title": "中国金点工业设计奖",
+      "college": "di",
+      "detail": "本科生奖学金参考类目「设计竞赛」第 22 项。",
+      "source": "https://student-tjdi.tongji.edu.cn/file.do?id=3023",
+      "sourceLabel": "学院常见竞赛类目参考"
+    },
+    {
+      "id": "di-d23",
+      "title": "金芦苇工业设计奖",
+      "college": "di",
+      "detail": "本科生奖学金参考类目「设计竞赛」第 23 项。",
+      "source": "https://student-tjdi.tongji.edu.cn/file.do?id=3023",
+      "sourceLabel": "学院常见竞赛类目参考"
+    },
+    {
+      "id": "di-d24",
+      "title": "国际用户体验创新大赛",
+      "college": "di",
+      "detail": "本科生奖学金参考类目「设计竞赛」第 24 项。",
+      "source": "https://student-tjdi.tongji.edu.cn/file.do?id=3023",
+      "sourceLabel": "学院常见竞赛类目参考"
+    },
+    {
+      "id": "di-d25",
+      "title": "人居环境设计学年奖",
+      "college": "di",
+      "detail": "本科生奖学金参考类目「设计竞赛」第 25 项。",
+      "source": "https://student-tjdi.tongji.edu.cn/file.do?id=3023",
+      "sourceLabel": "学院常见竞赛类目参考"
+    },
+    {
+      "id": "di-d26",
+      "title": "园冶杯大学生国际竞赛",
+      "college": "di",
+      "detail": "本科生奖学金参考类目「设计竞赛」第 26 项。",
+      "source": "https://student-tjdi.tongji.edu.cn/file.do?id=3023",
+      "sourceLabel": "学院常见竞赛类目参考"
+    },
+    {
+      "id": "di-d27",
+      "title": "长三角网络安全海报设计竞赛",
+      "college": "di",
+      "detail": "本科生奖学金参考类目「设计竞赛」第 27 项。",
+      "source": "https://student-tjdi.tongji.edu.cn/file.do?id=3023",
+      "sourceLabel": "学院常见竞赛类目参考"
+    },
+    {
+      "id": "di-d28",
+      "title": "河北省园林绿化设计竞赛",
+      "college": "di",
+      "detail": "本科生奖学金参考类目「设计竞赛」第 28 项。",
+      "source": "https://student-tjdi.tongji.edu.cn/file.do?id=3023",
+      "sourceLabel": "学院常见竞赛类目参考"
+    },
+    {
+      "id": "di-d29",
+      "title": "上汽设计国际挑战赛",
+      "college": "di",
+      "detail": "本科生奖学金参考类目「设计竞赛」第 29 项。",
+      "source": "https://student-tjdi.tongji.edu.cn/file.do?id=3023",
+      "sourceLabel": "学院常见竞赛类目参考"
+    },
+    {
+      "id": "di-d30",
+      "title": "索尼中国大学生创想大赛",
+      "college": "di",
+      "detail": "本科生奖学金参考类目「设计竞赛」第 30 项。",
+      "source": "https://student-tjdi.tongji.edu.cn/file.do?id=3023",
+      "sourceLabel": "学院常见竞赛类目参考"
+    },
+    {
+      "id": "caup-u",
+      "title": "UIA 世界大学生建筑设计竞赛",
+      "college": "caup",
+      "detail": "2026 年研究生奖学金竞赛目录：建筑 A1，国际级。",
+      "source": "https://caup.tongji.edu.cn/_upload/article/files/9e/d4/7455d8744ab7aa1547ec7d9b01b3/53e5558f-c7f8-4ec7-8adb-7b822971d193.pdf",
+      "sourceLabel": "研究生奖学金竞赛目录（2026）"
+    },
+    {
+      "id": "caup-h",
+      "title": "霍普杯国际大学生建筑设计竞赛",
+      "college": "caup",
+      "detail": "2026 年研究生奖学金竞赛目录：建筑 B3，国家级。",
+      "source": "https://caup.tongji.edu.cn/_upload/article/files/9e/d4/7455d8744ab7aa1547ec7d9b01b3/53e5558f-c7f8-4ec7-8adb-7b822971d193.pdf",
+      "sourceLabel": "研究生奖学金竞赛目录（2026）"
+    },
+    {
+      "id": "caup-s",
+      "title": "圣戈班建筑学生竞赛",
+      "college": "caup",
+      "detail": "2026 年研究生奖学金竞赛目录：建筑 A11（国际赛段）、B7（国内赛段），不重复加分。",
+      "source": "https://caup.tongji.edu.cn/_upload/article/files/9e/d4/7455d8744ab7aa1547ec7d9b01b3/53e5558f-c7f8-4ec7-8adb-7b822971d193.pdf",
+      "sourceLabel": "研究生奖学金竞赛目录（2026）"
+    },
+    {
+      "id": "caup-b",
+      "title": "“中联杯”全国大学生建筑设计竞赛",
+      "college": "caup",
+      "detail": "2026 年研究生奖学金竞赛目录：建筑 B1，国家级。",
+      "source": "https://caup.tongji.edu.cn/_upload/article/files/9e/d4/7455d8744ab7aa1547ec7d9b01b3/53e5558f-c7f8-4ec7-8adb-7b822971d193.pdf",
+      "sourceLabel": "研究生奖学金竞赛目录（2026）"
+    },
+    {
+      "id": "caup-city",
+      "title": "全国大学生国土空间规划设计竞赛",
+      "college": "caup",
+      "detail": "2026 年研究生奖学金竞赛目录：规划 B3，国家级。",
+      "source": "https://caup.tongji.edu.cn/_upload/article/files/9e/d4/7455d8744ab7aa1547ec7d9b01b3/53e5558f-c7f8-4ec7-8adb-7b822971d193.pdf",
+      "sourceLabel": "研究生奖学金竞赛目录（2026）"
+    },
+    {
+      "id": "caup-rural",
+      "title": "全国高等院校大学生乡村规划方案竞赛",
+      "college": "caup",
+      "detail": "2026 年研究生奖学金竞赛目录：规划 B2，国家级。",
+      "source": "https://caup.tongji.edu.cn/_upload/article/files/9e/d4/7455d8744ab7aa1547ec7d9b01b3/53e5558f-c7f8-4ec7-8adb-7b822971d193.pdf",
+      "sourceLabel": "研究生奖学金竞赛目录（2026）"
+    },
+    {
+      "id": "caup-ifla",
+      "title": "IFLA 国际学生竞赛",
+      "college": "caup",
+      "detail": "2026 年研究生奖学金竞赛目录：景观 A1，国际级。",
+      "source": "https://caup.tongji.edu.cn/_upload/article/files/9e/d4/7455d8744ab7aa1547ec7d9b01b3/53e5558f-c7f8-4ec7-8adb-7b822971d193.pdf",
+      "sourceLabel": "研究生奖学金竞赛目录（2026）"
+    },
+    {
+      "id": "caup-land",
+      "title": "中国风景园林学会大学生设计竞赛",
+      "college": "caup",
+      "detail": "2026 年研究生奖学金竞赛目录：景观 B1，国家级。",
+      "source": "https://caup.tongji.edu.cn/_upload/article/files/9e/d4/7455d8744ab7aa1547ec7d9b01b3/53e5558f-c7f8-4ec7-8adb-7b822971d193.pdf",
+      "sourceLabel": "研究生奖学金竞赛目录（2026）"
+    },
+    {
+      "id": "caup-hvac",
+      "title": "全国暖通空调学生科技竞赛",
+      "college": "caup",
+      "detail": "2026 年研究生奖学金竞赛目录：暖通 B3，国家级。",
+      "source": "https://caup.tongji.edu.cn/_upload/article/files/9e/d4/7455d8744ab7aa1547ec7d9b01b3/53e5558f-c7f8-4ec7-8adb-7b822971d193.pdf",
+      "sourceLabel": "研究生奖学金竞赛目录（2026）"
+    },
+    {
+      "id": "caup-energy",
+      "title": "全国大学生节能减排社会实践与科技竞赛",
+      "college": "caup",
+      "detail": "2026 年研究生奖学金竞赛目录：暖通 B2，国家级。",
+      "source": "https://caup.tongji.edu.cn/_upload/article/files/9e/d4/7455d8744ab7aa1547ec7d9b01b3/53e5558f-c7f8-4ec7-8adb-7b822971d193.pdf",
+      "sourceLabel": "研究生奖学金竞赛目录（2026）"
+    },
+    {
+      "id": "caup-model",
+      "title": "全国大学生数学建模竞赛",
+      "college": "caup",
+      "detail": "2026 年研究生奖学金竞赛目录：第二课堂 A5，参照国际级。",
+      "source": "https://caup.tongji.edu.cn/_upload/article/files/9e/d4/7455d8744ab7aa1547ec7d9b01b3/53e5558f-c7f8-4ec7-8adb-7b822971d193.pdf",
+      "sourceLabel": "研究生奖学金竞赛目录（2026）"
+    },
+    {
+      "id": "sem-1",
+      "title": "“Esri 杯”中国大学生 GIS 软件开发竞赛",
+      "college": "sem",
+      "detail": "研究生奖学金计分附件的竞赛项目。按相应获奖阶段、等级与成员排序核算，报奖时核对当年文件。"
+    },
+    {
+      "id": "sem-2",
+      "title": "全国高等院校学生“斯维尔杯”建筑信息模型（BIM）应用技能大赛",
+      "college": "sem",
+      "detail": "研究生奖学金计分附件的竞赛项目。按相应获奖阶段、等级与成员排序核算，报奖时核对当年文件。"
+    },
+    {
+      "id": "sem-3",
+      "title": "全国高校商业精英挑战赛物流管理竞赛",
+      "college": "sem",
+      "detail": "研究生奖学金计分附件的竞赛项目。按相应获奖阶段、等级与成员排序核算，报奖时核对当年文件。"
+    },
+    {
+      "id": "sem-4",
+      "title": "IMA 校园管理会计案例大赛",
+      "college": "sem",
+      "detail": "研究生奖学金计分附件的竞赛项目。按相应获奖阶段、等级与成员排序核算，报奖时核对当年文件。"
+    },
+    {
+      "id": "arts-innovation-1",
+      "title": "中国国际大学生创新大赛",
+      "college": "arts-media",
+      "detail": "学院综合素质评价办法在“竞赛（或科研）获奖”项列出，按获奖等次及团队贡献申报。",
+      "source": "https://am.tongji.edu.cn/__local/8/A1/07/0AFB55DACAD492FED366225E114_5AE52EF4_7363A.pdf",
+      "sourceLabel": "艺术与传媒学院学生综合素质评价办法（2025年修订）"
+    },
+    {
+      "id": "arts-innovation-2",
+      "title": "“挑战杯”全国大学生课外学术科技作品竞赛",
+      "college": "arts-media",
+      "detail": "学院综合素质评价办法在“竞赛（或科研）获奖”项列出，按获奖等次及团队贡献申报。",
+      "source": "https://am.tongji.edu.cn/__local/8/A1/07/0AFB55DACAD492FED366225E114_5AE52EF4_7363A.pdf",
+      "sourceLabel": "艺术与传媒学院学生综合素质评价办法（2025年修订）"
+    },
+    {
+      "id": "arts-innovation-3",
+      "title": "“挑战杯”中国大学生创业计划竞赛",
+      "college": "arts-media",
+      "detail": "学院综合素质评价办法在“竞赛（或科研）获奖”项列出，按获奖等次及团队贡献申报。",
+      "source": "https://am.tongji.edu.cn/__local/8/A1/07/0AFB55DACAD492FED366225E114_5AE52EF4_7363A.pdf",
+      "sourceLabel": "艺术与传媒学院学生综合素质评价办法（2025年修订）"
+    },
+    {
+      "id": "arts-innovation-4",
+      "title": "全国大学生创新创业训练计划年会展示",
+      "college": "arts-media",
+      "detail": "学院综合素质评价办法在“竞赛（或科研）获奖”项列出，按获奖等次及团队贡献申报。",
+      "source": "https://am.tongji.edu.cn/__local/8/A1/07/0AFB55DACAD492FED366225E114_5AE52EF4_7363A.pdf",
+      "sourceLabel": "艺术与传媒学院学生综合素质评价办法（2025年修订）"
+    },
+    {
+      "id": "arts-practice-1",
+      "title": "全国大学生职业规划大赛",
+      "college": "arts-media",
+      "detail": "文件列为其他类型获奖示例，类别由学院学工办或团委划定，评审小组复核。",
+      "source": "https://am.tongji.edu.cn/__local/8/A1/07/0AFB55DACAD492FED366225E114_5AE52EF4_7363A.pdf",
+      "sourceLabel": "艺术与传媒学院学生综合素质评价办法（2025年修订）"
+    },
+    {
+      "id": "arts-practice-2",
+      "title": "“知行杯”上海市大学生社会实践大赛",
+      "college": "arts-media",
+      "detail": "文件列为其他类型获奖示例，类别由学院学工办或团委划定，评审小组复核。",
+      "source": "https://am.tongji.edu.cn/__local/8/A1/07/0AFB55DACAD492FED366225E114_5AE52EF4_7363A.pdf",
+      "sourceLabel": "艺术与传媒学院学生综合素质评价办法（2025年修订）"
+    },
+    {
+      "id": "fl-directory-1",
+      "title": "“外研社·国才杯”“理解当代中国”全国大学生外语能力大赛（德语组）",
+      "college": "foreign-languages",
+      "detail": "列入2026年校级目录；院本科奖学金细则对当年目录内外语学科类竞赛设高水平档，奖项由院系认定。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "学校本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "fl-directory-2",
+      "title": "“外研社·国才杯”“理解当代中国”全国大学生外语能力大赛（日语组）",
+      "college": "foreign-languages",
+      "detail": "列入2026年校级目录；院本科奖学金细则对当年目录内外语学科类竞赛设高水平档，奖项由院系认定。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "学校本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "fl-ugc-english",
+      "title": "“外研社·国才杯”“理解当代中国”全国大学生外语能力大赛（英语组）",
+      "college": "foreign-languages",
+      "detail": "列入2026年校级目录；院本科奖学金细则对当年目录内外语学科类竞赛设高水平档，奖项由院系认定。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "学校本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "fl-directory-4",
+      "title": "第31届“21世纪杯”全国英语演讲比赛",
+      "college": "foreign-languages",
+      "detail": "列入2026年校级目录；院本科奖学金细则对当年目录内外语学科类竞赛设高水平档，奖项由院系认定。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "学校本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "fl-directory-5",
+      "title": "第九届“外教社杯”全国高校学生跨文化能力大赛",
+      "college": "foreign-languages",
+      "detail": "列入2026年校级目录；院本科奖学金细则对当年目录内外语学科类竞赛设高水平档，奖项由院系认定。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "学校本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "fl-directory-6",
+      "title": "全国大学生英语竞赛",
+      "college": "foreign-languages",
+      "detail": "列入2026年校级目录；院本科奖学金细则对当年目录内外语学科类竞赛设高水平档，奖项由院系认定。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "学校本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "fl-directory-7",
+      "title": "“德语之星”全国高校德语演讲比赛",
+      "college": "foreign-languages",
+      "detail": "列入2026年校级目录；院本科奖学金细则对当年目录内外语学科类竞赛设高水平档，奖项由院系认定。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "学校本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "fl-directory-8",
+      "title": "“卡西欧杯”中国日语专业本科生·研究生演讲辩论大赛",
+      "college": "foreign-languages",
+      "detail": "列入2026年校级目录；院本科奖学金细则对当年目录内外语学科类竞赛设高水平档，奖项由院系认定。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "学校本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "fl-directory-9",
+      "title": "“人民中国杯”日语国际翻译大赛",
+      "college": "foreign-languages",
+      "detail": "列入2026年校级目录；院本科奖学金细则对当年目录内外语学科类竞赛设高水平档，奖项由院系认定。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "学校本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "fl-directory-10",
+      "title": "“外教社·词达人杯”全国大学生英语词汇能力大赛",
+      "college": "foreign-languages",
+      "detail": "列入2026年校级目录；院本科奖学金细则对当年目录内外语学科类竞赛设高水平档，奖项由院系认定。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "学校本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "fl-directory-11",
+      "title": "“扎雅杯”全国德语配音比赛",
+      "college": "foreign-languages",
+      "detail": "列入2026年校级目录；院本科奖学金细则对当年目录内外语学科类竞赛设高水平档，奖项由院系认定。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "学校本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "fl-directory-12",
+      "title": "可持续发展全国青年德语风采大赛",
+      "college": "foreign-languages",
+      "detail": "列入2026年校级目录；院本科奖学金细则对当年目录内外语学科类竞赛设高水平档，奖项由院系认定。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "学校本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "fl-directory-13",
+      "title": "全国大学生“用日语讲好中国故事”微视频大赛",
+      "college": "foreign-languages",
+      "detail": "列入2026年校级目录；院本科奖学金细则对当年目录内外语学科类竞赛设高水平档，奖项由院系认定。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "学校本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "fl-directory-14",
+      "title": "全国大学生日语演讲比赛",
+      "college": "foreign-languages",
+      "detail": "列入2026年校级目录；院本科奖学金细则对当年目录内外语学科类竞赛设高水平档，奖项由院系认定。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "学校本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "fl-directory-15",
+      "title": "全国德语写作比赛",
+      "college": "foreign-languages",
+      "detail": "列入2026年校级目录；院本科奖学金细则对当年目录内外语学科类竞赛设高水平档，奖项由院系认定。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "学校本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "fl-directory-16",
+      "title": "全国高校本科生德语配音大赛",
+      "college": "foreign-languages",
+      "detail": "列入2026年校级目录；院本科奖学金细则对当年目录内外语学科类竞赛设高水平档，奖项由院系认定。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "学校本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "fl-directory-17",
+      "title": "全国高校德语专业本科生学术创新大赛",
+      "college": "foreign-languages",
+      "detail": "列入2026年校级目录；院本科奖学金细则对当年目录内外语学科类竞赛设高水平档，奖项由院系认定。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "学校本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "fl-directory-18",
+      "title": "全国高校德语专业大学生德语辩论赛",
+      "college": "foreign-languages",
+      "detail": "列入2026年校级目录；院本科奖学金细则对当年目录内外语学科类竞赛设高水平档，奖项由院系认定。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "学校本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "fl-directory-19",
+      "title": "全国医学英语词汇竞赛",
+      "college": "foreign-languages",
+      "detail": "列入2026年校级目录；院本科奖学金细则对当年目录内外语学科类竞赛设高水平档，奖项由院系认定。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "学校本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "fl-directory-20",
+      "title": "上海市第二届学术英语演讲比赛",
+      "college": "foreign-languages",
+      "detail": "列入2026年校级目录；院本科奖学金细则对当年目录内外语学科类竞赛设高水平档，奖项由院系认定。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "学校本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "fl-directory-21",
+      "title": "中国大学生5分钟科研英语演讲大赛",
+      "college": "foreign-languages",
+      "detail": "列入2026年校级目录；院本科奖学金细则对当年目录内外语学科类竞赛设高水平档，奖项由院系认定。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "学校本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "fl-directory-22",
+      "title": "中国人日语作文大赛",
+      "college": "foreign-languages",
+      "detail": "列入2026年校级目录；院本科奖学金细则对当年目录内外语学科类竞赛设高水平档，奖项由院系认定。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "学校本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "fl-directory-23",
+      "title": "中华全国日语演讲比赛",
+      "college": "foreign-languages",
+      "detail": "列入2026年校级目录；院本科奖学金细则对当年目录内外语学科类竞赛设高水平档，奖项由院系认定。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "学校本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "fl-directory-24",
+      "title": "上海市大学生日语才能演示大赛",
+      "college": "foreign-languages",
+      "detail": "列入2026年校级目录；院本科奖学金细则对当年目录内外语学科类竞赛设高水平档，奖项由院系认定。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "学校本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "fl-directory-25",
+      "title": "同济大学新生德语能力竞赛",
+      "college": "foreign-languages",
+      "detail": "列入2026年校级目录；院本科奖学金细则对当年目录内外语学科类竞赛设高水平档，奖项由院系认定。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "学校本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "transport-tongluren",
+      "title": "第二十六届“同路人”交通科技大赛",
+      "college": "transport",
+      "detail": "同济大学交通学院面向相关专业组队征集交通课题。日程及格式见正式通知附件；暂未核实本届奖学金对应类别。",
+      "source": "https://tjjt.tongji.edu.cn/info/1588/12035.htm",
+      "sourceLabel": "交通学院报名通知",
+      "category": "院系赛事通知"
+    },
+    {
+      "id": "see-smartcar",
+      "title": "全国大学生智能汽车竞赛",
+      "college": "electronics",
+      "detail": "同济校内预选包括竞速、综合创意赛。具体项目的奖学金推荐等级请对照学院7月目录。",
+      "source": "https://see.tongji.edu.cn/info/1096/14879.htm",
+      "sourceLabel": "电信学院期刊、竞赛目录（2026年7月）",
+      "category": "院系赛事通知"
+    },
+    {
+      "id": "cs-icpc",
+      "title": "ICPC 国际大学生程序设计竞赛",
+      "college": "computer",
+      "detail": "学院学生参加亚洲区域赛。评奖时另按学院当年标准审核获奖证明。",
+      "source": "https://ci.tongji.edu.cn/62/86/c29620a418438/page.htm",
+      "sourceLabel": "同济大学计算机与信息技术国家级实验教学示范中心",
+      "category": "院系赛事通知"
+    },
+    {
+      "id": "me-engineering-intelligence",
+      "title": "第二届国际工程智能大赛",
+      "college": "mechanical",
+      "detail": "同济工程智能研究院、机械工程与机器人学院等共同举办。主办方拟于2027年5月举行决赛答辩，具体日期和学院评奖资格待确认。",
+      "source": "https://iaie.tongji.edu.cn/info/1007/1218.htm",
+      "sourceLabel": "同济工程智能研究院赛题公告",
+      "category": "院系赛事通知"
+    },
+    {
+      "id": "med-innov",
+      "title": "中国国际大学生创新大赛",
+      "college": "med",
+      "detail": "本科生评奖细则列为重要赛事。个人国家级一、二、三等奖分别计5、4、3分，其他层级和团体奖按表折算。"
+    },
+    {
+      "id": "med-challenge",
+      "title": "挑战杯",
+      "college": "med",
+      "detail": "本科生评奖细则列为重要赛事。个人国家级一、二、三等奖分别计5、4、3分，其他层级和团体奖按表折算。"
+    },
+    {
+      "id": "med-career",
+      "title": "全国大学生职业规划大赛",
+      "college": "med",
+      "detail": "本科生评奖细则列为重要赛事。个人国家级一、二、三等奖分别计5、4、3分，其他层级和团体奖按表折算。"
+    },
+    {
+      "id": "med-zhixing",
+      "title": "上海市知行杯社会实践大赛",
+      "college": "med",
+      "detail": "本科生评奖细则列为重要赛事。个人国家级一、二、三等奖分别计5、4、3分，其他层级和团体奖按表折算。"
+    },
+    {
+      "id": "med-clinical",
+      "title": "全国高等医学院校大学生临床技能竞赛",
+      "college": "med",
+      "detail": "本科生评奖细则列为医学类竞赛。个人国家级一、二、三等奖分别计3、2.5、2分，其他层级和团体奖按表折算。"
+    },
+    {
+      "id": "med-basic",
+      "title": "全国大学生基础医学创新论坛暨创新实验设计大赛",
+      "college": "med",
+      "detail": "本科生评奖细则列为医学类竞赛。个人国家级一、二、三等奖分别计3、2.5、2分，其他层级和团体奖按表折算。"
+    },
+    {
+      "id": "med-imspq",
+      "title": "国际医学院生理学竞赛",
+      "college": "med",
+      "detail": "本科生评奖细则列为医学类竞赛。个人国家级一、二、三等奖分别计3、2.5、2分，其他层级和团体奖按表折算。"
+    },
+    {
+      "id": "law-second",
+      "title": "学科竞赛与科技创新获奖（第二课堂）",
+      "college": "law",
+      "detail": "申报时提交正式获奖证书。同一作品多次获奖取最高级别，团体成绩按人数折算，第二课堂附加分累计不超过2分。"
+    },
+    {
+      "id": "sese-team",
+      "title": "专业创新创业与科研成果（科技创新团队奖）",
+      "college": "sese",
+      "detail": "学院将科技创新团队奖列入专业性团队奖，由分团委组织评审，具体条件依相关协议。申报对象为团队，此项未列逐项赛事分值。"
+    },
+    {
+      "id": "smse-contest",
+      "title": "课外学术、科技活动竞赛（2019年认定范围）",
+      "college": "smse",
+      "detail": "2019年细则援引学院加分竞赛列表。同一作品取最高级别，不同作品可以累加，此项最多100分。公开正文未列出逐项赛事。"
+    },
+    {
+      "id": "school-1",
+      "college": "unit-20",
+      "title": "中国国际大学生创新大赛（2026）",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026001项，赛事等级 A+，级别为国家级、省部级、校级。责任单位：创新创业学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-2",
+      "college": "unit-21",
+      "title": "“挑战杯”中国大学生创业计划竞赛",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026002项，赛事等级 A+，级别为国家级、省部级、校级。责任单位：团委。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-3",
+      "college": "unit-21",
+      "title": "中国青年科技创新“揭榜挂帅”擂台赛",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026003项，赛事等级 A+，级别为国家级。责任单位：团委。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-4",
+      "college": "smse",
+      "title": "全国大学生金相技能大赛",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026004项，赛事等级 A，级别为国家级。责任单位：材料科学与工程学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-5",
+      "college": "unit-22",
+      "title": "全国大学生测绘学科创新创业智能大赛",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026005项，赛事等级 A，级别为国家级。责任单位：测绘与地理信息学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-6",
+      "college": "unit-20",
+      "title": "iCAN大学生创新创业大赛",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026006项，赛事等级 A，级别为国家级。责任单位：创新创业学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-7",
+      "college": "unit-20",
+      "title": "全国大学生创新年会",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026007项，赛事等级 A，级别为国家级。责任单位：创新创业学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-8",
+      "college": "unit-20",
+      "title": "全国大学生工程实践与创新能力大赛（2026）",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026008项，赛事等级 A，级别为国家级、省部级、校级。责任单位：创新创业学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-9",
+      "college": "unit-20",
+      "title": "中国大学生机械工程创新创意大赛-智能制造赛",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026009项，赛事等级 A，级别为国家级。责任单位：创新创业学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-10",
+      "college": "electronics",
+      "title": "“西门子杯”中国智能制造挑战赛",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026010项，赛事等级 A，级别为国家级、省部级。责任单位：电子与信息工程学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-11",
+      "college": "electronics",
+      "title": "VEX机器人全国精英赛",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026011项，赛事等级 A，级别为国家级。责任单位：电子与信息工程学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-12",
+      "college": "electronics",
+      "title": "大学生新一代信息通信科技大赛",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026012项，赛事等级 A，级别为国家级、省部级。责任单位：电子与信息工程学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-13",
+      "college": "electronics",
+      "title": "国际大学生智能农业装备创新大赛",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026013项，赛事等级 A，级别为国际级、国家级、省部级。责任单位：电子与信息工程学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-14",
+      "college": "electronics",
+      "title": "华为ICT 大赛",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026014项，赛事等级 A，级别为国际级、国家级、省部级。责任单位：电子与信息工程学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-15",
+      "college": "electronics",
+      "title": "全国大学生电子设计竞赛",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026015项，赛事等级 A，级别为国家级、省部级、校级。责任单位：电子与信息工程学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-16",
+      "college": "electronics",
+      "title": "全国大学生集成电路创新创业大赛",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026016项，赛事等级 A，级别为国家级、省部级。责任单位：电子与信息工程学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-17",
+      "college": "electronics",
+      "title": "全国大学生嵌入式芯片与系统设计竞赛",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026017项，赛事等级 A，级别为国家级、省部级。责任单位：电子与信息工程学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-18",
+      "college": "electronics",
+      "title": "全国大学生物联网设计竞赛",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026018项，赛事等级 A，级别为国家级、省部级。责任单位：电子与信息工程学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-19",
+      "college": "electronics",
+      "title": "全国大学生智能汽车竞赛",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026019项，赛事等级 A，级别为国家级、省部级、校级。责任单位：电子与信息工程学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-20",
+      "college": "electronics",
+      "title": "全球校园人工智能算法精英大赛",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026020项，赛事等级 A，级别为国家级、省部级。责任单位：电子与信息工程学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-21",
+      "college": "electronics",
+      "title": "睿抗机器人开发者大赛（RAICOM）",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026021项，赛事等级 A，级别为国家级、省部级。责任单位：电子与信息工程学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-22",
+      "college": "electronics",
+      "title": "中国高校智能机器人创意大赛",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026022项，赛事等级 A，级别为国家级、省部级。责任单位：电子与信息工程学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-23",
+      "college": "electronics",
+      "title": "中国机器人大赛暨RoboCup 机器人世界杯中国赛",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026023项，赛事等级 A，级别为国家级、省部级、校级。责任单位：电子与信息工程学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-24",
+      "college": "electronics",
+      "title": "中国机器人及人工智能大赛",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026024项，赛事等级 A，级别为国家级、省部级。责任单位：电子与信息工程学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-25",
+      "college": "unit-23",
+      "title": "SAMPE 2026 Student Bridge Contest",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026025项，赛事等级 A，级别为国际级。责任单位：航空航天与力学学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-26",
+      "college": "unit-23",
+      "title": "第十八届SAMPE国际超轻复合材料桥梁/机翼学生竞赛",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026026项，赛事等级 A，级别为国际级。责任单位：航空航天与力学学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-27",
+      "college": "chem",
+      "title": "全国大学生化工设计竞赛",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026027项，赛事等级 A，级别为国家级、省部级。责任单位：化学科学与工程学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-28",
+      "college": "chem",
+      "title": "全国大学生化工实验大赛",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026028项，赛事等级 A，级别为国家级、省部级。责任单位：化学科学与工程学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-29",
+      "college": "chem",
+      "title": "上海大学生化学实验竞赛暨实验创新设计竟赛",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026029项，赛事等级 A，级别为省部级。责任单位：化学科学与工程学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-30",
+      "college": "sese",
+      "title": "全国大学生能源经济学术创意大赛",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026030项，赛事等级 A，级别为国家级。责任单位：环境科学与工程学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-31",
+      "college": "sese",
+      "title": "全国三维数字化创新设计大赛",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026031项，赛事等级 A，级别为国家级。责任单位：环境科学与工程学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-32",
+      "college": "sese",
+      "title": "一带一路暨金砖国家技能发展与技术创新大赛",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026032项，赛事等级 A，级别为国际级。责任单位：环境科学与工程学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-33",
+      "college": "mechanical",
+      "title": "第二十五届全国大学生机器人大赛ROBOMASTER",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026033项，赛事等级 A，级别为国家级。责任单位：机械工程与机器人学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-34",
+      "college": "mechanical",
+      "title": "第十二届全国大学生机械创新设计大赛",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026034项，赛事等级 A，级别为国家级、省部级、校级。责任单位：机械工程与机器人学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-35",
+      "college": "mechanical",
+      "title": "第十九届全国大学生先进成图技术与产品信息建模创新大赛",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026035项，赛事等级 A，级别为国家级。责任单位：机械工程与机器人学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-36",
+      "college": "mechanical",
+      "title": "全国大学生节能减排社会实践与科技竞赛",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026036项，赛事等级 A，级别为国家级、省部级、校级。责任单位：机械工程与机器人学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-37",
+      "college": "mechanical",
+      "title": "中国大学生机械工程创新创意大赛-工业工程与精益管理创新赛",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026037项，赛事等级 A，级别为国家级。责任单位：机械工程与机器人学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-38",
+      "college": "mechanical",
+      "title": "中国大学生机械工程创新创意大赛-机械产品数字化设计赛",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026038项，赛事等级 A，级别为国家级、省部级。责任单位：机械工程与机器人学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-39",
+      "college": "mechanical",
+      "title": "中国大学生机械工程创新创意大赛-物流技术创意赛",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026039项，赛事等级 A，级别为国家级、省部级。责任单位：机械工程与机器人学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-40",
+      "college": "computer",
+      "title": "“中国软件杯”大学生软件设计大赛",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026040项，赛事等级 A，级别为国家级。责任单位：计算机科学与技术学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-41",
+      "college": "computer",
+      "title": "ACM-ICPC国际大学生程序设计竞赛",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026041项，赛事等级 A，级别为国际级、国家级。责任单位：计算机科学与技术学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-42",
+      "college": "computer",
+      "title": "百度之星·程序设计大赛",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026042项，赛事等级 A，级别为国家级。责任单位：计算机科学与技术学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-43",
+      "college": "computer",
+      "title": "全国大学生计算机系统能力大赛",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026043项，赛事等级 A，级别为国家级。责任单位：计算机科学与技术学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-44",
+      "college": "computer",
+      "title": "全国大学生信息安全竞赛",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026044项，赛事等级 A，级别为国家级。责任单位：计算机科学与技术学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-45",
+      "college": "computer",
+      "title": "全国大学生信息安全与对抗技术竞赛",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026045项，赛事等级 A，级别为国家级。责任单位：计算机科学与技术学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-46",
+      "college": "computer",
+      "title": "中国大学生服务外包创新创业大赛",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026046项，赛事等级 A，级别为国家级。责任单位：计算机科学与技术学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-47",
+      "college": "computer",
+      "title": "中国大学生计算机设计大赛",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026047项，赛事等级 A，级别为国家级。责任单位：计算机科学与技术学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-48",
+      "college": "computer",
+      "title": "中国高校计算机大赛",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026048项，赛事等级 A，级别为国家级、省部级。责任单位：计算机科学与技术学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-49",
+      "college": "caup",
+      "title": "2026同济大学国际建造节",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026049项，赛事等级 A，级别为国际级。责任单位：建筑与城市规划学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-50",
+      "college": "caup",
+      "title": "UIA 世界大学生建筑设计竞赛",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026050项，赛事等级 A，级别为国际级。责任单位：建筑与城市规划学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-51",
+      "college": "caup",
+      "title": "UIA-霍普杯国际大学生建筑设计竞赛",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026051项，赛事等级 A，级别为国际级。责任单位：建筑与城市规划学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-52",
+      "college": "caup",
+      "title": "WUPENICITY城市可持续调研报告国际竞赛（智慧低碳交通）",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026052项，赛事等级 A，级别为国际级。责任单位：建筑与城市规划学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-53",
+      "college": "caup",
+      "title": "WUPENICITY城市设计学生作业国际竞赛",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026053项，赛事等级 A，级别为国际级。责任单位：建筑与城市规划学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-54",
+      "college": "caup",
+      "title": "全国大学生花园设计建造竞赛",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026054项，赛事等级 A，级别为国家级。责任单位：建筑与城市规划学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-55",
+      "college": "caup",
+      "title": "全国数字建筑创新应用大赛",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026055项，赛事等级 A，级别为国家级。责任单位：建筑与城市规划学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-56",
+      "college": "caup",
+      "title": "亚洲建筑师协会学生设计竞赛",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026056项，赛事等级 A，级别为国际级。责任单位：建筑与城市规划学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-57",
+      "college": "transport",
+      "title": "第十届全国大学生物流设计大赛",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026057项，赛事等级 A，级别为国家级。责任单位：交通学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-58",
+      "college": "transport",
+      "title": "第十届全国高校智能交通创新与创业大赛",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026058项，赛事等级 A，级别为国家级。责任单位：交通学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-59",
+      "college": "sem",
+      "title": "全国大学生电子商务“创新、创意及创业”挑战赛",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026059项，赛事等级 A，级别为国家级、省部级、校级。责任单位：经济与管理学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-60",
+      "college": "sem",
+      "title": "全国大学生市场调查与分析大赛",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026060项，赛事等级 A，级别为国家级、省部级、校级。责任单位：经济与管理学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-61",
+      "college": "unit-24",
+      "title": "全国大学生机器人大赛-Robocon",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026061项，赛事等级 A，级别为国家级。责任单位：汽车与能源学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-62",
+      "college": "unit-24",
+      "title": "日本大学生电动方程式汽车大赛（2026）",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026062项，赛事等级 A，级别为国际级。责任单位：汽车与能源学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-63",
+      "college": "unit-24",
+      "title": "日本大学生方程式汽车大赛（2026）",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026063项，赛事等级 A，级别为国际级。责任单位：汽车与能源学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-64",
+      "college": "di",
+      "title": "IF设计奖（IF Design Award）",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026064项，赛事等级 A，级别为国际级。责任单位：设计创意学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-65",
+      "college": "di",
+      "title": "红点设计大奖（Red Dot Design Award）",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026065项，赛事等级 A，级别为国际级。责任单位：设计创意学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-66",
+      "college": "di",
+      "title": "两岸新锐设计竞赛华灿奖",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026066项，赛事等级 A，级别为国家级、省部级。责任单位：设计创意学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-67",
+      "college": "di",
+      "title": "全国工业设计大赛",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026067项，赛事等级 A，级别为国家级、省部级。责任单位：设计创意学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-68",
+      "college": "di",
+      "title": "未来设计师·全国高校数字艺术设计大赛",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026068项，赛事等级 A，级别为国家级、省部级。责任单位：设计创意学院、艺术与传媒学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-68-2",
+      "college": "arts-media",
+      "title": "未来设计师·全国高校数字艺术设计大赛",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026068项，赛事等级 A，级别为国家级、省部级。责任单位：设计创意学院、艺术与传媒学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-69",
+      "college": "di",
+      "title": "中美青年创客大赛",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026069项，赛事等级 A，级别为国家级、省部级、校级。责任单位：设计创意学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-70",
+      "college": "unit-25",
+      "title": "国际遗传工程机器大赛（IGEM）",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026070项，赛事等级 A，级别为国际级。责任单位：生命科学与技术学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-71",
+      "college": "unit-25",
+      "title": "全国大学生生命科学竞赛（创新创业类）",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026071项，赛事等级 A，级别为国家级。责任单位：生命科学与技术学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-72",
+      "college": "unit-25",
+      "title": "全国大学生生命科学竞赛（科学探究类）",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026072项，赛事等级 A，级别为国家级、省部级。责任单位：生命科学与技术学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-73",
+      "college": "math",
+      "title": "第十八届全国大学生数学竞赛",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026073项，赛事等级 A，级别为国家级、省部级、校级。责任单位：数学科学学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-74",
+      "college": "math",
+      "title": "全国大学生数学建模竞赛(2026)",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026074项，赛事等级 A，级别为国家级、省部级、校级。责任单位：数学科学学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-75",
+      "college": "math",
+      "title": "全国大学生统计建模大赛（2026）",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026075项，赛事等级 A，级别为国家级、省部级、校级。责任单位：数学科学学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-76",
+      "college": "unit-26",
+      "title": "美国ASCE大学生土木工程竞赛",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026076项，赛事等级 A，级别为国际级。责任单位：土木工程学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-77",
+      "college": "unit-26",
+      "title": "全国大学生结构设计竞赛",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026077项，赛事等级 A，级别为国家级、省部级、校级。责任单位：土木工程学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-78",
+      "college": "unit-26",
+      "title": "全国高校BIM毕业设计创新大赛",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026078项，赛事等级 A，级别为国家级。责任单位：土木工程学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-79",
+      "college": "foreign-languages",
+      "title": "“外研社·国才杯”“理解当代中国”全国大学生外语能力大赛（德语组）",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026079项，赛事等级 A，级别为国家级、省部级、校级。责任单位：外国语学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-80",
+      "college": "foreign-languages",
+      "title": "“外研社·国才杯”“理解当代中国”全国大学生外语能力大赛（日语组）",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026080项，赛事等级 A，级别为国家级、省部级、校级。责任单位：外国语学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-81",
+      "college": "foreign-languages",
+      "title": "“外研社·国才杯”“理解当代中国”全国大学生外语能力大赛（英语组）",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026081项，赛事等级 A，级别为国家级、省部级、校级。责任单位：外国语学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-82",
+      "college": "foreign-languages",
+      "title": "第31届“21世纪杯”全国英语演讲比赛",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026082项，赛事等级 A，级别为国家级、省部级、校级。责任单位：外国语学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-83",
+      "college": "foreign-languages",
+      "title": "第九届“外教社杯”全国高校学生跨文化能力大赛",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026083项，赛事等级 A，级别为国家级、省部级、校级。责任单位：外国语学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-84",
+      "college": "foreign-languages",
+      "title": "全国大学生英语竞赛",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026084项，赛事等级 A，级别为国家级。责任单位：外国语学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-85",
+      "college": "physics",
+      "title": "全国大学生光电设计竞赛",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026085项，赛事等级 A，级别为国家级、省部级。责任单位：物理科学与工程学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-86",
+      "college": "physics",
+      "title": "全国大学生物理实验竞赛（创新）（2026）",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026086项，赛事等级 A，级别为国家级、省部级。责任单位：物理科学与工程学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-87",
+      "college": "unit-27",
+      "title": "第三届全国大学生职业规划大赛",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026087项，赛事等级 A，级别为国家级。责任单位：学生工作部。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-88",
+      "college": "med",
+      "title": "全国大学生医学创新大赛暨“一带一路”国际竞赛",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026088项，赛事等级 A，级别为国家级。责任单位：医学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-89",
+      "college": "arts-media",
+      "title": "大学生数字媒体科技作品及创意竞赛",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026089项，赛事等级 A，级别为国家级、省部级。责任单位：艺术与传媒学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-90",
+      "college": "arts-media",
+      "title": "第八届中华经典诵写讲大赛“诵读中国”经典诵读大赛",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026090项，赛事等级 A，级别为国家级、省部级。责任单位：艺术与传媒学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-91",
+      "college": "arts-media",
+      "title": "米兰设计周-中国高校设计学科师生优秀作品展及专项赛",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026091项，赛事等级 A，级别为国家级、省部级。责任单位：艺术与传媒学院、设计创意学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-91-2",
+      "college": "di",
+      "title": "米兰设计周-中国高校设计学科师生优秀作品展及专项赛",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026091项，赛事等级 A，级别为国家级、省部级。责任单位：艺术与传媒学院、设计创意学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-92",
+      "college": "arts-media",
+      "title": "全国大学生广告艺术大赛",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026092项，赛事等级 A，级别为国家级、省部级。责任单位：艺术与传媒学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-93",
+      "college": "arts-media",
+      "title": "中国好创意暨全国数字艺术设计大赛",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026093项，赛事等级 A，级别为国家级、省部级。责任单位：艺术与传媒学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-94",
+      "college": "smse",
+      "title": "全国大学生微结构摄影大赛（上海赛区）",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026094项，赛事等级 B，级别为省部级。责任单位：材料科学与工程学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-95",
+      "college": "smse",
+      "title": "上海市先进材料创新创意大赛",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026095项，赛事等级 B，级别为省部级。责任单位：材料科学与工程学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-96",
+      "college": "electronics",
+      "title": "VEX机器人亚洲公开赛",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026096项，赛事等级 B，级别为国家级。责任单位：电子与信息工程学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-97",
+      "college": "electronics",
+      "title": "高校电气电子工程创新大赛",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026097项，赛事等级 B，级别为国家级。责任单位：电子与信息工程学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-98",
+      "college": "electronics",
+      "title": "国际青年人工智能大赛",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026098项，赛事等级 B，级别为国际级、国家级、省部级。责任单位：电子与信息工程学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-99",
+      "college": "electronics",
+      "title": "国际先进机器人及仿真技术大赛",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026099项，赛事等级 B，级别为国家级、省部级。责任单位：电子与信息工程学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-100",
+      "college": "electronics",
+      "title": "全国大学生电子设计竞赛嵌入式系统专题赛",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026100项，赛事等级 B，级别为国家级。责任单位：电子与信息工程学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-101",
+      "college": "electronics",
+      "title": "全国大学生电子设计竞赛信息技术前沿专题赛",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026101项，赛事等级 B，级别为国家级。责任单位：电子与信息工程学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-102",
+      "college": "electronics",
+      "title": "全球人工智能技术创新大赛",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026102项，赛事等级 B，级别为国家级。责任单位：电子与信息工程学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-103",
+      "college": "electronics",
+      "title": "智能无人系统应用挑战赛",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026103项，赛事等级 B，级别为国家级。责任单位：电子与信息工程学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-104",
+      "college": "electronics",
+      "title": "中国智能机器人格斗及竞技大赛",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026104项，赛事等级 B，级别为国家级。责任单位：电子与信息工程学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-105",
+      "college": "law",
+      "title": "FDI模拟投资仲裁竞赛（FDI Moot）",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026105项，赛事等级 B，级别为国际级。责任单位：法学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-106",
+      "college": "law",
+      "title": "国际公法模拟法庭竞赛（Phillip C.Jessup）",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026106项，赛事等级 B，级别为国际级。责任单位：法学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-107",
+      "college": "law",
+      "title": "国际商事模拟仲裁庭辩论赛（Vis Moot）",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026107项，赛事等级 B，级别为国际级。责任单位：法学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-108",
+      "college": "law",
+      "title": "国际刑事法院模拟法庭竞赛（ICC）",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026108项，赛事等级 B，级别为国际级。责任单位：法学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-109",
+      "college": "law",
+      "title": "红十字国际人道法模拟法庭比赛",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026109项，赛事等级 B，级别为国际级。责任单位：法学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-110",
+      "college": "law",
+      "title": "全国法律英语大赛",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026110项，赛事等级 B，级别为国家级、省部级。责任单位：法学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-111",
+      "college": "law",
+      "title": "上海市大学生模拟法庭",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026111项，赛事等级 B，级别为省部级。责任单位：法学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-112",
+      "college": "mgg",
+      "title": "全国大学生地球物理知识竞赛（2026）",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026112项，赛事等级 B，级别为国家级。责任单位：海洋与地球科学学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-113",
+      "college": "mgg",
+      "title": "全国大学生地质技能竞赛（2026）",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026113项，赛事等级 B，级别为国家级。责任单位：海洋与地球科学学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-114",
+      "college": "mgg",
+      "title": "全国大学生海洋知识竞赛（2026）",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026114项，赛事等级 B，级别为国家级。责任单位：海洋与地球科学学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-115",
+      "college": "unit-23",
+      "title": "2026“上纬杯”第十一届全国大学生复合材料设计与制作大赛",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026115项，赛事等级 B，级别为国家级。责任单位：航空航天与力学学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-116",
+      "college": "unit-23",
+      "title": "2026国际空间科学与载荷大赛",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026116项，赛事等级 B，级别为国际级。责任单位：航空航天与力学学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-117",
+      "college": "unit-23",
+      "title": "2026年教育部本科毕业设计成果展（航空专业）",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026117项，赛事等级 B，级别为国家级。责任单位：航空航天与力学学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-118",
+      "college": "unit-23",
+      "title": "2026年上海市未来飞行器设计大赛",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026118项，赛事等级 B，级别为省部级、校级。责任单位：航空航天与力学学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-119",
+      "college": "unit-23",
+      "title": "2026中国大学生飞行器设计创新大赛",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026119项，赛事等级 B，级别为国家级。责任单位：航空航天与力学学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-120",
+      "college": "unit-23",
+      "title": "第七届国际大学生工程力学竞赛（亚洲赛区）",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026120项，赛事等级 B，级别为国际级。责任单位：航空航天与力学学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-121",
+      "college": "unit-23",
+      "title": "第七届力学超材料大赛",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026121项，赛事等级 B，级别为省部级。责任单位：航空航天与力学学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-122",
+      "college": "unit-23",
+      "title": "第七届上海市大学生力学竞赛个人赛",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026122项，赛事等级 B，级别为省部级。责任单位：航空航天与力学学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-123",
+      "college": "unit-23",
+      "title": "第七届上海市大学生力学竞赛团体赛",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026123项，赛事等级 B，级别为省部级。责任单位：航空航天与力学学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-124",
+      "college": "unit-23",
+      "title": "第十届“光威杯”中国复合材料学会大学生科技创新竞赛",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026124项，赛事等级 B，级别为省部级。责任单位：航空航天与力学学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-125",
+      "college": "unit-23",
+      "title": "第五届国际奥林匹克互联网学科竞赛“材料力学”",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026125项，赛事等级 B，级别为国际级。责任单位：航空航天与力学学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-126",
+      "college": "unit-23",
+      "title": "第五届国际奥林匹克互联网学科竞赛“理论力学”",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026126项，赛事等级 B，级别为国际级。责任单位：航空航天与力学学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-127",
+      "college": "unit-23",
+      "title": "中国大学生机械工程创新创意大赛-“欧波同杯”失效分析赛",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026127项，赛事等级 B，级别为国家级。责任单位：航空航天与力学学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-128",
+      "college": "chem",
+      "title": "“SCIP+”绿色化学化工创新创业大赛",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026128项，赛事等级 B，级别为国家级。责任单位：化学科学与工程学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-129",
+      "college": "chem",
+      "title": "全国大学生电化学测量技术竞赛",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026129项，赛事等级 B，级别为国家级。责任单位：化学科学与工程学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-130",
+      "college": "chem",
+      "title": "全国大学生化学实验竞赛",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026130项，赛事等级 B，级别为国家级。责任单位：化学科学与工程学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-131",
+      "college": "chem",
+      "title": "全国化学类专业大学生科技活动交流",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026131项，赛事等级 B，级别为国家级。责任单位：化学科学与工程学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-132",
+      "college": "chem",
+      "title": "上海市大学生化学化工优秀毕业论文（设计）大赛",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026132项，赛事等级 B，级别为省部级。责任单位：化学科学与工程学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-133",
+      "college": "sese",
+      "title": "第十一届“汇创青春”——大学生文化创意作品展示活动（环境设计类）",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026133项，赛事等级 B，级别为省部级。责任单位：环境科学与工程学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-134",
+      "college": "sese",
+      "title": "DWA全球高校挑战赛中国选拔赛",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026134项，赛事等级 B，级别为国际级。责任单位：环境科学与工程学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-135",
+      "college": "sese",
+      "title": "SCIP+绿色化学化工创新创业大赛",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026135项，赛事等级 B，级别为省部级。责任单位：环境科学与工程学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-136",
+      "college": "sese",
+      "title": "全国大学生市政环境类创新实践能力大赛",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026136项，赛事等级 B，级别为国家级。责任单位：环境科学与工程学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-137",
+      "college": "sese",
+      "title": "全国环境友好科技竞赛",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026137项，赛事等级 B，级别为国家级。责任单位：环境科学与工程学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-138",
+      "college": "sese",
+      "title": "世界技能大赛上海选拔赛（水处理技术）",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026138项，赛事等级 B，级别为国际级。责任单位：环境科学与工程学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-139",
+      "college": "sese",
+      "title": "长三角大学生可持续水处理竞赛",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026139项，赛事等级 B，级别为省部级。责任单位：环境科学与工程学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-140",
+      "college": "computer",
+      "title": "第十一届“汇创青春”——大学生文化创意作品展示活动（互联网+文创类）",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026140项，赛事等级 B，级别为省部级。责任单位：计算机科学与技术学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-141",
+      "college": "computer",
+      "title": "Apple WWDC Students Scholarship",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026141项，赛事等级 B，级别为国际级。责任单位：计算机科学与技术学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-142",
+      "college": "computer",
+      "title": "CCF大数据与计算智能大赛（BDCI）",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026142项，赛事等级 B，级别为国家级。责任单位：计算机科学与技术学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-143",
+      "college": "computer",
+      "title": "CCF大学生计算机系统与程序设计竞赛（CCSP）",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026143项，赛事等级 B，级别为国家级。责任单位：计算机科学与技术学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-144",
+      "college": "computer",
+      "title": "CCPC全国大学生程序设计竞赛",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026144项，赛事等级 B，级别为国家级。责任单位：计算机科学与技术学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-145",
+      "college": "computer",
+      "title": "蓝桥杯全国软件和信息技术专业人才大赛",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026145项，赛事等级 B，级别为省部级。责任单位：计算机科学与技术学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-146",
+      "college": "computer",
+      "title": "码蹄杯全国大学生程序设计大赛",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026146项，赛事等级 B，级别为国家级。责任单位：计算机科学与技术学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-147",
+      "college": "computer",
+      "title": "强网杯全国网络安全挑战赛",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026147项，赛事等级 B，级别为国家级。责任单位：计算机科学与技术学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-148",
+      "college": "computer",
+      "title": "全国大学生软件创新大赛",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026148项，赛事等级 B，级别为国家级。责任单位：计算机科学与技术学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-149",
+      "college": "computer",
+      "title": "上海市大学生程序设计竞赛",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026149项，赛事等级 B，级别为省部级。责任单位：计算机科学与技术学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-150",
+      "college": "computer",
+      "title": "上海市大学生计算机应用能力大赛",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026150项，赛事等级 B，级别为省部级。责任单位：计算机科学与技术学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-151",
+      "college": "computer",
+      "title": "上海市大学生网络安全大赛",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026151项，赛事等级 B，级别为省部级。责任单位：计算机科学与技术学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-152",
+      "college": "computer",
+      "title": "网鼎杯网络安全大赛",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026152项，赛事等级 B，级别为国家级。责任单位：计算机科学与技术学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-153",
+      "college": "caup",
+      "title": "“天作奖”国际大学生建筑设计竞赛",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026153项，赛事等级 B，级别为国际级。责任单位：建筑与城市规划学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-154",
+      "college": "caup",
+      "title": "ASLA 学生竞赛",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026154项，赛事等级 B，级别为国际级。责任单位：建筑与城市规划学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-155",
+      "college": "caup",
+      "title": "IFLA 国际学生竞赛",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026155项，赛事等级 B，级别为国际级。责任单位：建筑与城市规划学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-156",
+      "college": "caup",
+      "title": "ULI Hines Student Competition",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026156项，赛事等级 B，级别为国际级。责任单位：建筑与城市规划学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-157",
+      "college": "caup",
+      "title": "WUPENICITY城市可持续调研报告国际竞赛",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026157项，赛事等级 B，级别为国际级。责任单位：建筑与城市规划学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-158",
+      "college": "caup",
+      "title": "第六届全国城乡建成遗产保护设计优秀作业评选",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026158项，赛事等级 B，级别为国家级。责任单位：建筑与城市规划学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-159",
+      "college": "caup",
+      "title": "国际绿点大赛",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026159项，赛事等级 B，级别为国际级。责任单位：建筑与城市规划学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-160",
+      "college": "caup",
+      "title": "中国城市规划学会科技奖优秀科技论文专项奖（求是）",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026160项，赛事等级 B，级别为国家级。责任单位：建筑与城市规划学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-161",
+      "college": "caup",
+      "title": "中国风景园林教育大会毕业设计作品",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026161项，赛事等级 B，级别为国家级。责任单位：建筑与城市规划学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-162",
+      "college": "caup",
+      "title": "中国风景园林学会大学生设计竞赛",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026162项，赛事等级 B，级别为国家级。责任单位：建筑与城市规划学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-163",
+      "college": "caup",
+      "title": "中国人居环境设计学年奖",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026163项，赛事等级 B，级别为国家级。责任单位：建筑与城市规划学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-164",
+      "college": "caup",
+      "title": "中国自然资源学会“国地杯”第八届全国大学生自然资源科技作品大赛",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026164项，赛事等级 B，级别为国家级。责任单位：建筑与城市规划学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-165",
+      "college": "caup",
+      "title": "中日韩风景园林学生竞赛",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026165项，赛事等级 B，级别为国际级。责任单位：建筑与城市规划学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-166",
+      "college": "transport",
+      "title": "OnSite自动驾驶算法挑战赛",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026166项，赛事等级 B，级别为国家级。责任单位：交通学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-167",
+      "college": "transport",
+      "title": "第二十一届全国大学生交通运输科技大赛",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026167项，赛事等级 B，级别为国家级。责任单位：交通学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-168",
+      "college": "transport",
+      "title": "全国大学生轨道交通科技创新大赛",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026168项，赛事等级 B，级别为国家级。责任单位：交通学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-169",
+      "college": "transport",
+      "title": "中国城市轨道交通科技创新创业大赛",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026169项，赛事等级 B，级别为国家级。责任单位：交通学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-170",
+      "college": "unit-28",
+      "title": "口腔健康科普展示与交流活动",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026170项，赛事等级 B，级别为省部级。责任单位：口腔医学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-171",
+      "college": "unit-28",
+      "title": "口腔形态技能大赛",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026171项，赛事等级 B，级别为省部级。责任单位：口腔医学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-172",
+      "college": "unit-24",
+      "title": "壳牌汽车环保马拉松亚洲站",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026172项，赛事等级 B，级别为国际级。责任单位：汽车与能源学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-173",
+      "college": "unit-24",
+      "title": "中国大学生电动方程式大赛（2026）",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026173项，赛事等级 B，级别为国际级。责任单位：汽车与能源学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-174",
+      "college": "unit-24",
+      "title": "中国大学生方程式汽车大赛（2026）",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026174项，赛事等级 B，级别为国际级。责任单位：汽车与能源学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-175",
+      "college": "unit-24",
+      "title": "中国大学生无人驾驶方程式大赛（2026）",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026175项，赛事等级 B，级别为国际级。责任单位：汽车与能源学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-176",
+      "college": "unit-24",
+      "title": "中国汽车工程学会巴哈大赛（2026）",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026176项，赛事等级 B，级别为国家级。责任单位：汽车与能源学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-177",
+      "college": "di",
+      "title": "第十一届“汇创青春”——大学生文化创意作品展示活动（产品设计类）",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026177项，赛事等级 B，级别为省部级。责任单位：设计创意学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-178",
+      "college": "di",
+      "title": "第十一届“汇创青春”——大学生文化创意作品展示活动（视觉传达设计类）",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026178项，赛事等级 B，级别为省部级。责任单位：设计创意学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-179",
+      "college": "di",
+      "title": "戴森设计奖",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026179项，赛事等级 B，级别为国际级。责任单位：设计创意学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-180",
+      "college": "di",
+      "title": "全球生物设计挑战赛（Bio Design Challenge）",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026180项，赛事等级 B，级别为国际级。责任单位：设计创意学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-181",
+      "college": "di",
+      "title": "水晶客舱奖（Crystal Cabin Award）",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026181项，赛事等级 B，级别为国际级。责任单位：设计创意学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-182",
+      "college": "math",
+      "title": "第十七届丘成桐大学生数学竞赛",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026182项，赛事等级 B，级别为国家级。责任单位：数学科学学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-183",
+      "college": "math",
+      "title": "美国大学生数学建模竞赛（2026）",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026183项，赛事等级 B，级别为国际级。责任单位：数学科学学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-184",
+      "college": "math",
+      "title": "全国大学生创新体验竞赛",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026184项，赛事等级 B，级别为国家级、省部级、校级。责任单位：数学科学学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-185",
+      "college": "unit-26",
+      "title": "国际大学生混凝土龙舟邀请赛",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026185项，赛事等级 B，级别为国际级。责任单位：土木工程学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-186",
+      "college": "unit-26",
+      "title": "海峡两岸青少年创客大赛-结构挑战",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026186项，赛事等级 B，级别为国家级。责任单位：土木工程学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-187",
+      "college": "unit-26",
+      "title": "全国大学生“茅以升公益桥—小桥工程”创新设计大赛",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026187项，赛事等级 B，级别为国家级。责任单位：土木工程学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-188",
+      "college": "unit-26",
+      "title": "全国大学生加筋挡土墙设计竞赛",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026188项，赛事等级 B，级别为国家级。责任单位：土木工程学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-189",
+      "college": "unit-26",
+      "title": "全国高等学校木结构设计竞赛",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026189项，赛事等级 B，级别为国家级。责任单位：土木工程学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-190",
+      "college": "unit-26",
+      "title": "上海市大学生“创造杯”大赛",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026190项，赛事等级 B，级别为省部级。责任单位：土木工程学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-191",
+      "college": "unit-26",
+      "title": "世界大学生桥梁设计大赛",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026191项，赛事等级 B，级别为国际级。责任单位：土木工程学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-192",
+      "college": "foreign-languages",
+      "title": "“德语之星”全国高校德语演讲比赛",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026192项，赛事等级 B，级别为国家级。责任单位：外国语学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-193",
+      "college": "foreign-languages",
+      "title": "“卡西欧杯”中国日语专业本科生·研究生演讲辩论大赛",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026193项，赛事等级 B，级别为国家级、校级。责任单位：外国语学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-194",
+      "college": "foreign-languages",
+      "title": "“人民中国杯”日语国际翻译大赛",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026194项，赛事等级 B，级别为国家级、校级。责任单位：外国语学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-195",
+      "college": "foreign-languages",
+      "title": "“外教社·词达人杯”全国大学生英语词汇能力大赛",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026195项，赛事等级 B，级别为国家级。责任单位：外国语学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-196",
+      "college": "foreign-languages",
+      "title": "“扎雅杯”全国德语配音比赛",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026196项，赛事等级 B，级别为国家级。责任单位：外国语学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-197",
+      "college": "foreign-languages",
+      "title": "可持续发展全国青年德语风采大赛",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026197项，赛事等级 B，级别为国家级。责任单位：外国语学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-198",
+      "college": "foreign-languages",
+      "title": "全国大学生“用日语讲好中国故事”微视频大赛",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026198项，赛事等级 B，级别为国家级、校级。责任单位：外国语学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-199",
+      "college": "foreign-languages",
+      "title": "全国大学生日语演讲比赛",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026199项，赛事等级 B，级别为省部级、校级。责任单位：外国语学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-200",
+      "college": "foreign-languages",
+      "title": "全国德语写作比赛",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026200项，赛事等级 B，级别为国家级。责任单位：外国语学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-201",
+      "college": "foreign-languages",
+      "title": "全国高校本科生德语配音大赛",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026201项，赛事等级 B，级别为国家级。责任单位：外国语学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-202",
+      "college": "foreign-languages",
+      "title": "全国高校德语专业本科生学术创新大赛",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026202项，赛事等级 B，级别为国家级。责任单位：外国语学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-203",
+      "college": "foreign-languages",
+      "title": "全国高校德语专业大学生德语辩论赛",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026203项，赛事等级 B，级别为国家级。责任单位：外国语学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-204",
+      "college": "foreign-languages",
+      "title": "全国医学英语词汇竞赛",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026204项，赛事等级 B，级别为国家级。责任单位：外国语学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-205",
+      "college": "foreign-languages",
+      "title": "上海市第二届学术英语演讲比赛",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026205项，赛事等级 B，级别为省部级、校级。责任单位：外国语学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-206",
+      "college": "foreign-languages",
+      "title": "笹川杯全国高校日本知识大赛",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026206项，赛事等级 B，级别为国家级、校级。责任单位：外国语学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-207",
+      "college": "foreign-languages",
+      "title": "笹川杯日本研究论文大赛",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026207项，赛事等级 B，级别为国家级、校级。责任单位：外国语学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-208",
+      "college": "foreign-languages",
+      "title": "亚太青年模拟 APEC大会",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026208项，赛事等级 B，级别为国家级、省部级。责任单位：外国语学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-209",
+      "college": "foreign-languages",
+      "title": "中国大学生5分钟科研英语演讲大赛",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026209项，赛事等级 B，级别为国家级、校级。责任单位：外国语学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-210",
+      "college": "foreign-languages",
+      "title": "中国人日语作文大赛",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026210项，赛事等级 B，级别为国家级、校级。责任单位：外国语学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-211",
+      "college": "foreign-languages",
+      "title": "中华全国日语演讲比赛",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026211项，赛事等级 B，级别为国家级、省部级、校级。责任单位：外国语学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-212",
+      "college": "physics",
+      "title": "国际大学生物理竞赛（2026）",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026212项，赛事等级 B，级别为国际级。责任单位：物理科学与工程学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-213",
+      "college": "physics",
+      "title": "全国部分地区大学生物理竞赛（上海赛区）",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026213项，赛事等级 B，级别为省部级、校级。责任单位：物理科学与工程学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-214",
+      "college": "physics",
+      "title": "中国大学生物理学术竞赛（2026）",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026214项，赛事等级 B，级别为国家级、省部级、校级。责任单位：物理科学与工程学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-215",
+      "college": "med",
+      "title": "全国大学生智能技术应用大赛",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026215项，赛事等级 B，级别为国家级。责任单位：医学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-216",
+      "college": "med",
+      "title": "医学虚拟仿真实验创新大赛",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026216项，赛事等级 B，级别为国家级。责任单位：医学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-217",
+      "college": "arts-media",
+      "title": "“半夏的纪念”北京国际大学生影像展",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026217项，赛事等级 B，级别为国家级。责任单位：艺术与传媒学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-218",
+      "college": "arts-media",
+      "title": "“国青杯”高校艺术设计作品展评",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026218项，赛事等级 B，级别为国家级。责任单位：艺术与传媒学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-219",
+      "college": "arts-media",
+      "title": "第十一届“汇创青春”——大学生文化创意作品展示活动（数媒、动画类）",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026219项，赛事等级 B，级别为省部级。责任单位：艺术与传媒学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-220",
+      "college": "arts-media",
+      "title": "ACP世界大赛",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026220项，赛事等级 B，级别为国际级。责任单位：艺术与传媒学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-221",
+      "college": "arts-media",
+      "title": "白玉兰国际音乐节",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026221项，赛事等级 B，级别为国家级。责任单位：艺术与传媒学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-222",
+      "college": "arts-media",
+      "title": "北京国际电影节“游戏•动漫•电影单元”高校动画短片、漫画作品评选",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026222项，赛事等级 B，级别为国家级。责任单位：艺术与传媒学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-223",
+      "college": "arts-media",
+      "title": "第十一届“汇创青春”——大学生文化创意作品展示活动（戏剧舞蹈类）",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026223项，赛事等级 B，级别为省部级。责任单位：艺术与传媒学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-224",
+      "college": "arts-media",
+      "title": "第十一届“汇创青春”——大学生文化创意作品展示活动（音乐艺术类）",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026224项，赛事等级 B，级别为省部级。责任单位：艺术与传媒学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-225",
+      "college": "arts-media",
+      "title": "第十一届“汇创青春”——大学生文化创意作品展示活动（综合类（影视））",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026225项，赛事等级 B，级别为省部级。责任单位：艺术与传媒学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-226",
+      "college": "arts-media",
+      "title": "法国巴黎音乐艺术大赛",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026226项，赛事等级 B，级别为国家级。责任单位：艺术与传媒学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-227",
+      "college": "arts-media",
+      "title": "华为影像 · 金鸡手机电影计划",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026227项，赛事等级 B，级别为国家级。责任单位：艺术与传媒学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-228",
+      "college": "arts-media",
+      "title": "金犊奖国际竞赛",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026228项，赛事等级 B，级别为国际级。责任单位：艺术与传媒学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-229",
+      "college": "arts-media",
+      "title": "蓝桥杯大赛视觉艺术设计赛",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026229项，赛事等级 B，级别为国家级、省部级。责任单位：艺术与传媒学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-230",
+      "college": "arts-media",
+      "title": "李斯特国际青少年钢琴大赛",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026230项，赛事等级 B，级别为国家级。责任单位：艺术与传媒学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-231",
+      "college": "arts-media",
+      "title": "睿抗机器人开发者大赛 CAIA数字文化创意赛道",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026231项，赛事等级 B，级别为国家级、省部级。责任单位：艺术与传媒学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-232",
+      "college": "arts-media",
+      "title": "上海大学生国际广告节",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026232项，赛事等级 B，级别为省部级。责任单位：艺术与传媒学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-233",
+      "college": "arts-media",
+      "title": "中国大学生创意节",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026233项，赛事等级 B，级别为国家级。责任单位：艺术与传媒学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-234",
+      "college": "arts-media",
+      "title": "中国大学生广告艺术节学院奖",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026234项，赛事等级 B，级别为国家级。责任单位：艺术与传媒学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-235",
+      "college": "arts-media",
+      "title": "中国高等院校影视协会年度推优暨“学院奖”大赛",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026235项，赛事等级 B，级别为国家级。责任单位：艺术与传媒学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-236",
+      "college": "arts-media",
+      "title": "中国国际动漫节“金猴奖”",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026236项，赛事等级 B，级别为国际级。责任单位：艺术与传媒学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-237",
+      "college": "arts-media",
+      "title": "中国品牌设计大赛",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026237项，赛事等级 B，级别为国家级。责任单位：艺术与传媒学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-238",
+      "college": "arts-media",
+      "title": "中国青少年音乐比赛•蜂鸟音乐奖",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026238项，赛事等级 B，级别为国家级。责任单位：艺术与传媒学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-239",
+      "college": "arts-media",
+      "title": "中国数据新闻大赛",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026239项，赛事等级 B，级别为国家级。责任单位：艺术与传媒学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-240",
+      "college": "unit-29",
+      "title": "博睿杯“我是外交官”全国大学生外交风采大赛",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026240项，赛事等级 B，级别为国家级。责任单位：政治与国际关系学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-241",
+      "college": "smse",
+      "title": "全国土木工程材料作品设计大赛",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026241项，赛事等级 C，级别为校级。责任单位：材料科学与工程学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-242",
+      "college": "smse",
+      "title": "上海市土木工程材料知识竞赛",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026242项，赛事等级 C，级别为校级。责任单位：材料科学与工程学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-243",
+      "college": "unit-23",
+      "title": "第14届同济大学应用力学创新竞赛",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026243项，赛事等级 C，级别为校级。责任单位：航空航天与力学学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-244",
+      "college": "chem",
+      "title": "同济大学化学知识竞赛",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026244项，赛事等级 C，级别为校级。责任单位：化学科学与工程学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-245",
+      "college": "mechanical",
+      "title": "“建环杯”人工环境健康度智能诊断竞赛",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026245项，赛事等级 C，级别为校级。责任单位：机械工程与机器人学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-246",
+      "college": "unit-30",
+      "title": "济时开讲",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026246项，赛事等级 C，级别为校级。责任单位：马克思主义学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-247",
+      "college": "unit-30",
+      "title": "使命与担当",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026247项，赛事等级 C，级别为校级。责任单位：马克思主义学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-248",
+      "college": "di",
+      "title": "“学院杯”中国室内与环境设计大赛",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026248项，赛事等级 C，级别为国家级。责任单位：设计创意学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-249",
+      "college": "di",
+      "title": "中国设计智造奖",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026249项，赛事等级 C，级别为国家级。责任单位：设计创意学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-250",
+      "college": "foreign-languages",
+      "title": "上海市大学生日语才能演示大赛",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026250项，赛事等级 C，级别为省部级、校级。责任单位：外国语学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-251",
+      "college": "foreign-languages",
+      "title": "同济大学新生德语能力竞赛",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026251项，赛事等级 C，级别为校级。责任单位：外国语学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-252",
+      "college": "physics",
+      "title": "同济大学创新物理实验设计竞赛（2026）",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026252项，赛事等级 C，级别为校级。责任单位：物理科学与工程学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-253",
+      "college": "med",
+      "title": "同济大学医学院2026 年医学生临床综合技能竞赛",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026253项，赛事等级 C，级别为校级。责任单位：医学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-254",
+      "college": "unit-29",
+      "title": "“卓越杯”全球治理与中国方案——青年国际胜任力案例设计大赛",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026254项，赛事等级 C，级别为校级。责任单位：政治与国际关系学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    },
+    {
+      "id": "school-255",
+      "college": "unit-31",
+      "title": "“汇川杯”全国智能自动化创新大赛",
+      "category": "校级竞赛目录",
+      "detail": "2026校级目录第2026255项，赛事等级 C，级别为国家级、省部级。责任单位：中德工程学院。",
+      "source": "https://ghc.tongji.edu.cn/__local/6/44/4F/BC7220220700B3281CCE6799E4B_0205F811_3CFEB.pdf",
+      "sourceLabel": "同济大学本科生学科竞赛目录（2026版）"
+    }
+  ],
+  "events": [
+    {
+      "id": "neccs26-signup",
+      "title": "2026 全国大学生英语竞赛（同济考点）",
+      "kind": "竞赛",
+      "stage": "校内报名",
+      "start": "2026-03-01",
+      "colleges": [],
+      "note": "本科生B、C类。年级、既往缺考及非英语专业资格限制见通知。",
+      "source": "https://gongyingbu.tongji.edu.cn/info/1037/1396.htm",
+      "sourceLabel": "同济大学外国语学院公共英语教学部",
+      "catalogIds": [
+        "school-84",
+        "fl-directory-6"
+      ],
+      "end": "2026-03-15"
+    },
+    {
+      "id": "x-chem-design",
+      "title": "第二十届全国大学生化工设计竞赛",
+      "kind": "竞赛",
+      "stage": "全国报名",
+      "start": "2026-03-01",
+      "end": "2026-03-31",
+      "colleges": [],
+      "note": "参赛团队通过组委会网站在线填写报名表。",
+      "source": "https://iche.zju.edu.cn/uploads/20260228/ad683cd23bc2417ffa3e1dd020f000a7.pdf",
+      "sourceLabel": "全国大学生化工设计竞赛组委会通知（PDF）",
+      "catalogIds": [
+        "gh-17",
+        "school-27"
+      ]
+    },
+    {
+      "id": "x-ican",
+      "title": "第二十届 iCAN 大学生创新创业大赛",
+      "kind": "竞赛",
+      "stage": "全国报名",
+      "start": "2026-04-01",
+      "end": "2026-08-31",
+      "colleges": [],
+      "note": "全国大赛报名窗口；各赛区选拔日程另行通知。",
+      "source": "https://www.g-ican.com/news/details?id=234",
+      "sourceLabel": "iCAN 大学生创新创业大赛组委会",
+      "catalogIds": [
+        "gh-7",
+        "school-6",
+        "di-a16"
+      ]
+    },
+    {
+      "id": "neccs26-pre",
+      "title": "2026 全国大学生英语竞赛（同济考点）",
+      "kind": "竞赛",
+      "stage": "初赛",
+      "start": "2026-04-12T09:00:00+08:00",
+      "colleges": [],
+      "note": "笔试，四平路、嘉定校区设考点。",
+      "source": "https://gongyingbu.tongji.edu.cn/info/1037/1396.htm",
+      "sourceLabel": "同济大学外国语学院公共英语教学部",
+      "catalogIds": [
+        "school-84",
+        "fl-directory-6"
+      ],
+      "end": "2026-04-12T11:00:00+08:00"
+    },
+    {
+      "id": "stats26-submit",
+      "title": "第十二届全国大学生统计建模大赛同济校赛",
+      "kind": "竞赛",
+      "stage": "作品截止",
+      "start": "2026-04-30T18:00:00+08:00",
+      "colleges": [],
+      "note": "报名截止为 3 月 24 日 24:00。校赛由数学科学学院组织，全校全日制本科生与研究生分组参赛，每队 3 人。",
+      "source": "https://math.tongji.edu.cn/info/1180/13261.htm",
+      "sourceLabel": "数学科学学院校赛通知",
+      "catalogIds": [
+        "math-stats",
+        "gh-11"
+      ]
+    },
+    {
+      "id": "neccs26-final",
+      "title": "2026 全国大学生英语竞赛（同济考点）",
+      "kind": "竞赛",
+      "stage": "决赛",
+      "start": "2026-05-10T09:00:00+08:00",
+      "colleges": [],
+      "note": "此时段为笔试，口试另行安排。",
+      "source": "https://gongyingbu.tongji.edu.cn/info/1037/1396.htm",
+      "sourceLabel": "同济大学外国语学院公共英语教学部",
+      "catalogIds": [
+        "school-84",
+        "fl-directory-6"
+      ],
+      "end": "2026-05-10T11:00:00+08:00"
+    },
+    {
+      "id": "transport-final-20260523",
+      "title": "第二十一届全国大学生交通运输科技大赛",
+      "kind": "竞赛",
+      "stage": "全国决赛",
+      "start": "2026-05-23",
+      "colleges": [
+        "transport"
+      ],
+      "note": "决赛在北京建筑大学举行。",
+      "source": "https://jty.njfu.edu.cn/xydt/20260525/i358598.html",
+      "sourceLabel": "南京林业大学汽车与交通工程学院参赛报道",
+      "end": "2026-05-24",
+      "catalogIds": [
+        "school-167"
+      ]
+    },
+    {
+      "id": "see-smartcar-race-20260530",
+      "title": "全国大学生智能汽车竞赛同济预选",
+      "kind": "竞赛",
+      "stage": "竞速赛",
+      "start": "2026-05-30",
+      "colleges": [
+        "electronics"
+      ],
+      "note": "在汽车学院和电信学院基地举行。",
+      "source": "https://see.tongji.edu.cn/info/1178/14809.htm",
+      "sourceLabel": "同济大学电子与信息工程学院校赛报道",
+      "catalogIds": [
+        "see-smartcar",
+        "gh-60",
+        "school-19"
+      ]
+    },
+    {
+      "id": "med-imspq-registration-2026",
+      "title": "第22届国际医学生生理学竞赛（IMSPQ）",
+      "kind": "竞赛",
+      "stage": "常规报名",
+      "start": "2026-06-01",
+      "end": "2026-06-30",
+      "colleges": [
+        "med"
+      ],
+      "catalogIds": [
+        "med-imspq"
+      ],
+      "note": "马来亚大学接受各医学院团队报名，按队提交申请。此日期取自主办方常规报名表。",
+      "source": "https://umevent.um.edu.my/22NDIMSPQ2026=86a1793f65aeef4aeef4b479fc9b2bca",
+      "sourceLabel": "马来亚大学报名与缴费说明"
+    },
+    {
+      "id": "see-smartcar-ideas-20260606",
+      "title": "全国大学生智能汽车竞赛同济预选",
+      "kind": "竞赛",
+      "stage": "综合创意赛",
+      "start": "2026-06-06",
+      "colleges": [
+        "electronics"
+      ],
+      "note": "在电信学院基地举行。",
+      "source": "https://see.tongji.edu.cn/info/1178/14809.htm",
+      "sourceLabel": "同济大学电子与信息工程学院校赛报道",
+      "catalogIds": [
+        "see-smartcar",
+        "gh-60",
+        "school-19"
+      ]
+    },
+    {
+      "id": "pilot26-signup",
+      "title": "同济大学智能计算创新设计赛（先导杯校赛）",
+      "kind": "竞赛",
+      "stage": "报名",
+      "start": "2026-06-08",
+      "colleges": [
+        "computer"
+      ],
+      "note": "本校在读学生可跨专业组队，每队3至4人。",
+      "source": "https://cs.tongji.edu.cn/info/1113/3878.htm",
+      "sourceLabel": "同济大学计算机科学与技术学院",
+      "catalogIds": [],
+      "end": "2026-07-01"
+    },
+    {
+      "id": "pilot26-contest",
+      "title": "同济大学智能计算创新设计赛（先导杯校赛）",
+      "kind": "竞赛",
+      "stage": "比赛",
+      "start": "2026-07-03",
+      "colleges": [
+        "computer"
+      ],
+      "note": "嘉定校区线下开展金融大模型推理部署优化赛题。",
+      "source": "https://cs.tongji.edu.cn/info/1113/3878.htm",
+      "sourceLabel": "同济大学计算机科学与技术学院",
+      "catalogIds": [],
+      "end": "2026-07-05"
+    },
+    {
+      "id": "fl-video-20260820",
+      "title": "全国大学生外语能力大赛英语组短视频校选",
+      "kind": "竞赛",
+      "stage": "报名及交件截止",
+      "start": "2026-08-20T16:00:00+08:00",
+      "colleges": [
+        "foreign-languages"
+      ],
+      "note": "同济选手须完成官网报名并向校赛指定邮箱提交视频。",
+      "source": "https://gongyingbu.tongji.edu.cn/info/1036/1391.htm",
+      "sourceLabel": "同济外国语学院校内选拔通知",
+      "catalogIds": [
+        "fl-ugc-english",
+        "school-81"
+      ]
+    },
+    {
+      "id": "fl-fournew-20260831",
+      "title": "全国大学生外语能力大赛英语组“四新”校选",
+      "kind": "竞赛",
+      "stage": "报名及交件截止",
+      "start": "2026-08-31",
+      "colleges": [
+        "foreign-languages"
+      ],
+      "note": "通知原文为8月31日24:00。官网报名后同时提交英文研究报告。",
+      "source": "https://gongyingbu.tongji.edu.cn/info/1036/1391.htm",
+      "sourceLabel": "同济外国语学院校内选拔通知",
+      "catalogIds": [
+        "fl-ugc-english",
+        "school-81"
+      ]
+    },
+    {
+      "id": "med-imspq-contest-2026",
+      "title": "第22届国际医学生生理学竞赛（IMSPQ）",
+      "kind": "竞赛",
+      "stage": "比赛",
+      "start": "2026-09-09",
+      "end": "2026-09-10",
+      "colleges": [
+        "med"
+      ],
+      "catalogIds": [
+        "med-imspq"
+      ],
+      "note": "比赛在马来西亚吉隆坡的马来亚大学医学院举行，来自不同国家的医学生组队参加。",
+      "source": "https://medicine.um.edu.my/events/22nd-inter-medical-school-physiology-quiz-imspq-2026",
+      "sourceLabel": "马来亚大学医学院赛程公告"
+    },
+    {
+      "id": "cumcm26",
+      "title": "2026 高教社杯全国大学生数学建模竞赛",
+      "kind": "竞赛",
+      "stage": "比赛",
+      "start": "2026-09-10T18:00:00+08:00",
+      "colleges": [],
+      "note": "全国统一竞赛时段。",
+      "source": "https://shumo.hrbeu.edu.cn/_upload/article/files/97/75/fae9f59e403d911aaea9159aedb4/9e5cc07f-51b4-4e9b-b968-a754b293fd33.pdf",
+      "sourceLabel": "全国组委会竞赛通知（高校刊载）",
+      "catalogIds": [
+        "gh-9",
+        "school-74",
+        "caup-model",
+        "math-cumcm"
+      ],
+      "end": "2026-09-13T20:00:00+08:00"
+    },
+    {
+      "id": "law-digital-2026",
+      "title": "法学院本科生奖学金第二课堂附加分",
+      "kind": "奖学金",
+      "stage": "电子材料截止",
+      "start": "2026-09-12T17:00:00+08:00",
+      "colleges": [
+        "law"
+      ],
+      "catalogIds": [
+        "law-second"
+      ],
+      "note": "2025—2026学年第一批评奖。在线提交已获奖项材料，证书落款须在2025年9月1日至2026年8月31日。另须按期递交一致的纸质版。",
+      "source": "https://law.tongji.edu.cn/info/1090/8699.htm",
+      "sourceLabel": "法学院2025—2026学年本科生奖学金通知"
+    },
+    {
+      "id": "math-scholar26",
+      "title": "数学科学学院本科生奖学金",
+      "kind": "奖学金",
+      "stage": "申报截止",
+      "start": "2026-09-14",
+      "colleges": [
+        "math"
+      ],
+      "note": "2025—2026 学年奖学金申请问卷于当日 24:00 截止。申请人同步向班长报备，班级于 9 月 15 至 16 日评议。",
+      "source": "https://math.tongji.edu.cn/info/1029/13398.htm",
+      "sourceLabel": "数学科学学院本科生评审通知",
+      "catalogIds": []
+    },
+    {
+      "id": "law-paper-2026",
+      "title": "法学院本科生奖学金第二课堂附加分",
+      "kind": "奖学金",
+      "stage": "纸质材料截止",
+      "start": "2026-09-14T17:00:00+08:00",
+      "colleges": [
+        "law"
+      ],
+      "catalogIds": [
+        "law-second"
+      ],
+      "note": "向衷和楼1301B学生工作办公室提交纸质材料，内容需与已提交的电子版一致。",
+      "source": "https://law.tongji.edu.cn/info/1090/8699.htm",
+      "sourceLabel": "法学院2025—2026学年本科生奖学金通知"
+    },
+    {
+      "id": "di-scholar26",
+      "title": "设计创意学院本科生奖学金（第一批）",
+      "kind": "奖学金",
+      "stage": "材料截止",
+      "start": "2026-09-16T12:00:00+08:00",
+      "colleges": [
+        "di"
+      ],
+      "note": "2025—2026 学年首批申请需提交表格及证明材料，并按通知填写线上汇总。",
+      "source": "https://student-tjdi.tongji.edu.cn/detail.do?id=970",
+      "sourceLabel": "设计创意学院评审通知",
+      "catalogIds": []
+    },
+    {
+      "id": "cmc18-signup",
+      "title": "第十八届全国大学生数学竞赛（上海赛区）",
+      "kind": "竞赛",
+      "stage": "校内报名",
+      "start": "2026-09-17T07:00:00+08:00",
+      "colleges": [],
+      "note": "同济考生在教务系统报名，并按通知填写补充信息。",
+      "source": "https://gaoshutongbu.tongji.edu.cn/info/1056/1602.htm",
+      "sourceLabel": "同济大学上海赛区报名通知",
+      "catalogIds": [
+        "gh-8",
+        "school-73",
+        "math-cmc"
+      ],
+      "end": "2026-09-24T21:00:00+08:00"
+    },
+    {
+      "id": "chem26-award",
+      "title": "化学科学与工程学院本科生奖学金",
+      "kind": "奖学金",
+      "stage": "申报截止",
+      "start": "2026-09-17T17:00:00+08:00",
+      "colleges": [
+        "chem"
+      ],
+      "note": "2025–2026学年，9月14日起受理；按本次通知提交综合评定材料。",
+      "source": "https://chemweb.tongji.edu.cn/info/1538/15860.htm",
+      "sourceLabel": "化学科学与工程学院学年评审通知",
+      "catalogIds": []
+    },
+    {
+      "id": "caup-scholar26",
+      "title": "建筑与城市规划学院本科生奖学金",
+      "kind": "奖学金",
+      "stage": "材料截止",
+      "start": "2026-09-18T18:00:00+08:00",
+      "colleges": [
+        "caup"
+      ],
+      "note": "提交 2025 年 9 月 1 日至 2026 年 8 月 31 日取得的竞赛等材料。附件 2 按省部级、国家级单项获奖及等级计算竞赛加分，累计上限 0.08。",
+      "source": "https://caup.tongji.edu.cn/d4/a1/c33822a382113/page.htm",
+      "sourceLabel": "建城学院本科生奖学金统计通知",
+      "catalogIds": []
+    },
+    {
+      "id": "arts-review-20260928",
+      "title": "艺术与传媒学院本科生第二批奖学金综测",
+      "kind": "奖学金",
+      "stage": "申报截止",
+      "start": "2026-09-28T12:00:00+08:00",
+      "colleges": [
+        "arts-media"
+      ],
+      "note": "提交综测数据包并在学院成果系统录入2025–2026学年成果。",
+      "source": "https://am.tongji.edu.cn/info/1549/6051.htm",
+      "sourceLabel": "艺术与传媒学院第二批综测申报通知",
+      "catalogIds": []
+    },
+    {
+      "id": "hypcup26",
+      "title": "2026 霍普杯国际大学生建筑设计竞赛",
+      "kind": "竞赛",
+      "stage": "作品截止",
+      "start": "2026-10-10",
+      "colleges": [
+        "caup"
+      ],
+      "note": "北京时间 10 月 10 日 24:00 前提交。面向符合组委会资格要求的建筑及相关专业学生，含个人和小组参赛。",
+      "source": "https://hypcup.uedmagazine.net/?a=index&c=Lists&m=home&tid=39",
+      "sourceLabel": "霍普杯组委会竞赛规则",
+      "catalogIds": [
+        "caup-h"
+      ]
+    },
+    {
+      "id": "x-milan-design",
+      "title": "第十一届米兰设计周：“数智融境，风物新语”文创创新实践设计大赛",
+      "kind": "竞赛",
+      "stage": "线上投稿",
+      "start": "2026-10-19",
+      "end": "2027-01-31",
+      "colleges": [],
+      "note": "本日期适用于该具体赛题；其他赛题以各自的征集安排为准。",
+      "source": "https://www.milan-aap.org.cn/#/channel/wccx",
+      "sourceLabel": "米兰设计周高校设计作品展赛题页",
+      "catalogIds": [
+        "gh-62",
+        "school-91",
+        "school-91-2"
+      ]
+    },
+    {
+      "id": "tjpt-apply",
+      "title": "第二届同济大学大学生物理学术竞赛（TJPT）",
+      "kind": "竞赛",
+      "stage": "初赛报名",
+      "start": "2026-10-20",
+      "end": "2026-10-31",
+      "colleges": [
+        "physics"
+      ],
+      "note": "本科生院、创新创业学院主办，物理科学与工程学院承办。面向全校 2025、2026 级理工科学生。 可个人参赛或组队，每队最多 5 人。",
+      "source": "https://mphylab.tongji.edu.cn/page/home/info23624_INFO",
+      "sourceLabel": "物理实验教学示范中心赛事通知",
+      "catalogIds": [
+        "gh-14",
+        "rail-36"
+      ]
+    },
+    {
+      "id": "x-robomaster-2027",
+      "title": "RoboMaster 2027 机甲大师超级对抗赛",
+      "kind": "竞赛",
+      "stage": "战队报名",
+      "start": "2026-10-20T15:00:00+08:00",
+      "end": "2026-10-27T15:00:00+08:00",
+      "colleges": [],
+      "note": "符合资格的高校战队通过组委会报名系统提交。",
+      "source": "https://www.robomaster.com/zh-CN/robo/rm",
+      "sourceLabel": "RoboMaster 组委会",
+      "catalogIds": [
+        "gh-42"
+      ]
+    },
+    {
+      "id": "x-milan-rural",
+      "title": "第十一届米兰设计周：第二届乡村新消费暨 OPC 创新实践大赛",
+      "kind": "竞赛",
+      "stage": "线上投稿",
+      "start": "2026-10-23",
+      "end": "2027-01-31",
+      "colleges": [],
+      "note": "本日期适用于该具体赛题；其他赛题以各自的征集安排为准。",
+      "source": "https://www.milan-aap.org.cn/#/channel/xcxxf",
+      "sourceLabel": "米兰设计周高校设计作品展赛题页",
+      "catalogIds": [
+        "gh-62",
+        "school-91",
+        "school-91-2"
+      ]
+    },
+    {
+      "id": "cs-icpc-chengdu-20261025",
+      "title": "第51届ICPC亚洲区域赛成都站",
+      "kind": "竞赛",
+      "stage": "区域赛",
+      "start": "2026-10-25",
+      "colleges": [
+        "computer"
+      ],
+      "note": "在电子科技大学举行，同济大学组队参加。",
+      "source": "https://ci.tongji.edu.cn/62/86/c29620a418438/page.htm",
+      "sourceLabel": "同济大学计算机与信息技术国家级实验教学示范中心",
+      "catalogIds": [
+        "cs-icpc",
+        "gh-28"
+      ]
+    },
+    {
+      "id": "mgg-gov-2027",
+      "title": "2027年度中国政府海洋奖学金（来华读研）",
+      "kind": "奖学金",
+      "stage": "申请",
+      "start": "2026-10-25",
+      "end": "2026-12-20",
+      "colleges": [
+        "mgg",
+        "sese",
+        "unit-26",
+        "electronics"
+      ],
+      "note": "面向公告所列南海、印度洋及太平洋周边和岛屿国家以及非洲发展中国家的非中国籍公民。申请涉海硕士或博士，须先取得同济拟接收导师同意，并完成两个平台报名及邮件报送。",
+      "source": "https://mgg.tongji.edu.cn/5e/96/c10076a417430/page.htm",
+      "sourceLabel": "海洋与地球科学学院2027年申请办法",
+      "catalogIds": []
+    },
+    {
+      "id": "x-challenge-cup",
+      "title": "第十五届“挑战杯”中国大学生创业计划竞赛",
+      "kind": "竞赛",
+      "stage": "终审决赛",
+      "start": "2026-10-30",
+      "end": "2026-11-02",
+      "colleges": [],
+      "note": "大连理工大学承办，包含主体赛及专项赛。",
+      "source": "https://www.cae.cn/cae/html/main/col125/2026-11/05/20261105111721432426011_1.html",
+      "sourceLabel": "中国工程院赛事报道",
+      "catalogIds": [
+        "gh-3",
+        "school-2",
+        "rail-4",
+        "di-a3",
+        "arts-innovation-3"
+      ]
+    },
+    {
+      "id": "x-energy-saving",
+      "title": "第二十届全国大学生节能减排社会实践与科技竞赛",
+      "kind": "竞赛",
+      "stage": "校内报名截止",
+      "start": "2026-10-30",
+      "colleges": [],
+      "note": "同济大学校内报名表收取节点。校内选拔日期由后续通知确定。",
+      "source": "https://caup.tongji.edu.cn/d7/fa/c33362a382970/page.htm",
+      "sourceLabel": "同济大学建筑与城市规划学院转载校赛通知",
+      "catalogIds": [
+        "gh-66",
+        "school-36",
+        "caup-energy"
+      ]
+    },
+    {
+      "id": "fl-german-star-20261101",
+      "title": "第五届“德语之星”全国高校德语演讲比赛",
+      "kind": "竞赛",
+      "stage": "决赛",
+      "start": "2026-11-01T08:00:00+08:00",
+      "colleges": [
+        "foreign-languages"
+      ],
+      "note": "同济大学主办，地点为同济大学德文图书馆。",
+      "source": "https://deutsch.tongji.edu.cn/info/1041/1386.htm",
+      "sourceLabel": "同济大学外国语学院德语系决赛通告",
+      "catalogIds": [
+        "fl-directory-7",
+        "school-192"
+      ],
+      "end": "2026-11-01T12:30:00+08:00"
+    },
+    {
+      "id": "x-ccpc-women",
+      "title": "第十二届中国大学生程序设计竞赛（女生专场）",
+      "kind": "竞赛",
+      "stage": "正式比赛",
+      "start": "2026-11-01T09:00:00+08:00",
+      "end": "2026-11-01T14:00:00+08:00",
+      "colleges": [],
+      "note": "成都信息工程大学承办，比赛时长 5 小时。",
+      "source": "https://www.cuit.edu.cn/info/1003/17263.htm",
+      "sourceLabel": "成都信息工程大学赛事报道",
+      "catalogIds": [
+        "gh-29",
+        "school-144"
+      ]
+    },
+    {
+      "id": "x-upc",
+      "title": "2026 国际大学生物理竞赛",
+      "kind": "竞赛",
+      "stage": "比赛",
+      "start": "2026-11-07T09:00:00+08:00",
+      "end": "2026-11-09T09:00:00+08:00",
+      "colleges": [],
+      "note": "原定北美山地标准时间 11 月 6 日 18:00 开赛，持续 48 小时，已换算为北京时间。",
+      "source": "https://www.uphysicsc.com/2026contest.html",
+      "sourceLabel": "University Physics Competition 组委会",
+      "catalogIds": [
+        "gh-13",
+        "school-212"
+      ]
+    },
+    {
+      "id": "jmc-landscape",
+      "title": "普洱景迈山古茶林文化景观世界遗产主题展",
+      "kind": "校园活动",
+      "stage": "展览",
+      "start": "2026-11-14",
+      "end": "2026-11-30",
+      "colleges": [
+        "caup"
+      ],
+      "note": "同济大学建筑与城市规划学院钟庭展厅。与北京大学城市与环境学院共同策划，展示景迈山茶林与传统村落的保护及申遗历程。",
+      "source": "https://landscape-caup.tongji.edu.cn/5d/ec/c10586a417260/page.htm",
+      "sourceLabel": "建城学院景观学系展览预告",
+      "catalogIds": []
+    },
+    {
+      "id": "cmc18-test",
+      "title": "第十八届全国大学生数学竞赛（上海赛区）",
+      "kind": "竞赛",
+      "stage": "初赛",
+      "start": "2026-11-14T09:00:00+08:00",
+      "colleges": [],
+      "note": "上海赛区初赛同时作为上海市大学生数学竞赛。",
+      "source": "https://gaoshutongbu.tongji.edu.cn/info/1056/1602.htm",
+      "sourceLabel": "同济大学上海赛区报名通知",
+      "catalogIds": [
+        "gh-8",
+        "school-73",
+        "math-cmc"
+      ],
+      "end": "2026-11-14T11:30:00+08:00"
+    },
+    {
+      "id": "x-cncee-signup",
+      "title": "第十三届全国大学生能源经济学术创意大赛",
+      "kind": "竞赛",
+      "stage": "全国报名",
+      "start": "2026-11-17",
+      "end": "2026-12-16",
+      "colleges": [],
+      "note": "由作品联系人在大赛系统办理报名，取得作品编号后可提交作品。",
+      "source": "https://energy.qibebt.ac.cn/eneco/contribution/index.html#/newsDetail?id=982d8290-d469-11f1-9175-7b297bcc3d39",
+      "sourceLabel": "全国大学生能源经济学术创意大赛第 1 号通知",
+      "catalogIds": [
+        "gh-67",
+        "school-30"
+      ]
+    },
+    {
+      "id": "x-physics-experiment",
+      "title": "第十二届全国大学生物理实验竞赛（创新）",
+      "kind": "竞赛",
+      "stage": "全国决赛",
+      "start": "2026-11-21",
+      "end": "2026-11-22",
+      "colleges": [],
+      "note": "本届决赛由哈尔滨工业大学承办。",
+      "source": "https://cri.hit.edu.cn/2026/1124/c16138a408206/page.htm",
+      "sourceLabel": "哈尔滨工业大学决赛报道",
+      "catalogIds": [
+        "gh-15",
+        "school-86"
+      ]
+    },
+    {
+      "id": "fl-translation-20261121",
+      "title": "全国大学生外语能力大赛英语组笔译国赛",
+      "kind": "竞赛",
+      "stage": "第一阶段",
+      "start": "2026-11-21T14:00:00+08:00",
+      "colleges": [
+        "foreign-languages"
+      ],
+      "note": "晋级选手线上完成汉英、英汉译后编辑。",
+      "source": "https://ucc.fltrp.com/c/2026-11-06/545130.shtml",
+      "sourceLabel": "外研社英语组笔译国赛通知",
+      "end": "2026-11-21T15:00:00+08:00",
+      "catalogIds": [
+        "fl-ugc-english",
+        "school-81"
+      ]
+    },
+    {
+      "id": "sem-firm",
+      "title": "企业间联结的“双刃剑”效应",
+      "kind": "校园活动",
+      "stage": "讲座",
+      "start": "2026-11-27T14:00:00+08:00",
+      "end": "2026-11-27T15:30:00+08:00",
+      "colleges": [
+        "sem"
+      ],
+      "note": "同济大厦 A 楼 2101。管理高等研究院公开学术报告第 169 期，讨论创投网络中创新与价值获取之间的关系。",
+      "source": "https://sem.tongji.edu.cn/semch/57292.html",
+      "sourceLabel": "经济与管理学院活动通知",
+      "catalogIds": []
+    },
+    {
+      "id": "tjpt-submit",
+      "title": "第二届同济大学大学生物理学术竞赛（TJPT）",
+      "kind": "竞赛",
+      "stage": "作品截止",
+      "start": "2026-11-30",
+      "colleges": [
+        "physics"
+      ],
+      "note": "本科生院、创新创业学院主办，物理科学与工程学院承办。面向全校 2025、2026 级理工科学生。 已报名队伍线上提交研究报告和视频。",
+      "source": "https://mphylab.tongji.edu.cn/page/home/info23624_INFO",
+      "sourceLabel": "物理实验教学示范中心赛事通知",
+      "catalogIds": [
+        "gh-14",
+        "rail-36"
+      ]
+    },
+    {
+      "id": "lanqiao18-ip",
+      "title": "第十八届蓝桥杯：主视觉与赛事 IP 文创专项",
+      "kind": "竞赛",
+      "stage": "报名截止",
+      "start": "2026-11-30T14:00:00+08:00",
+      "colleges": [],
+      "note": "全国系统截止时间；院校可设更早的校内截止。视觉与专项类别的认定请核对所属学院。",
+      "source": "https://www.cqie.edu.cn/uploads/98044313534702081/file/2026/10/20261028135716223_j02ilae6gr4t.pdf",
+      "sourceLabel": "蓝桥杯组委会第十八届举办通知",
+      "catalogIds": [
+        "gh-37",
+        "di-a23",
+        "school-145"
+      ]
+    },
+    {
+      "id": "red27-early",
+      "title": "2027 红点设计概念奖",
+      "kind": "竞赛",
+      "stage": "早鸟报名",
+      "start": "2026-12-01",
+      "end": "2027-01-20",
+      "colleges": [
+        "di"
+      ],
+      "note": "设计概念组（Design Concept）各报名阶段分开计费。日期按组委会公布的日历，报名费用和资格见原文。",
+      "source": "https://www.red-dot.org/de/design-concept/dates-fees",
+      "sourceLabel": "红点奖报名日程",
+      "catalogIds": [
+        "di-d3"
+      ]
+    },
+    {
+      "id": "fl-translation-20261204",
+      "title": "全国大学生外语能力大赛英语组笔译国赛",
+      "kind": "竞赛",
+      "stage": "第二阶段",
+      "start": "2026-12-04",
+      "colleges": [
+        "foreign-languages"
+      ],
+      "note": "北京线下进行，时间为12月4日上午，限第一阶段晋级的40名选手。",
+      "source": "https://ucc.fltrp.com/c/2026-11-06/545130.shtml",
+      "sourceLabel": "外研社英语组笔译国赛通知",
+      "catalogIds": [
+        "fl-ugc-english",
+        "school-81"
+      ]
+    },
+    {
+      "id": "sem-stock",
+      "title": "缺货驱动替代行为的仿真与近似",
+      "kind": "校园活动",
+      "stage": "讲座",
+      "start": "2026-12-04T14:00:00+08:00",
+      "colleges": [
+        "sem"
+      ],
+      "note": "同济大厦 A 楼 510。管理高等研究院学术研讨，报告人 Jingwei Zhang。",
+      "source": "https://sem.tongji.edu.cn/semch/57362.html",
+      "sourceLabel": "经济与管理学院活动通知",
+      "catalogIds": []
+    },
+    {
+      "id": "cs-icpc-shanghai-20261206",
+      "title": "第51届 ICPC 亚洲区域赛上海站",
+      "kind": "竞赛",
+      "stage": "正式赛",
+      "start": "2026-12-06T09:00:00+08:00",
+      "colleges": [
+        "computer"
+      ],
+      "note": "上海大学宝山校区体育馆；前一日安排报到、开幕式和热身赛。",
+      "source": "https://icpc.pku.edu.cn/docs/2026-10/390553972c6041edb3e02109b7d54fa9.pdf",
+      "sourceLabel": "ICPC 上海站正式邀请函及赛程",
+      "catalogIds": [
+        "cs-icpc",
+        "gh-28"
+      ],
+      "end": "2026-12-06T14:00:00+08:00"
+    },
+    {
+      "id": "sem-vote",
+      "title": "从信息流到选票：社交媒体讨论与股东投票",
+      "kind": "校园活动",
+      "stage": "讲座",
+      "start": "2026-12-08T14:30:00+08:00",
+      "colleges": [
+        "sem"
+      ],
+      "note": "同济大厦 A 楼 510。报告人王征，香港城市大学教授。",
+      "source": "https://sem.tongji.edu.cn/semch/57376.html",
+      "sourceLabel": "经济与管理学院活动通知",
+      "catalogIds": []
+    },
+    {
+      "id": "tjpt-round2-apply",
+      "title": "第二届同济大学大学生物理学术竞赛（TJPT）",
+      "kind": "竞赛",
+      "stage": "复赛报名",
+      "start": "2026-12-12",
+      "end": "2026-12-16",
+      "colleges": [
+        "physics"
+      ],
+      "note": "本科生院、创新创业学院主办，物理科学与工程学院承办。面向全校 2025、2026 级理工科学生。 仅初赛优胜者可组队，每队 5 人。",
+      "source": "https://mphylab.tongji.edu.cn/page/home/info23624_INFO",
+      "sourceLabel": "物理实验教学示范中心赛事通知",
+      "catalogIds": [
+        "gh-14",
+        "rail-36"
+      ]
+    },
+    {
+      "id": "lanqiao18-software",
+      "title": "第十八届蓝桥杯：软件、电子、人工智能及鸿蒙专项",
+      "kind": "竞赛",
+      "stage": "报名截止",
+      "start": "2026-12-18T14:00:00+08:00",
+      "colleges": [],
+      "note": "全国系统截止时间；院校可设更早的校内截止。视觉与专项类别的认定请核对所属学院。",
+      "source": "https://www.cqie.edu.cn/uploads/98044313534702081/file/2026/10/20261028135716223_j02ilae6gr4t.pdf",
+      "sourceLabel": "蓝桥杯组委会第十八届举办通知",
+      "catalogIds": [
+        "gh-37",
+        "school-145",
+        "di-a23"
+      ]
+    },
+    {
+      "id": "x-3d-design-national",
+      "title": "第十九届全国三维数字化创新设计大赛",
+      "kind": "竞赛",
+      "stage": "全国总决赛",
+      "start": "2026-12-19",
+      "end": "2026-12-20",
+      "colleges": [],
+      "note": "数字化设计与制造赛项，地点为广州航海学院。",
+      "source": "https://3dds.3ddl.net/index.php?ctl=Informationlist&id=760&met=details",
+      "sourceLabel": "全国三维数字化创新设计大赛组委会",
+      "catalogIds": [
+        "gh-61",
+        "school-31",
+        "di-a13"
+      ]
+    },
+    {
+      "id": "cs-icpc-nanchang-20261220",
+      "title": "第51届 ICPC 亚洲区域赛南昌站",
+      "kind": "竞赛",
+      "stage": "正式赛（拟）",
+      "start": "2026-12-20T09:00:00+08:00",
+      "colleges": [
+        "computer"
+      ],
+      "note": "江西师范大学。邀请函日程标注为拟定，前一日安排报到、开幕式和热身赛。",
+      "source": "https://icpc.pku.edu.cn/docs/2026-11/aeee3a1fced849d8b28ec6edb9d89c23.pdf",
+      "sourceLabel": "ICPC 南昌站邀请函及参赛指南",
+      "catalogIds": [
+        "cs-icpc",
+        "gh-28"
+      ],
+      "end": "2026-12-20T14:00:00+08:00"
+    },
+    {
+      "id": "tjpt-round2",
+      "title": "第二届同济大学大学生物理学术竞赛（TJPT）",
+      "kind": "竞赛",
+      "stage": "复赛",
+      "start": "2026-12-26",
+      "colleges": [
+        "physics"
+      ],
+      "note": "本科生院、创新创业学院主办，物理科学与工程学院承办。面向全校 2025、2026 级理工科学生。 初赛晋级队伍参加线下对抗赛，包括小组赛和决赛。",
+      "source": "https://mphylab.tongji.edu.cn/page/home/info23624_INFO",
+      "sourceLabel": "物理实验教学示范中心赛事通知",
+      "catalogIds": [
+        "gh-14",
+        "rail-36"
+      ]
+    },
+    {
+      "id": "cs-icpc-hongkong-20270109",
+      "title": "第51届 ICPC 亚洲区域赛香港站",
+      "kind": "竞赛",
+      "stage": "赛站日程",
+      "start": "2027-01-09",
+      "colleges": [
+        "computer"
+      ],
+      "note": "赛站由香港大学举办，参赛队伍按名额分配和注册名单确定。",
+      "source": "https://i.cs.hku.hk/~icpc/",
+      "sourceLabel": "香港大学 ICPC 赛站官网",
+      "catalogIds": [
+        "cs-icpc",
+        "gh-28",
+        "school-41"
+      ],
+      "end": "2027-01-10"
+    },
+    {
+      "id": "x-culsc-register",
+      "title": "第十二届全国大学生生命科学竞赛（科学探究类）",
+      "kind": "竞赛",
+      "stage": "报名截止",
+      "start": "2027-01-15",
+      "colleges": [],
+      "note": "科学探究类全国网络报名，截止当日 24:00。",
+      "source": "https://xxgk.czu.cn/_upload/article/files/99/77/338ca314401591e4dd6c168a649d/6b690bcf-8b09-49f1-971a-05614dcdaab5.pdf",
+      "sourceLabel": "全国大学生生命科学竞赛委员会通知（PDF）",
+      "catalogIds": [
+        "gh-21",
+        "school-72",
+        "rail-38"
+      ]
+    },
+    {
+      "id": "red27-regular",
+      "title": "2027 红点设计概念奖",
+      "kind": "竞赛",
+      "stage": "常规报名",
+      "start": "2027-01-21",
+      "end": "2027-03-17",
+      "colleges": [
+        "di"
+      ],
+      "note": "设计概念组（Design Concept）各报名阶段分开计费。日期按组委会公布的日历，报名费用和资格见原文。",
+      "source": "https://www.red-dot.org/de/design-concept/dates-fees",
+      "sourceLabel": "红点奖报名日程",
+      "catalogIds": [
+        "di-d3"
+      ]
+    },
+    {
+      "id": "sg27-training",
+      "title": "圣戈班建筑学生竞赛 2027 马德里站",
+      "kind": "竞赛",
+      "stage": "赛前培训",
+      "start": "2027-01-26T21:00:00+08:00",
+      "end": "2027-01-26T23:00:00+08:00",
+      "colleges": [
+        "caup"
+      ],
+      "note": "组委会的第二场 One Click LCA 培训。官方时间为法国当地 14:00–16:00，此处已换算为北京时间。",
+      "source": "https://architecture-student-contest.saint-gobain.com/edition-2027-madrid",
+      "sourceLabel": "圣戈班赛事官网",
+      "catalogIds": [
+        "caup-s"
+      ]
+    },
+    {
+      "id": "comap27-register",
+      "title": "2027 美国大学生数学建模竞赛 MCM/ICM",
+      "kind": "竞赛",
+      "stage": "报名截止",
+      "start": "2027-01-29T04:00:00+08:00",
+      "colleges": [],
+      "note": "指导教师须在此时间前完成注册。已将美东标准时间1月28日15:00换算为北京时间。",
+      "source": "https://www.contest.comap.org/undergraduate/contests/mcm/instructions.html",
+      "sourceLabel": "COMAP 2027 竞赛规则",
+      "catalogIds": [
+        "gh-12",
+        "math-mcm"
+      ]
+    },
+    {
+      "id": "comap27-contest",
+      "title": "2027 美国大学生数学建模竞赛 MCM/ICM",
+      "kind": "竞赛",
+      "stage": "比赛",
+      "start": "2027-01-29T06:00:00+08:00",
+      "colleges": [],
+      "note": "对应美东标准时间1月28日17:00至2月1日20:00，参赛队须在比赛结束时停止工作。",
+      "source": "https://www.contest.comap.org/undergraduate/contests/mcm/instructions.html",
+      "sourceLabel": "COMAP 2027 竞赛规则",
+      "catalogIds": [
+        "gh-12",
+        "math-mcm"
+      ],
+      "end": "2027-02-02T09:00:00+08:00"
+    },
+    {
+      "id": "x-culsc-plan",
+      "title": "第十二届全国大学生生命科学竞赛（科学探究类）",
+      "kind": "竞赛",
+      "stage": "材料截止",
+      "start": "2027-01-31",
+      "colleges": [],
+      "note": "研究综述、实验设计上传，截止当日 24:00。",
+      "source": "https://xxgk.czu.cn/_upload/article/files/99/77/338ca314401591e4dd6c168a649d/6b690bcf-8b09-49f1-971a-05614dcdaab5.pdf",
+      "sourceLabel": "全国大学生生命科学竞赛委员会通知（PDF）",
+      "catalogIds": [
+        "gh-21",
+        "school-72",
+        "rail-38"
+      ]
+    },
+    {
+      "id": "comap27-submit",
+      "title": "2027 美国大学生数学建模竞赛 MCM/ICM",
+      "kind": "竞赛",
+      "stage": "提交截止",
+      "start": "2027-02-02T10:00:00+08:00",
+      "colleges": [],
+      "note": "最终论文提交期限比停止作答晚一小时。",
+      "source": "https://www.contest.comap.org/undergraduate/contests/mcm/instructions.html",
+      "sourceLabel": "COMAP 2027 竞赛规则",
+      "catalogIds": [
+        "gh-12",
+        "math-mcm"
+      ]
+    },
+    {
+      "id": "if27-jury",
+      "title": "2027 iF 设计奖",
+      "kind": "竞赛",
+      "stage": "终审",
+      "start": "2027-02-16",
+      "end": "2027-02-18",
+      "colleges": [
+        "di"
+      ],
+      "note": "汉堡终审，限预选入围作品；参赛报名已于 2026 年 11 月结束。日期按主办方当地日历。",
+      "source": "https://ifdesign.com/en/if-design-award-get-in-contact",
+      "sourceLabel": "iF 设计奖年度日程",
+      "catalogIds": [
+        "di-d2"
+      ]
+    },
+    {
+      "id": "x-cncee-works",
+      "title": "第十三届全国大学生能源经济学术创意大赛",
+      "kind": "竞赛",
+      "stage": "作品提交",
+      "start": "2027-02-22",
+      "end": "2027-03-13",
+      "colleges": [],
+      "note": "已取得作品编号的团队由联系人上传作品与相关材料。",
+      "source": "https://energy.qibebt.ac.cn/eneco/contribution/index.html#/newsDetail?id=982d8290-d469-11f1-9175-7b297bcc3d39",
+      "sourceLabel": "全国大学生能源经济学术创意大赛第 1 号通知",
+      "catalogIds": [
+        "gh-67",
+        "school-30"
+      ]
+    },
+    {
+      "id": "red27-late",
+      "title": "2027 红点设计概念奖",
+      "kind": "竞赛",
+      "stage": "后期报名",
+      "start": "2027-03-18",
+      "end": "2027-04-28",
+      "colleges": [
+        "di"
+      ],
+      "note": "设计概念组（Design Concept）各报名阶段分开计费。日期按组委会公布的日历，报名费用和资格见原文。",
+      "source": "https://www.red-dot.org/de/design-concept/dates-fees",
+      "sourceLabel": "红点奖报名日程",
+      "catalogIds": [
+        "di-d3"
+      ]
+    },
+    {
+      "id": "jx16-signup",
+      "title": "第十六届全国大学生金相技能大赛",
+      "kind": "竞赛",
+      "stage": "高校报名截止",
+      "start": "2027-03-26T18:00:00+08:00",
+      "colleges": [],
+      "note": "三个赛道由高校统一报名。学生须另行查看校内选拔日期。",
+      "source": "https://www.jxds.tech/dangjie-shiyan-zhinan",
+      "sourceLabel": "全国竞委会参赛指南",
+      "catalogIds": [
+        "gh-59",
+        "school-4"
+      ]
+    },
+    {
+      "id": "lanqiao18-art",
+      "title": "第十八届蓝桥杯：视觉艺术设计、数字科技创新",
+      "kind": "竞赛",
+      "stage": "报名截止",
+      "start": "2027-04-26T14:00:00+08:00",
+      "colleges": [],
+      "note": "全国系统截止时间；院校可设更早的校内截止。视觉与专项类别的认定请核对所属学院。",
+      "source": "https://www.cqie.edu.cn/uploads/98044313534702081/file/2026/10/20261028135716223_j02ilae6gr4t.pdf",
+      "sourceLabel": "蓝桥杯组委会第十八届举办通知",
+      "catalogIds": [
+        "gh-37",
+        "school-229",
+        "di-a23",
+        "school-145"
+      ]
+    },
+    {
+      "id": "x-culsc-results",
+      "title": "第十二届全国大学生生命科学竞赛（科学探究类）",
+      "kind": "竞赛",
+      "stage": "材料截止",
+      "start": "2027-05-31",
+      "colleges": [],
+      "note": "实验记录、论文和参赛承诺书上传，截止当日 24:00。",
+      "source": "https://xxgk.czu.cn/_upload/article/files/99/77/338ca314401591e4dd6c168a649d/6b690bcf-8b09-49f1-971a-05614dcdaab5.pdf",
+      "sourceLabel": "全国大学生生命科学竞赛委员会通知（PDF）",
+      "catalogIds": [
+        "gh-21",
+        "school-72",
+        "rail-38"
+      ]
+    },
+    {
+      "id": "sg27-finals",
+      "title": "圣戈班建筑学生竞赛 2027 马德里站",
+      "kind": "竞赛",
+      "stage": "国际赛",
+      "start": "2027-06-14",
+      "end": "2027-06-16",
+      "colleges": [
+        "caup"
+      ],
+      "note": "马德里国际赛阶段，日期按主办方当地日历。各国选拔及报名窗口由当地赛区公布。",
+      "source": "https://architecture-student-contest.saint-gobain.com/edition-2027-madrid",
+      "sourceLabel": "圣戈班赛事官网",
+      "catalogIds": [
+        "caup-s"
+      ]
+    },
+    {
+      "id": "jx16-final",
+      "title": "第十六届全国大学生金相技能大赛",
+      "kind": "竞赛",
+      "stage": "决赛",
+      "start": "2027-07-27",
+      "colleges": [],
+      "note": "实验技能赛道决赛，地点为西南交通大学犀浦校区。",
+      "source": "https://www.jxds.tech/dangjie-shiyan-zhinan",
+      "sourceLabel": "全国竞委会参赛指南",
+      "catalogIds": [
+        "gh-59",
+        "school-4"
+      ],
+      "end": "2027-07-30"
+    },
+    {
+      "id": "igem27",
+      "title": "2027 iGEM Grand Jamboree",
+      "kind": "竞赛",
+      "stage": "大会",
+      "start": "2027-10-18",
+      "colleges": [],
+      "note": "巴黎会议中心，按主办方公布的当地日历日期展示。此项为大会日期。",
+      "source": "https://review.igem.org/main/jamboree/2026/home",
+      "sourceLabel": "iGEM Foundation 大会官网",
+      "catalogIds": [
+        "gh-20",
+        "rail-37"
+      ],
+      "end": "2027-10-21"
+    }
+  ]
+}
