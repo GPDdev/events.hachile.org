@@ -1,4 +1,4 @@
-# Hachile Events
+# Tongji Events
 
 <div align="center"><img alt="License MIT" src="https://img.shields.io/badge/license-MIT-green"> <img alt="GitHub Pages" src="https://img.shields.io/badge/hosting-GitHub%20Pages-284950"></div>
 
@@ -8,9 +8,10 @@
 
 ## 使用日历
 
+- 右上角可切换中文、English、日本語或 Deutsch。界面、日程和学院目录随语言切换，筛选和收藏会保留。访问链接也可带上 `?lang=en`、`?lang=ja` 或 `?lang=de`。
 - 在「活动日历」按月份、日期、学院、类别、节点或关键词查询。选择学院后可勾选同时展示面向全校或公开报名的活动。
 - 在「学院竞赛目录」选择院系和目录范围，查看来源及关联日程。部分院系有本科和研究生两种口径，条目中注明了适用对象。
-- 收藏保存在当前浏览器。可将当前筛选或收藏的日程导出为 ICS，也可在系统日历中添加订阅。订阅客户端按自己的刷新频率获取后续编辑。[全站 ICS](https://events.hachile.org/calendar.ics)
+- 收藏保存在当前浏览器。可将当前筛选或收藏的日程导出为 ICS，也可订阅对应语言的全站日历。订阅客户端按自己的刷新频率获取后续编辑。[中文 ICS](https://events.hachile.org/calendar.ics) / [English](https://events.hachile.org/calendar-en.ics) / [日本語](https://events.hachile.org/calendar-ja.ics) / [Deutsch](https://events.hachile.org/calendar-de.ics)
 
 ## 数据依据
 
@@ -36,6 +37,8 @@ python -m http.server 8000
 ## 维护与纠错
 
 在 `data.json` 中维护 `colleges`（院系和依据）、`catalog`（目录条目）及 `events`（日程）。通过稳定的 `id`、`college` 和 `catalogIds` 关联。校内选拔与全国赛、学生截止与高校报送截止应分别写明。日期使用 `YYYY-MM-DD`，精确到时分的节点使用带 `+08:00` 的 ISO 时间；全天区间的结束日期包含当天。
+
+新增或修订日程时，在 `event-i18n.mjs` 补齐英、日、德译文。学院名称、评审说明和赛事译名由 `catalog-i18n.mjs` 及其导入的词表提供。尚无译文的条目显示中文原文。三种译文均保留通往原始通知的链接。
 
 更新 `updated`，使用 Node.js 运行以下命令。第一条校验数据并生成全站订阅，第二条验证仓库内的订阅内容与日程一致。GitHub Pages 从 `main` 的根目录发布。
 

@@ -4,7 +4,6 @@ import { makeCalendar } from "../calendar.mjs";
 
 const root = new URL("../", import.meta.url);
 const data = JSON.parse(await readFile(new URL("data.json", root), "utf8"));
-const feed = new URL("calendar.ics", root);
 const isoDate = /^\d{4}-\d{2}-\d{2}$/;
 const localInstant = /^\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}\+08:00$/;
 
@@ -48,10 +47,13 @@ for (const row of data.events) {
     assert.ok(row.end >= row.start, row.id);
   }
 }
-const result = makeCalendar(data.events, data.updated);
-if (process.argv.includes("--check")) {
-  assert.equal(await readFile(feed, "utf8"), result, "订阅文件需要重新生成");
-} else {
-  await writeFile(feed, result);
+for (const lang of ["zh", "en", "ja", "de"]) {
+  const feed = new URL(lang === "zh" ? "calendar.ics" : "calendar-" + lang + ".ics", root);
+  const result = makeCalendar(data.events, data.updated, lang);
+  if (process.argv.includes("--check")) {
+    assert.equal(await readFile(feed, "utf8"), result, feed.pathname + " 需要重新生成");
+  } else {
+    await writeFile(feed, result);
+  }
 }
 console.log(`已检查 ${colleges.size} 个院系与单位、${catalog.size} 条目录记录、${data.events.length} 个日程节点。`);

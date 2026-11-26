@@ -1,0 +1,818 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Tongji Events//Campus Calendar//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Tongji Events
+BEGIN:VEVENT
+UID:neccs26-signup@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20260301
+DTEND;VALUE=DATE:20260316
+SUMMARY:2026 National English Competition for College Students (Tongji test
+  sites) — Campus registration
+DESCRIPTION:Undergraduate categories B and C. See the notice for restrictio
+ ns by year\, previous absences and eligibility for students who do not maj
+ or in English.
+URL:https://gongyingbu.tongji.edu.cn/info/1037/1396.htm
+END:VEVENT
+BEGIN:VEVENT
+UID:x-chem-design@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20260301
+DTEND;VALUE=DATE:20260401
+SUMMARY:20th National Chemical Engineering Design Competition for Universit
+ y Students — National registration
+DESCRIPTION:Teams complete the online registration form on the organizing c
+ ommittee’s website.
+URL:https://iche.zju.edu.cn/uploads/20260228/ad683cd23bc2417ffa3e1dd020f000
+ a7.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:x-ican@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20260401
+DTEND;VALUE=DATE:20260901
+SUMMARY:20th iCAN University Student Innovation and Entrepreneurship Compet
+ ition — National registration
+DESCRIPTION:National registration period. Each region will announce its own
+  selection dates separately.
+URL:https://www.g-ican.com/news/details?id=234
+END:VEVENT
+BEGIN:VEVENT
+UID:neccs26-pre@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART:20260412T010000Z
+DTEND:20260412T030000Z
+SUMMARY:2026 National English Competition for College Students (Tongji test
+  sites) — Preliminary round
+DESCRIPTION:Written test at the Siping Road and Jiading campuses.
+URL:https://gongyingbu.tongji.edu.cn/info/1037/1396.htm
+END:VEVENT
+BEGIN:VEVENT
+UID:stats26-submit@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART:20260430T100000Z
+SUMMARY:12th National Statistical Modeling Contest for University Students 
+ (Tongji qualifier) — Entry deadline
+DESCRIPTION:Registration closes at the end of March 24 (24:00). Tongji’s 
+ School of Mathematical Sciences runs the qualifier for full-time students 
+ across the university. Undergraduate and graduate teams compete separately
+ \, with three students per team.
+URL:https://math.tongji.edu.cn/info/1180/13261.htm
+END:VEVENT
+BEGIN:VEVENT
+UID:neccs26-final@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART:20260510T010000Z
+DTEND:20260510T030000Z
+SUMMARY:2026 National English Competition for College Students (Tongji test
+  sites) — Final
+DESCRIPTION:This time slot is for the written test. The oral test will be s
+ cheduled separately.
+URL:https://gongyingbu.tongji.edu.cn/info/1037/1396.htm
+END:VEVENT
+BEGIN:VEVENT
+UID:transport-final-20260523@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20260523
+DTEND;VALUE=DATE:20260525
+SUMMARY:21st National Transport Science and Technology Competition for Univ
+ ersity Students — National final
+DESCRIPTION:The final takes place at Beijing University of Civil Engineerin
+ g and Architecture.
+URL:https://jty.njfu.edu.cn/xydt/20260525/i358598.html
+END:VEVENT
+BEGIN:VEVENT
+UID:see-smartcar-race-20260530@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20260530
+DTEND;VALUE=DATE:20260531
+SUMMARY:National University Smart Car Competition (Tongji qualifier) — Sp
+ eed race
+DESCRIPTION:Held at the facilities of the automotive and electronic and inf
+ ormation engineering schools.
+URL:https://see.tongji.edu.cn/info/1178/14809.htm
+END:VEVENT
+BEGIN:VEVENT
+UID:med-imspq-registration-2026@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20260601
+DTEND;VALUE=DATE:20260701
+SUMMARY:22nd Inter-Medical School Physiology Quiz (IMSPQ) — Regular regis
+ tration
+DESCRIPTION:Universiti Malaya accepts one application per medical school te
+ am. These are the organizer’s regular registration dates.
+URL:https://umevent.um.edu.my/22NDIMSPQ2026=86a1793f65aeef4aeef4b479fc9b2bc
+ a
+END:VEVENT
+BEGIN:VEVENT
+UID:see-smartcar-ideas-20260606@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20260606
+DTEND;VALUE=DATE:20260607
+SUMMARY:National University Smart Car Competition (Tongji qualifier) — Cr
+ eative design event
+DESCRIPTION:Held at the facilities of the electronic and information engine
+ ering school.
+URL:https://see.tongji.edu.cn/info/1178/14809.htm
+END:VEVENT
+BEGIN:VEVENT
+UID:pilot26-signup@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20260608
+DTEND;VALUE=DATE:20260702
+SUMMARY:Tongji Intelligent Computing Design Competition (Pioneer Cup qualif
+ ier) — Registration
+DESCRIPTION:Currently enrolled Tongji students may form teams of three or f
+ our across different majors.
+URL:https://cs.tongji.edu.cn/info/1113/3878.htm
+END:VEVENT
+BEGIN:VEVENT
+UID:pilot26-contest@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20260703
+DTEND;VALUE=DATE:20260706
+SUMMARY:Tongji Intelligent Computing Design Competition (Pioneer Cup qualif
+ ier) — Competition
+DESCRIPTION:On-site at the Jiading campus. The challenge is to optimize inf
+ erence deployment for a large language model for finance.
+URL:https://cs.tongji.edu.cn/info/1113/3878.htm
+END:VEVENT
+BEGIN:VEVENT
+UID:fl-video-20260820@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART:20260820T080000Z
+SUMMARY:National Foreign Language Proficiency Competition: English short vi
+ deo (Tongji qualifier) — Registration and submission deadline
+DESCRIPTION:Tongji entrants must register on the official website and email
+  their video to the address designated for the campus qualifier.
+URL:https://gongyingbu.tongji.edu.cn/info/1036/1391.htm
+END:VEVENT
+BEGIN:VEVENT
+UID:fl-fournew-20260831@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20260831
+DTEND;VALUE=DATE:20260901
+SUMMARY:National Foreign Language Proficiency Competition: English “Four 
+ New Disciplines” track (Tongji qualifier) — Registration and submissio
+ n deadline
+DESCRIPTION:The notice gives the deadline as August 31 at 24:00. Register o
+ n the official website and submit the research report in English by the sa
+ me deadline.
+URL:https://gongyingbu.tongji.edu.cn/info/1036/1391.htm
+END:VEVENT
+BEGIN:VEVENT
+UID:med-imspq-contest-2026@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20260909
+DTEND;VALUE=DATE:20260911
+SUMMARY:22nd Inter-Medical School Physiology Quiz (IMSPQ) — Competition
+DESCRIPTION:Teams of medical students from different countries compete at t
+ he Faculty of Medicine\, Universiti Malaya\, in Kuala Lumpur\, Malaysia.
+URL:https://medicine.um.edu.my/events/22nd-inter-medical-school-physiology-
+ quiz-imspq-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:cumcm26@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART:20260910T100000Z
+DTEND:20260913T120000Z
+SUMMARY:2026 Higher Education Press Cup: China Undergraduate Mathematical C
+ ontest in Modeling — Competition
+DESCRIPTION:All regions compete during the same national contest period.
+URL:https://shumo.hrbeu.edu.cn/_upload/article/files/97/75/fae9f59e403d911a
+ aea9159aedb4/9e5cc07f-51b4-4e9b-b968-a754b293fd33.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:law-digital-2026@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART:20260912T090000Z
+SUMMARY:Law School undergraduate scholarships: extracurricular achievement 
+ points — Online submission deadline
+DESCRIPTION:First scholarship round for 2025–26. Upload evidence of award
+ s already received. Certificates must be dated September 1\, 2025 through 
+ August 31\, 2026. A matching paper copy is also due by its own deadline.
+URL:https://law.tongji.edu.cn/info/1090/8699.htm
+END:VEVENT
+BEGIN:VEVENT
+UID:math-scholar26@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20260914
+DTEND;VALUE=DATE:20260915
+SUMMARY:School of Mathematical Sciences undergraduate scholarships — Appl
+ ication deadline
+DESCRIPTION:The 2025–26 scholarship application questionnaire closes at 2
+ 4:00 that day. Applicants must also notify their class representative. Cla
+ sses review applications on September 15–16.
+URL:https://math.tongji.edu.cn/info/1029/13398.htm
+END:VEVENT
+BEGIN:VEVENT
+UID:law-paper-2026@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART:20260914T090000Z
+SUMMARY:Law School undergraduate scholarships: extracurricular achievement 
+ points — Hard-copy submission deadline
+DESCRIPTION:Deliver the paper documents to the Student Affairs Office\, roo
+ m 1301B\, Zhonghe Building. They must match the electronic version already
+  submitted.
+URL:https://law.tongji.edu.cn/info/1090/8699.htm
+END:VEVENT
+BEGIN:VEVENT
+UID:di-scholar26@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART:20260916T040000Z
+SUMMARY:College of Design and Innovation undergraduate scholarships (first 
+ round) — Document deadline
+DESCRIPTION:For the first 2025–26 round\, submit the forms and supporting
+  documents and complete the online summary specified in the notice.
+URL:https://student-tjdi.tongji.edu.cn/detail.do?id=970
+END:VEVENT
+BEGIN:VEVENT
+UID:cmc18-signup@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART:20260916T230000Z
+DTEND:20260924T130000Z
+SUMMARY:18th Chinese Mathematics Competitions for College Students (Shangha
+ i region) — Campus registration
+DESCRIPTION:Tongji entrants register in the academic affairs system and pro
+ vide the supplementary information listed in the notice.
+URL:https://gaoshutongbu.tongji.edu.cn/info/1056/1602.htm
+END:VEVENT
+BEGIN:VEVENT
+UID:chem26-award@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART:20260917T090000Z
+SUMMARY:School of Chemical Science and Engineering undergraduate scholarshi
+ ps — Application deadline
+DESCRIPTION:Applications for 2025–26 open on September 14. Submit the doc
+ uments for the comprehensive assessment as instructed in this notice.
+URL:https://chemweb.tongji.edu.cn/info/1538/15860.htm
+END:VEVENT
+BEGIN:VEVENT
+UID:caup-scholar26@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART:20260918T100000Z
+SUMMARY:College of Architecture and Urban Planning undergraduate scholarshi
+ ps — Document deadline
+DESCRIPTION:Submit competition results and other achievements earned from S
+ eptember 1\, 2025 through August 31\, 2026. Appendix 2 assigns points by t
+ he level and rank of each provincial\, ministerial or national award\, up 
+ to 0.08 in total.
+URL:https://caup.tongji.edu.cn/d4/a1/c33822a382113/page.htm
+END:VEVENT
+BEGIN:VEVENT
+UID:arts-review-20260928@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART:20260928T040000Z
+SUMMARY:College of Arts and Media undergraduate scholarships: second-round 
+ assessment — Application deadline
+DESCRIPTION:Submit the assessment data package and enter achievements for 2
+ 025–26 in the college’s records system.
+URL:https://am.tongji.edu.cn/info/1549/6051.htm
+END:VEVENT
+BEGIN:VEVENT
+UID:hypcup26@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+SUMMARY:2026 UIA-HYP Cup International Student Competition in Architectural
+  Design — Entry deadline
+DESCRIPTION:Submit by 24:00 Beijing time on October 10. Architecture studen
+ ts and students in related fields who meet the committee’s eligibility r
+ equirements may enter individually or in teams.
+URL:https://hypcup.uedmagazine.net/?a=index&c=Lists&m=home&tid=39
+END:VEVENT
+BEGIN:VEVENT
+UID:x-milan-design@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20270201
+SUMMARY:11th Milan Design Week: cultural product design\, “Digital Intell
+ igence and New Expressions of Local Culture” — Online submissions
+DESCRIPTION:This date applies to this brief only. Other briefs have their o
+ wn calls and deadlines.
+URL:https://www.milan-aap.org.cn/#/channel/wccx
+END:VEVENT
+BEGIN:VEVENT
+UID:tjpt-apply@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261101
+SUMMARY:2nd Tongji University Physicists’ Tournament (TJPT) — Prelimina
+ ry registration
+DESCRIPTION:Organized by Tongji’s Undergraduate School and College of Inn
+ ovation and Entrepreneurship and hosted by the School of Physics Science a
+ nd Engineering. Open to Tongji science and engineering students who entere
+ d in 2025 or 2026. Enter individually or in teams of up to five.
+URL:https://mphylab.tongji.edu.cn/page/home/info23624_INFO
+END:VEVENT
+BEGIN:VEVENT
+UID:x-robomaster-2027@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART:20261020T070000Z
+DTEND:20261027T070000Z
+SUMMARY:RoboMaster 2027 University Championship — Team registration
+DESCRIPTION:Eligible university teams submit their applications through the
+  organizing committee’s registration system.
+URL:https://www.robomaster.com/zh-CN/robo/rm
+END:VEVENT
+BEGIN:VEVENT
+UID:x-milan-rural@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20270201
+SUMMARY:11th Milan Design Week: 2nd Rural Consumer Innovation and OPC Pract
+ ice Competition — Online submissions
+DESCRIPTION:This date applies to this brief only. Other briefs have their o
+ wn calls and deadlines.
+URL:https://www.milan-aap.org.cn/#/channel/xcxxf
+END:VEVENT
+BEGIN:VEVENT
+UID:cs-icpc-chengdu-20261025@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY:51st ICPC Asia Regional Contest in Chengdu — Regional contest
+DESCRIPTION:Hosted at the University of Electronic Science and Technology o
+ f China. Tongji University enters as a team.
+URL:https://ci.tongji.edu.cn/62/86/c29620a418438/page.htm
+END:VEVENT
+BEGIN:VEVENT
+UID:mgg-gov-2027@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261221
+SUMMARY:2027 Marine Scholarship of China (graduate study in China) — Appl
+ ications
+DESCRIPTION:Open to non-Chinese citizens from the coastal and island countr
+ ies in the South China Sea\, Indian Ocean and Pacific regions specified in
+  the notice\, and from the developing African countries it lists. Applican
+ ts for a marine-related master’s or doctorate must first obtain consent 
+ from a prospective Tongji supervisor\, register on both platforms and send
+  their materials by email.
+URL:https://mgg.tongji.edu.cn/5e/96/c10076a417430/page.htm
+END:VEVENT
+BEGIN:VEVENT
+UID:x-challenge-cup@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261103
+SUMMARY:15th Challenge Cup Chinese Collegiate Business Plan Competition —
+  Final judging
+DESCRIPTION:Hosted by Dalian University of Technology. The program includes
+  the main competition and special tracks.
+URL:https://www.cae.cn/cae/html/main/col125/2026-11/05/20261105111721432426
+ 011_1.html
+END:VEVENT
+BEGIN:VEVENT
+UID:x-energy-saving@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:20th National University Competition on Energy Conservation and Emi
+ ssions Reduction: Community Projects and Technology — Campus registratio
+ n deadline
+DESCRIPTION:Tongji’s internal deadline for collecting registration forms.
+  The campus qualifier date will be announced separately.
+URL:https://caup.tongji.edu.cn/d7/fa/c33362a382970/page.htm
+END:VEVENT
+BEGIN:VEVENT
+UID:fl-german-star-20261101@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART:20261101T000000Z
+DTEND:20261101T043000Z
+SUMMARY:5th German Star National University German Speech Contest — Final
+DESCRIPTION:Organized by Tongji University at its German Library.
+URL:https://deutsch.tongji.edu.cn/info/1041/1386.htm
+END:VEVENT
+BEGIN:VEVENT
+UID:x-ccpc-women@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART:20261101T010000Z
+DTEND:20261101T060000Z
+SUMMARY:12th China Collegiate Programming Contest (women’s contest) — M
+ ain competition
+DESCRIPTION:Hosted by Chengdu University of Information Technology. The con
+ test lasts five hours.
+URL:https://www.cuit.edu.cn/info/1003/17263.htm
+END:VEVENT
+BEGIN:VEVENT
+UID:x-upc@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART:20261107T010000Z
+DTEND:20261109T010000Z
+SUMMARY:2026 University Physics Competition — Competition
+DESCRIPTION:The published start was November 6 at 18:00 North American Moun
+ tain Standard Time. The contest lasts 48 hours. The calendar shows Beijing
+  time.
+URL:https://www.uphysicsc.com/2026contest.html
+END:VEVENT
+BEGIN:VEVENT
+UID:jmc-landscape@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261201
+SUMMARY:World Heritage exhibition: the ancient tea forests of Jingmai Mount
+ ain in Pu’er — Exhibition
+DESCRIPTION:Clock Court exhibition hall\, Tongji College of Architecture an
+ d Urban Planning. Co-curated with Peking University’s College of Urban a
+ nd Environmental Sciences\, the exhibition traces the conservation of Jing
+ mai Mountain’s tea forests and traditional villages and the process of o
+ btaining World Heritage status.
+URL:https://landscape-caup.tongji.edu.cn/5d/ec/c10586a417260/page.htm
+END:VEVENT
+BEGIN:VEVENT
+UID:cmc18-test@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART:20261114T010000Z
+DTEND:20261114T033000Z
+SUMMARY:18th Chinese Mathematics Competitions for College Students (Shangha
+ i region) — Preliminary round
+DESCRIPTION:The Shanghai regional preliminary round also serves as the Shan
+ ghai Municipal Mathematics Competition for university students.
+URL:https://gaoshutongbu.tongji.edu.cn/info/1056/1602.htm
+END:VEVENT
+BEGIN:VEVENT
+UID:x-cncee-signup@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261217
+SUMMARY:13th National University Student Competition for Creative Research 
+ in Energy Economics — National registration
+DESCRIPTION:The designated project contact registers the entry in the compe
+ tition system. The team may submit its work once it has received a project
+  number.
+URL:https://energy.qibebt.ac.cn/eneco/contribution/index.html#/newsDetail?i
+ d=982d8290-d469-11f1-9175-7b297bcc3d39
+END:VEVENT
+BEGIN:VEVENT
+UID:x-physics-experiment@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261123
+SUMMARY:12th National University Physics Experiment Competition (innovation
+  track) — National final
+DESCRIPTION:Harbin Institute of Technology hosts this year’s final.
+URL:https://cri.hit.edu.cn/2026/1124/c16138a408206/page.htm
+END:VEVENT
+BEGIN:VEVENT
+UID:fl-translation-20261121@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART:20261121T060000Z
+DTEND:20261121T070000Z
+SUMMARY:National Foreign Language Proficiency Competition: English written 
+ translation finals — First stage
+DESCRIPTION:Qualifiers complete online post-editing tasks in both direction
+ s\, Chinese to English and English to Chinese.
+URL:https://ucc.fltrp.com/c/2026-11-06/545130.shtml
+END:VEVENT
+BEGIN:VEVENT
+UID:sem-firm@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART:20261127T060000Z
+DTEND:20261127T073000Z
+SUMMARY:Connections between firms — Lecture
+DESCRIPTION:Room 2101\, Tongji Building A. The Institute for Advanced Study
+  in Management’s 169th public lecture examines the relationship between 
+ innovation and value capture in venture capital networks.
+URL:https://sem.tongji.edu.cn/semch/57292.html
+END:VEVENT
+BEGIN:VEVENT
+UID:tjpt-submit@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+SUMMARY:2nd Tongji University Physicists’ Tournament (TJPT) — Entry dea
+ dline
+DESCRIPTION:Organized by Tongji’s Undergraduate School and College of Inn
+ ovation and Entrepreneurship and hosted by the School of Physics Science a
+ nd Engineering. Open to science and engineering students across Tongji who
+  entered in 2025 or 2026. Registered teams upload their research reports a
+ nd videos.
+URL:https://mphylab.tongji.edu.cn/page/home/info23624_INFO
+END:VEVENT
+BEGIN:VEVENT
+UID:lanqiao18-ip@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART:20261130T060000Z
+SUMMARY:18th Lanqiao Cup: key visual and event-branded cultural products 
+ — Registration deadline
+DESCRIPTION:Deadline for the national system. Universities may set earlier 
+ internal deadlines. Check with your college about recognition of visual de
+ sign and special tracks.
+URL:https://www.cqie.edu.cn/uploads/98044313534702081/file/2026/10/20261028
+ 135716223_j02ilae6gr4t.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:red27-early@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20270121
+SUMMARY:2027 Red Dot Award: Design Concept — Early registration
+DESCRIPTION:Entry fees for the Design Concept category vary by registration
+  period. Dates follow the organizer’s calendar. See the original notice 
+ for fees and eligibility.
+URL:https://www.red-dot.org/de/design-concept/dates-fees
+END:VEVENT
+BEGIN:VEVENT
+UID:fl-translation-20261204@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:National Foreign Language Proficiency Competition: English written 
+ translation finals — Second stage
+DESCRIPTION:Held in person in Beijing on the morning of December 4. Only th
+ e 40 entrants who qualified in the first stage may participate.
+URL:https://ucc.fltrp.com/c/2026-11-06/545130.shtml
+END:VEVENT
+BEGIN:VEVENT
+UID:sem-stock@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART:20261204T060000Z
+SUMMARY:Simulation and approximation of stockout-driven substitution — Le
+ cture
+DESCRIPTION:Room 510\, Tongji Building A. A research seminar at the Institu
+ te for Advanced Study in Management\, presented by Jingwei Zhang.
+URL:https://sem.tongji.edu.cn/semch/57362.html
+END:VEVENT
+BEGIN:VEVENT
+UID:cs-icpc-shanghai-20261206@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART:20261206T010000Z
+DTEND:20261206T060000Z
+SUMMARY:51st ICPC Asia Regional Contest in Shanghai — Main round
+DESCRIPTION:Gymnasium\, Baoshan campus\, Shanghai University. Check-in\, th
+ e opening ceremony and the practice contest take place the previous day.
+URL:https://icpc.pku.edu.cn/docs/2026-10/390553972c6041edb3e02109b7d54fa9.p
+ df
+END:VEVENT
+BEGIN:VEVENT
+UID:sem-vote@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART:20261208T063000Z
+SUMMARY:From feeds to ballots: social media discussions and shareholder vot
+ ing — Lecture
+DESCRIPTION:Room 510\, Tongji Building A. The speaker is Professor Zheng Wa
+ ng of City University of Hong Kong.
+URL:https://sem.tongji.edu.cn/semch/57376.html
+END:VEVENT
+BEGIN:VEVENT
+UID:tjpt-round2-apply@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261217
+SUMMARY:2nd Tongji University Physicists’ Tournament (TJPT) — Second-ro
+ und registration
+DESCRIPTION:Organized by Tongji’s Undergraduate School and College of Inn
+ ovation and Entrepreneurship and hosted by the School of Physics Science a
+ nd Engineering. Open to Tongji science and engineering students who entere
+ d in 2025 or 2026. Only preliminary-round winners may form teams\, with fi
+ ve members per team.
+URL:https://mphylab.tongji.edu.cn/page/home/info23624_INFO
+END:VEVENT
+BEGIN:VEVENT
+UID:lanqiao18-software@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART:20261218T060000Z
+SUMMARY:18th Lanqiao Cup: software\, electronics\, AI and HarmonyOS tracks 
+ — Registration deadline
+DESCRIPTION:Deadline for the national system. Universities may set earlier 
+ internal deadlines. Check with your college about recognition of visual de
+ sign and special tracks.
+URL:https://www.cqie.edu.cn/uploads/98044313534702081/file/2026/10/20261028
+ 135716223_j02ilae6gr4t.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:x-3d-design-national@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261221
+SUMMARY:19th National 3D Digital Innovation Design Competition — National
+  grand final
+DESCRIPTION:Digital design and manufacturing track\, held at Guangzhou Mari
+ time University.
+URL:https://3dds.3ddl.net/index.php?ctl=Informationlist&id=760&met=details
+END:VEVENT
+BEGIN:VEVENT
+UID:cs-icpc-nanchang-20261220@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART:20261220T010000Z
+DTEND:20261220T060000Z
+SUMMARY:51st ICPC Asia Regional Contest in Nanchang — Main round (tentati
+ ve)
+DESCRIPTION:Jiangxi Normal University. The invitation marks the schedule as
+  provisional. Check-in\, the opening ceremony and the practice contest are
+  planned for the day before.
+URL:https://icpc.pku.edu.cn/docs/2026-11/aeee3a1fced849d8b28ec6edb9d89c23.p
+ df
+END:VEVENT
+BEGIN:VEVENT
+UID:tjpt-round2@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20261226
+DTEND;VALUE=DATE:20261227
+SUMMARY:2nd Tongji University Physicists’ Tournament (TJPT) — Second ro
+ und
+DESCRIPTION:Organized by Tongji’s Undergraduate School and College of Inn
+ ovation and Entrepreneurship and hosted by the School of Physics Science a
+ nd Engineering. Open to Tongji science and engineering students who entere
+ d in 2025 or 2026. Teams advancing from the preliminary round face off in 
+ person in a group stage followed by the final.
+URL:https://mphylab.tongji.edu.cn/page/home/info23624_INFO
+END:VEVENT
+BEGIN:VEVENT
+UID:cs-icpc-hongkong-20270109@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20270109
+DTEND;VALUE=DATE:20270111
+SUMMARY:51st ICPC Asia Regional Contest in Hong Kong — Competition leg
+DESCRIPTION:The University of Hong Kong hosts this regional. The participat
+ ing teams are determined by the allocation of places and the registration 
+ list.
+URL:https://i.cs.hku.hk/~icpc/
+END:VEVENT
+BEGIN:VEVENT
+UID:x-culsc-register@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20270115
+DTEND;VALUE=DATE:20270116
+SUMMARY:12th National Life Sciences Competition for University Students (sc
+ ientific inquiry) — Registration deadline
+DESCRIPTION:Nationwide online registration for the scientific inquiry track
+  closes at 24:00 on the date shown.
+URL:https://xxgk.czu.cn/_upload/article/files/99/77/338ca314401591e4dd6c168
+ a649d/6b690bcf-8b09-49f1-971a-05614dcdaab5.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:red27-regular@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20270121
+DTEND;VALUE=DATE:20270318
+SUMMARY:2027 Red Dot Award: Design Concept — Regular registration
+DESCRIPTION:Entry fees for the Design Concept category vary by registration
+  period. Dates follow the organizer’s calendar. See the original notice 
+ for fees and eligibility.
+URL:https://www.red-dot.org/de/design-concept/dates-fees
+END:VEVENT
+BEGIN:VEVENT
+UID:sg27-training@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART:20270126T130000Z
+DTEND:20270126T150000Z
+SUMMARY:Saint-Gobain Architecture Student Contest 2027\, Madrid — Pre-com
+ petition training
+DESCRIPTION:The organizer’s second One Click LCA training session runs fr
+ om 14:00 to 16:00 in France. The calendar shows the equivalent Beijing tim
+ e.
+URL:https://architecture-student-contest.saint-gobain.com/edition-2027-madr
+ id
+END:VEVENT
+BEGIN:VEVENT
+UID:comap27-register@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART:20270128T200000Z
+SUMMARY:2027 Mathematical Contest in Modeling and Interdisciplinary Contest
+  in Modeling (MCM/ICM) — Registration deadline
+DESCRIPTION:Faculty advisors must complete registration by this deadline. T
+ he calendar converts January 28 at 15:00 US Eastern Standard Time to Beiji
+ ng time.
+URL:https://www.contest.comap.org/undergraduate/contests/mcm/instructions.h
+ tml
+END:VEVENT
+BEGIN:VEVENT
+UID:comap27-contest@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART:20270128T220000Z
+DTEND:20270202T010000Z
+SUMMARY:2027 Mathematical Contest in Modeling and Interdisciplinary Contest
+  in Modeling (MCM/ICM) — Competition
+DESCRIPTION:The contest runs from January 28 at 17:00 to February 1 at 20:0
+ 0 US Eastern Standard Time. Teams must stop working when the contest ends.
+URL:https://www.contest.comap.org/undergraduate/contests/mcm/instructions.h
+ tml
+END:VEVENT
+BEGIN:VEVENT
+UID:x-culsc-plan@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20270131
+DTEND;VALUE=DATE:20270201
+SUMMARY:12th National Life Sciences Competition for University Students (sc
+ ientific inquiry) — Document deadline
+DESCRIPTION:Upload the research review and experimental design by 24:00 on 
+ the date shown.
+URL:https://xxgk.czu.cn/_upload/article/files/99/77/338ca314401591e4dd6c168
+ a649d/6b690bcf-8b09-49f1-971a-05614dcdaab5.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:comap27-submit@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART:20270202T020000Z
+SUMMARY:2027 Mathematical Contest in Modeling and Interdisciplinary Contest
+  in Modeling (MCM/ICM) — Submission deadline
+DESCRIPTION:Final papers are due one hour after teams must stop working.
+URL:https://www.contest.comap.org/undergraduate/contests/mcm/instructions.h
+ tml
+END:VEVENT
+BEGIN:VEVENT
+UID:if27-jury@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20270216
+DTEND;VALUE=DATE:20270219
+SUMMARY:2027 iF Design Award — Final review
+DESCRIPTION:Final judging in Hamburg\, for shortlisted entries only. Regist
+ ration closed in November 2026. The dates follow the organizer’s local c
+ alendar.
+URL:https://ifdesign.com/en/if-design-award-get-in-contact
+END:VEVENT
+BEGIN:VEVENT
+UID:x-cncee-works@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20270222
+DTEND;VALUE=DATE:20270314
+SUMMARY:13th National University Student Competition for Creative Research 
+ in Energy Economics — Entry submission
+DESCRIPTION:For teams that have already received a project number\, the des
+ ignated contact uploads the entry and supporting materials.
+URL:https://energy.qibebt.ac.cn/eneco/contribution/index.html#/newsDetail?i
+ d=982d8290-d469-11f1-9175-7b297bcc3d39
+END:VEVENT
+BEGIN:VEVENT
+UID:red27-late@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20270318
+DTEND;VALUE=DATE:20270429
+SUMMARY:2027 Red Dot Award: Design Concept — Late registration
+DESCRIPTION:Entry fees for the Design Concept category vary by registration
+  period. Dates follow the organizer’s calendar. See the original notice 
+ for fees and eligibility.
+URL:https://www.red-dot.org/de/design-concept/dates-fees
+END:VEVENT
+BEGIN:VEVENT
+UID:jx16-signup@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART:20270326T100000Z
+SUMMARY:16th National Metallographic Skills Competition for University Stud
+ ents — University registration deadline
+DESCRIPTION:Universities register teams for all three tracks. Students shou
+ ld check their campus qualifier dates separately.
+URL:https://www.jxds.tech/dangjie-shiyan-zhinan
+END:VEVENT
+BEGIN:VEVENT
+UID:lanqiao18-art@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART:20270426T060000Z
+SUMMARY:18th Lanqiao Cup: visual design and digital technology innovation 
+ — Registration deadline
+DESCRIPTION:Deadline for the national system. Universities may set earlier 
+ internal deadlines. Check with your college about recognition of visual de
+ sign and special tracks.
+URL:https://www.cqie.edu.cn/uploads/98044313534702081/file/2026/10/20261028
+ 135716223_j02ilae6gr4t.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:x-culsc-results@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20270531
+DTEND;VALUE=DATE:20270601
+SUMMARY:12th National Life Sciences Competition for University Students (sc
+ ientific inquiry) — Document deadline
+DESCRIPTION:Upload the experiment records\, paper and participation pledge 
+ by 24:00 on the date shown.
+URL:https://xxgk.czu.cn/_upload/article/files/99/77/338ca314401591e4dd6c168
+ a649d/6b690bcf-8b09-49f1-971a-05614dcdaab5.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:sg27-finals@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20270614
+DTEND;VALUE=DATE:20270617
+SUMMARY:Saint-Gobain Architecture Student Contest 2027\, Madrid — Interna
+ tional round
+DESCRIPTION:International stage in Madrid\, shown using the organizer’s l
+ ocal calendar dates. The local organizers in each country announce nationa
+ l qualifiers and registration periods.
+URL:https://architecture-student-contest.saint-gobain.com/edition-2027-madr
+ id
+END:VEVENT
+BEGIN:VEVENT
+UID:jx16-final@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20270727
+DTEND;VALUE=DATE:20270731
+SUMMARY:16th National Metallographic Skills Competition for University Stud
+ ents — Final
+DESCRIPTION:Final of the experimental skills track at the Xipu campus of So
+ uthwest Jiaotong University.
+URL:https://www.jxds.tech/dangjie-shiyan-zhinan
+END:VEVENT
+BEGIN:VEVENT
+UID:igem27@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20271018
+DTEND;VALUE=DATE:20271022
+SUMMARY:2027 iGEM Grand Jamboree — Conference
+DESCRIPTION:Palais des Congrès de Paris. These are the conference dates in
+  the organizer’s local calendar.
+URL:https://review.igem.org/main/jamboree/2026/home
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,811 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Tongji Events//Campus Calendar//JA
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Tongji Events
+BEGIN:VEVENT
+UID:neccs26-signup@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20260301
+DTEND;VALUE=DATE:20260316
+SUMMARY:2026年全国大学生英語コンテスト（同済大学会場）
+  — 学内申込
+DESCRIPTION:学部生のB・C区分が対象。学年、過去の欠席、
+ 英語専攻以外の学生に関する資格条件は通知を参照。
+URL:https://gongyingbu.tongji.edu.cn/info/1037/1396.htm
+END:VEVENT
+BEGIN:VEVENT
+UID:x-chem-design@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20260301
+DTEND;VALUE=DATE:20260401
+SUMMARY:第20回全国大学生化学工学設計コンテスト — 全国
+ 大会申込
+DESCRIPTION:チームごとに実行委員会のウェブサイトで登録
+ フォームに記入する。
+URL:https://iche.zju.edu.cn/uploads/20260228/ad683cd23bc2417ffa3e1dd020f000
+ a7.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:x-ican@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20260401
+DTEND;VALUE=DATE:20260901
+SUMMARY:第20回iCAN大学生イノベーション・起業コンテスト 
+ — 全国大会申込
+DESCRIPTION:全国大会の申込期間。各地区の選考日程は別途
+ 発表される。
+URL:https://www.g-ican.com/news/details?id=234
+END:VEVENT
+BEGIN:VEVENT
+UID:neccs26-pre@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART:20260412T010000Z
+DTEND:20260412T030000Z
+SUMMARY:2026年全国大学生英語コンテスト（同済大学会場）
+  — 予選
+DESCRIPTION:筆記試験。会場は四平路キャンパスと嘉定キャ
+ ンパス。
+URL:https://gongyingbu.tongji.edu.cn/info/1037/1396.htm
+END:VEVENT
+BEGIN:VEVENT
+UID:stats26-submit@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART:20260430T100000Z
+SUMMARY:第12回全国大学生統計モデリングコンテスト（同
+ 済大学予選） — 作品締切
+DESCRIPTION:申込は3月24日24:00まで。数理科学学院が主催す
+ る学内予選で、同済大学の全日制学部生と大学院生が
+ 対象。学部・大学院別に3人1組で参加する。
+URL:https://math.tongji.edu.cn/info/1180/13261.htm
+END:VEVENT
+BEGIN:VEVENT
+UID:neccs26-final@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART:20260510T010000Z
+DTEND:20260510T030000Z
+SUMMARY:2026年全国大学生英語コンテスト（同済大学会場）
+  — 決勝
+DESCRIPTION:この時間帯は筆記試験。口頭試験は別途実施さ
+ れる。
+URL:https://gongyingbu.tongji.edu.cn/info/1037/1396.htm
+END:VEVENT
+BEGIN:VEVENT
+UID:transport-final-20260523@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20260523
+DTEND;VALUE=DATE:20260525
+SUMMARY:第21回全国大学生交通運輸科学技術コンテスト — 
+ 全国決勝
+DESCRIPTION:決勝会場は北京建築大学。
+URL:https://jty.njfu.edu.cn/xydt/20260525/i358598.html
+END:VEVENT
+BEGIN:VEVENT
+UID:see-smartcar-race-20260530@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20260530
+DTEND;VALUE=DATE:20260531
+SUMMARY:全国大学生スマートカーコンテスト（同済大学予
+ 選） — スピード競技
+DESCRIPTION:会場は自動車学院と電子・情報工学院の実習施
+ 設。
+URL:https://see.tongji.edu.cn/info/1178/14809.htm
+END:VEVENT
+BEGIN:VEVENT
+UID:med-imspq-registration-2026@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20260601
+DTEND;VALUE=DATE:20260701
+SUMMARY:第22回国際医学生生理学クイズ（IMSPQ） — 通常申
+ 込
+DESCRIPTION:マラヤ大学が各医学部からチーム単位で申込を
+ 受け付ける。掲載日は主催者の通常登録期間に基づく
+ 。
+URL:https://umevent.um.edu.my/22NDIMSPQ2026=86a1793f65aeef4aeef4b479fc9b2bc
+ a
+END:VEVENT
+BEGIN:VEVENT
+UID:see-smartcar-ideas-20260606@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20260606
+DTEND;VALUE=DATE:20260607
+SUMMARY:全国大学生スマートカーコンテスト（同済大学予
+ 選） — 総合創作競技
+DESCRIPTION:会場は電子・情報工学院の実習施設。
+URL:https://see.tongji.edu.cn/info/1178/14809.htm
+END:VEVENT
+BEGIN:VEVENT
+UID:pilot26-signup@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20260608
+DTEND;VALUE=DATE:20260702
+SUMMARY:同済大学インテリジェント・コンピューティング
+ 設計コンテスト（先導杯学内予選） — 参加申込
+DESCRIPTION:同済大学の在学生が対象。専攻をまたいで3～4
+ 人のチームを組める。
+URL:https://cs.tongji.edu.cn/info/1113/3878.htm
+END:VEVENT
+BEGIN:VEVENT
+UID:pilot26-contest@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20260703
+DTEND;VALUE=DATE:20260706
+SUMMARY:同済大学インテリジェント・コンピューティング
+ 設計コンテスト（先導杯学内予選） — 競技
+DESCRIPTION:嘉定キャンパスで対面開催。金融分野の大規模
+ 言語モデルについて、推論時のデプロイを最適化する
+ 。
+URL:https://cs.tongji.edu.cn/info/1113/3878.htm
+END:VEVENT
+BEGIN:VEVENT
+UID:fl-video-20260820@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART:20260820T080000Z
+SUMMARY:全国大学生外国語能力コンテスト 英語・ショート
+ 動画部門（学内予選） — 申込・提出締切
+DESCRIPTION:同済大学の出場者は公式サイトで登録し、学内
+ 予選指定のメールアドレスに動画を送る。
+URL:https://gongyingbu.tongji.edu.cn/info/1036/1391.htm
+END:VEVENT
+BEGIN:VEVENT
+UID:fl-fournew-20260831@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20260831
+DTEND;VALUE=DATE:20260901
+SUMMARY:全国大学生外国語能力コンテスト 英語「四新」部
+ 門（学内予選） — 申込・提出締切
+DESCRIPTION:通知に記載された締切は8月31日24:00。公式サイ
+ トでの登録と英語の研究報告書の提出を済ませる。
+URL:https://gongyingbu.tongji.edu.cn/info/1036/1391.htm
+END:VEVENT
+BEGIN:VEVENT
+UID:med-imspq-contest-2026@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20260909
+DTEND;VALUE=DATE:20260911
+SUMMARY:第22回国際医学生生理学クイズ（IMSPQ） — 競技
+DESCRIPTION:マレーシア・クアラルンプールのマラヤ大学医
+ 学部で開催。各国の医学生がチームで参加する。
+URL:https://medicine.um.edu.my/events/22nd-inter-medical-school-physiology-
+ quiz-imspq-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:cumcm26@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART:20260910T100000Z
+DTEND:20260913T120000Z
+SUMMARY:2026年高等教育出版社杯 全国大学生数理モデリン
+ グコンテスト — 競技
+DESCRIPTION:全国共通の競技時間。
+URL:https://shumo.hrbeu.edu.cn/_upload/article/files/97/75/fae9f59e403d911a
+ aea9159aedb4/9e5cc07f-51b4-4e9b-b968-a754b293fd33.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:law-digital-2026@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART:20260912T090000Z
+SUMMARY:法学院 学部生奨学金の課外活動加点 — 電子書類
+ 提出締切
+DESCRIPTION:2025–2026年度第1期。受賞の証明をオンラインで
+ 提出する。証書の日付は2025年9月1日～2026年8月31日。別
+ 途、同一内容の紙の資料を所定の期限までに提出する
+ 。
+URL:https://law.tongji.edu.cn/info/1090/8699.htm
+END:VEVENT
+BEGIN:VEVENT
+UID:math-scholar26@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20260914
+DTEND;VALUE=DATE:20260915
+SUMMARY:数理科学学院 学部生奨学金 — 申請締切
+DESCRIPTION:2025–2026年度の申請フォームは当日24:00締切。
+ 申請者は同時にクラス代表に届け出る。クラスでの審
+ 査は9月15～16日。
+URL:https://math.tongji.edu.cn/info/1029/13398.htm
+END:VEVENT
+BEGIN:VEVENT
+UID:law-paper-2026@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART:20260914T090000Z
+SUMMARY:法学院 学部生奨学金の課外活動加点 — 紙の書類
+ の提出締切
+DESCRIPTION:衷和楼1301Bの学生工作弁公室に紙の書類を提出
+ する。提出済みの電子版と同一の内容であること。
+URL:https://law.tongji.edu.cn/info/1090/8699.htm
+END:VEVENT
+BEGIN:VEVENT
+UID:di-scholar26@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART:20260916T040000Z
+SUMMARY:デザイン創意学院 学部生奨学金（第1期） — 書類
+ 締切
+DESCRIPTION:2025–2026年度第1期は、申請用紙と証明書類を提
+ 出し、案内に従ってオンラインの集計フォームにも入
+ 力する。
+URL:https://student-tjdi.tongji.edu.cn/detail.do?id=970
+END:VEVENT
+BEGIN:VEVENT
+UID:cmc18-signup@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART:20260916T230000Z
+DTEND:20260924T130000Z
+SUMMARY:第18回全国大学生数学コンテスト（上海地区） — 
+ 学内申込
+DESCRIPTION:同済大学の受験者は教務システムで登録し、通
+ 知に従って必要な追加情報を記入する。
+URL:https://gaoshutongbu.tongji.edu.cn/info/1056/1602.htm
+END:VEVENT
+BEGIN:VEVENT
+UID:chem26-award@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART:20260917T090000Z
+SUMMARY:化学科学・工学学院 学部生奨学金 — 申請締切
+DESCRIPTION:2025–2026年度分は9月14日から受付。今回の案内
+ に従い、総合評価用の資料を提出する。
+URL:https://chemweb.tongji.edu.cn/info/1538/15860.htm
+END:VEVENT
+BEGIN:VEVENT
+UID:caup-scholar26@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART:20260918T100000Z
+SUMMARY:建築・都市計画学院 学部生奨学金 — 書類締切
+DESCRIPTION:2025年9月1日～2026年8月31日に得た競技実績等の
+ 資料を提出。付録2に従い、省・部級または全国級の各
+ 受賞実績の等級に応じて加点され、合計の上限は0.08。
+URL:https://caup.tongji.edu.cn/d4/a1/c33822a382113/page.htm
+END:VEVENT
+BEGIN:VEVENT
+UID:arts-review-20260928@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART:20260928T040000Z
+SUMMARY:芸術・メディア学院 学部生奨学金の総合評価（第
+ 2期） — 申請締切
+DESCRIPTION:総合評価のデータ一式を提出し、2025–2026年度
+ の実績を学院の成果登録システムに入力する。
+URL:https://am.tongji.edu.cn/info/1549/6051.htm
+END:VEVENT
+BEGIN:VEVENT
+UID:hypcup26@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+SUMMARY:2026年ホープカップ 国際学生建築設計コンテスト 
+ — 作品締切
+DESCRIPTION:提出は北京時間10月10日24:00まで。建築・関連分
+ 野を専攻し、実行委員会の条件を満たす学生が個人ま
+ たはチームで参加できる。
+URL:https://hypcup.uedmagazine.net/?a=index&c=Lists&m=home&tid=39
+END:VEVENT
+BEGIN:VEVENT
+UID:x-milan-design@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20270201
+SUMMARY:第11回ミラノデザインウィーク 文化創造デザイン
+ 実践コンテスト「デジタル技術がつなぐ風土の新たな
+ 表現」 — オンライン投稿
+DESCRIPTION:掲載日はこの課題のもの。他の課題はそれぞれ
+ の募集要項の日程を確認。
+URL:https://www.milan-aap.org.cn/#/channel/wccx
+END:VEVENT
+BEGIN:VEVENT
+UID:tjpt-apply@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261101
+SUMMARY:第2回同済大学学生物理トーナメント（TJPT） — 予
+ 選申込
+DESCRIPTION:同済大学の本科生院とイノベーション・起業学
+ 院が主催し、物理科学・工学学院が運営する。全学の20
+ 25年・2026年入学の理工系学生が対象。個人または5人ま
+ でのチームで参加できる。
+URL:https://mphylab.tongji.edu.cn/page/home/info23624_INFO
+END:VEVENT
+BEGIN:VEVENT
+UID:x-robomaster-2027@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART:20261020T070000Z
+DTEND:20261027T070000Z
+SUMMARY:RoboMaster 2027 大学生ロボット対抗戦 — チーム申込
+DESCRIPTION:参加資格を満たす大学チームが実行委員会の登
+ 録システムから申し込む。
+URL:https://www.robomaster.com/zh-CN/robo/rm
+END:VEVENT
+BEGIN:VEVENT
+UID:x-milan-rural@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20270201
+SUMMARY:第11回ミラノデザインウィーク 第2回農村の新しい
+ 消費・OPCイノベーション実践コンテスト — オンライン
+ 投稿
+DESCRIPTION:掲載日はこの課題のもの。他の課題はそれぞれ
+ の募集要項の日程を確認。
+URL:https://www.milan-aap.org.cn/#/channel/xcxxf
+END:VEVENT
+BEGIN:VEVENT
+UID:cs-icpc-chengdu-20261025@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY:第51回ICPCアジア地区大会 成都大会 — 地区大会
+DESCRIPTION:電子科技大学で開催。同済大学はチームで参加
+ する。
+URL:https://ci.tongji.edu.cn/62/86/c29620a418438/page.htm
+END:VEVENT
+BEGIN:VEVENT
+UID:mgg-gov-2027@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261221
+SUMMARY:2027年度中国政府海洋奨学金（中国の大学院への留
+ 学） — 申請
+DESCRIPTION:南シナ海・インド洋・太平洋の沿岸国・島嶼国
+ およびアフリカの開発途上国のうち、募集要項が指定
+ する国の公民で、中国籍を持たない人が対象。海洋関
+ 連の修士・博士課程への出願には、同済大学で受入予
+ 定の指導教員から先に承諾を得て、両方のシステムで
+ 登録し、書類をメールで提出する。
+URL:https://mgg.tongji.edu.cn/5e/96/c10076a417430/page.htm
+END:VEVENT
+BEGIN:VEVENT
+UID:x-challenge-cup@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261103
+SUMMARY:第15回「チャレンジカップ」中国大学生ビジネス
+ プランコンテスト — 最終審査・決勝
+DESCRIPTION:大連理工大学が開催。メイン競技と特別部門が
+ ある。
+URL:https://www.cae.cn/cae/html/main/col125/2026-11/05/20261105111721432426
+ 011_1.html
+END:VEVENT
+BEGIN:VEVENT
+UID:x-energy-saving@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:第20回全国大学生省エネ・排出削減 社会実践・科
+ 学技術コンテスト — 学内申込締切
+DESCRIPTION:同済大学での申込用紙の回収期限。学内選考日
+ は追って通知される。
+URL:https://caup.tongji.edu.cn/d7/fa/c33362a382970/page.htm
+END:VEVENT
+BEGIN:VEVENT
+UID:fl-german-star-20261101@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART:20261101T000000Z
+DTEND:20261101T043000Z
+SUMMARY:第5回「ドイツ語の星」全国大学生ドイツ語スピー
+ チコンテスト — 決勝
+DESCRIPTION:同済大学主催。会場は同済大学ドイツ語図書館
+ 。
+URL:https://deutsch.tongji.edu.cn/info/1041/1386.htm
+END:VEVENT
+BEGIN:VEVENT
+UID:x-ccpc-women@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART:20261101T010000Z
+DTEND:20261101T060000Z
+SUMMARY:第12回中国大学生プログラミングコンテスト（女
+ 子の部） — 本大会
+DESCRIPTION:成都信息工程大学が開催。競技時間は5時間。
+URL:https://www.cuit.edu.cn/info/1003/17263.htm
+END:VEVENT
+BEGIN:VEVENT
+UID:x-upc@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART:20261107T010000Z
+DTEND:20261109T010000Z
+SUMMARY:2026年国際大学生物理コンテスト — 競技
+DESCRIPTION:主催者の開始時刻は北米山岳部標準時11月6日18:
+ 00。競技時間は48時間で、日程には北京時間を表示して
+ いる。
+URL:https://www.uphysicsc.com/2026contest.html
+END:VEVENT
+BEGIN:VEVENT
+UID:jmc-landscape@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261201
+SUMMARY:世界遺産企画展「普洱・景邁山の古茶林の文化的
+ 景観」 — 展示
+DESCRIPTION:会場は同済大学建築・都市計画学院の鐘庭展示
+ ホール。北京大学都市・環境学院と共同企画し、景邁
+ 山の茶林と伝統集落の保全、世界遺産登録までの歩み
+ を紹介する。
+URL:https://landscape-caup.tongji.edu.cn/5d/ec/c10586a417260/page.htm
+END:VEVENT
+BEGIN:VEVENT
+UID:cmc18-test@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART:20261114T010000Z
+DTEND:20261114T033000Z
+SUMMARY:第18回全国大学生数学コンテスト（上海地区） — 
+ 予選
+DESCRIPTION:上海地区予選は上海市大学生数学コンテストを
+ 兼ねる。
+URL:https://gaoshutongbu.tongji.edu.cn/info/1056/1602.htm
+END:VEVENT
+BEGIN:VEVENT
+UID:x-cncee-signup@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261217
+SUMMARY:第13回全国大学生エネルギー経済学術アイデアコ
+ ンテスト — 全国大会申込
+DESCRIPTION:作品の連絡担当者が大会システムで登録する。
+ 作品番号を取得後に作品を提出できる。
+URL:https://energy.qibebt.ac.cn/eneco/contribution/index.html#/newsDetail?i
+ d=982d8290-d469-11f1-9175-7b297bcc3d39
+END:VEVENT
+BEGIN:VEVENT
+UID:x-physics-experiment@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261123
+SUMMARY:第12回全国大学生物理実験コンテスト（イノベー
+ ション部門） — 全国決勝
+DESCRIPTION:今回の決勝はハルビン工業大学が開催する。
+URL:https://cri.hit.edu.cn/2026/1124/c16138a408206/page.htm
+END:VEVENT
+BEGIN:VEVENT
+UID:fl-translation-20261121@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART:20261121T060000Z
+DTEND:20261121T070000Z
+SUMMARY:全国大学生外国語能力コンテスト 英語・筆訳部門
+ 全国大会 — 第1段階
+DESCRIPTION:通過者はオンラインで、中英・英中の両方向の
+ 翻訳ポストエディット課題に取り組む。
+URL:https://ucc.fltrp.com/c/2026-11-06/545130.shtml
+END:VEVENT
+BEGIN:VEVENT
+UID:sem-firm@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART:20261127T060000Z
+DTEND:20261127T073000Z
+SUMMARY:企業間のつながり — 講演
+DESCRIPTION:同済大厦A棟2101室。管理高等研究院の第169回公
+ 開学術講演で、ベンチャーキャピタルのネットワーク
+ におけるイノベーションと価値獲得の関係を考察する
+ 。
+URL:https://sem.tongji.edu.cn/semch/57292.html
+END:VEVENT
+BEGIN:VEVENT
+UID:tjpt-submit@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+SUMMARY:第2回同済大学学生物理トーナメント（TJPT） — 作
+ 品締切
+DESCRIPTION:同済大学の本科生院とイノベーション・起業学
+ 院が主催し、物理科学・工学学院が運営。全学の2025年
+ ・2026年入学の理工系学生が対象。登録済みのチームは
+ 研究報告書と動画をオンラインで提出する。
+URL:https://mphylab.tongji.edu.cn/page/home/info23624_INFO
+END:VEVENT
+BEGIN:VEVENT
+UID:lanqiao18-ip@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART:20261130T060000Z
+SUMMARY:第18回藍橋杯 メインビジュアル・大会IPグッズ部
+ 門 — 申込締切
+DESCRIPTION:全国システムの締切。大学独自の締切が早い場
+ 合がある。ビジュアルデザイン部門や特別部門の認定
+ は所属学院に確認すること。
+URL:https://www.cqie.edu.cn/uploads/98044313534702081/file/2026/10/20261028
+ 135716223_j02ilae6gr4t.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:red27-early@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20270121
+SUMMARY:2027年レッド・ドット・デザイン賞 デザインコン
+ セプト部門 — 早期申込
+DESCRIPTION:デザインコンセプト部門は登録時期により料金
+ が異なる。日付は主催者の日程表に基づく。料金と応
+ 募資格は原文を参照。
+URL:https://www.red-dot.org/de/design-concept/dates-fees
+END:VEVENT
+BEGIN:VEVENT
+UID:fl-translation-20261204@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:全国大学生外国語能力コンテスト 英語・筆訳部門
+ 全国大会 — 第2段階
+DESCRIPTION:12月4日午前に北京で対面開催。第1段階を通過
+ した40人のみ参加できる。
+URL:https://ucc.fltrp.com/c/2026-11-06/545130.shtml
+END:VEVENT
+BEGIN:VEVENT
+UID:sem-stock@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART:20261204T060000Z
+SUMMARY:欠品時の代替購買行動のシミュレーションと近似 
+ — 講演
+DESCRIPTION:同済大厦A棟510室。管理高等研究院の研究セミ
+ ナーで、Jingwei Zhang氏が講演する。
+URL:https://sem.tongji.edu.cn/semch/57362.html
+END:VEVENT
+BEGIN:VEVENT
+UID:cs-icpc-shanghai-20261206@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART:20261206T010000Z
+DTEND:20261206T060000Z
+SUMMARY:第51回ICPCアジア地区大会 上海大会 — 本戦
+DESCRIPTION:会場は上海大学宝山キャンパスの体育館。前日
+ に受付、開会式、練習競技がある。
+URL:https://icpc.pku.edu.cn/docs/2026-10/390553972c6041edb3e02109b7d54fa9.p
+ df
+END:VEVENT
+BEGIN:VEVENT
+UID:sem-vote@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART:20261208T063000Z
+SUMMARY:フィードから投票へ：ソーシャルメディア上の議
+ 論と株主の議決権行使 — 講演
+DESCRIPTION:同済大厦A棟510室。講演者は香港城市大学の王
+ 征教授。
+URL:https://sem.tongji.edu.cn/semch/57376.html
+END:VEVENT
+BEGIN:VEVENT
+UID:tjpt-round2-apply@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261217
+SUMMARY:第2回同済大学学生物理トーナメント（TJPT） — 二
+ 次予選申込
+DESCRIPTION:同済大学の本科生院とイノベーション・起業学
+ 院が主催し、物理科学・工学学院が運営。全学の2025年
+ ・2026年入学の理工系学生が対象。予選通過者のみが5人
+ 1組でチームを編成できる。
+URL:https://mphylab.tongji.edu.cn/page/home/info23624_INFO
+END:VEVENT
+BEGIN:VEVENT
+UID:lanqiao18-software@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART:20261218T060000Z
+SUMMARY:第18回藍橋杯 ソフトウェア・電子・AI・HarmonyOS部
+ 門 — 申込締切
+DESCRIPTION:全国システムの締切。大学独自の締切が早い場
+ 合がある。ビジュアルデザイン部門や特別部門の認定
+ は所属学院に確認すること。
+URL:https://www.cqie.edu.cn/uploads/98044313534702081/file/2026/10/20261028
+ 135716223_j02ilae6gr4t.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:x-3d-design-national@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261221
+SUMMARY:第19回全国3Dデジタルイノベーション設計コンテス
+ ト — 全国最終決勝
+DESCRIPTION:デジタル設計・製造部門。会場は広州航海学院
+ 。
+URL:https://3dds.3ddl.net/index.php?ctl=Informationlist&id=760&met=details
+END:VEVENT
+BEGIN:VEVENT
+UID:cs-icpc-nanchang-20261220@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART:20261220T010000Z
+DTEND:20261220T060000Z
+SUMMARY:第51回ICPCアジア地区大会 南昌大会 — 本戦（予定
+ ）
+DESCRIPTION:会場は江西師範大学。招待状の日程は予定。前
+ 日に受付、開会式、練習競技が予定されている。
+URL:https://icpc.pku.edu.cn/docs/2026-11/aeee3a1fced849d8b28ec6edb9d89c23.p
+ df
+END:VEVENT
+BEGIN:VEVENT
+UID:tjpt-round2@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20261226
+DTEND;VALUE=DATE:20261227
+SUMMARY:第2回同済大学学生物理トーナメント（TJPT） — 二
+ 次予選
+DESCRIPTION:同済大学の本科生院とイノベーション・起業学
+ 院が主催し、物理科学・工学学院が運営。全学の2025年
+ ・2026年入学の理工系学生が対象。予選通過チームが対
+ 面のグループ戦と決勝に進む。
+URL:https://mphylab.tongji.edu.cn/page/home/info23624_INFO
+END:VEVENT
+BEGIN:VEVENT
+UID:cs-icpc-hongkong-20270109@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20270109
+DTEND;VALUE=DATE:20270111
+SUMMARY:第51回ICPCアジア地区大会 香港大会 — 大会日程
+DESCRIPTION:香港大学が開催する地区大会。出場チームは出
+ 場枠の配分と登録名簿によって決まる。
+URL:https://i.cs.hku.hk/~icpc/
+END:VEVENT
+BEGIN:VEVENT
+UID:x-culsc-register@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20270115
+DTEND;VALUE=DATE:20270116
+SUMMARY:第12回全国大学生生命科学コンテスト（科学探究
+ 部門） — 申込締切
+DESCRIPTION:科学探究部門の全国オンライン登録。掲載日の
+ 24:00締切。
+URL:https://xxgk.czu.cn/_upload/article/files/99/77/338ca314401591e4dd6c168
+ a649d/6b690bcf-8b09-49f1-971a-05614dcdaab5.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:red27-regular@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20270121
+DTEND;VALUE=DATE:20270318
+SUMMARY:2027年レッド・ドット・デザイン賞 デザインコン
+ セプト部門 — 通常申込
+DESCRIPTION:デザインコンセプト部門は登録時期により料金
+ が異なる。日付は主催者の日程表に基づく。料金と応
+ 募資格は原文を参照。
+URL:https://www.red-dot.org/de/design-concept/dates-fees
+END:VEVENT
+BEGIN:VEVENT
+UID:sg27-training@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART:20270126T130000Z
+DTEND:20270126T150000Z
+SUMMARY:サンゴバン建築学生コンテスト2027 マドリード大
+ 会 — 大会前研修
+DESCRIPTION:主催者による第2回One Click LCA研修。フランス現
+ 地時間14:00～16:00で、掲載時刻は北京時間に換算してい
+ る。
+URL:https://architecture-student-contest.saint-gobain.com/edition-2027-madr
+ id
+END:VEVENT
+BEGIN:VEVENT
+UID:comap27-register@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART:20270128T200000Z
+SUMMARY:2027年米国大学生数理モデリングコンテスト（MCM/IC
+ M） — 申込締切
+DESCRIPTION:指導教員がこの期限までに登録する。米国東部
+ 標準時1月28日15:00を北京時間に換算して表示。
+URL:https://www.contest.comap.org/undergraduate/contests/mcm/instructions.h
+ tml
+END:VEVENT
+BEGIN:VEVENT
+UID:comap27-contest@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART:20270128T220000Z
+DTEND:20270202T010000Z
+SUMMARY:2027年米国大学生数理モデリングコンテスト（MCM/IC
+ M） — 競技
+DESCRIPTION:米国東部標準時で1月28日17:00から2月1日20:00まで
+ 。終了時刻にチームは作業を止めること。
+URL:https://www.contest.comap.org/undergraduate/contests/mcm/instructions.h
+ tml
+END:VEVENT
+BEGIN:VEVENT
+UID:x-culsc-plan@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20270131
+DTEND;VALUE=DATE:20270201
+SUMMARY:第12回全国大学生生命科学コンテスト（科学探究
+ 部門） — 書類締切
+DESCRIPTION:掲載日の24:00までに研究レビューと実験計画を
+ アップロードする。
+URL:https://xxgk.czu.cn/_upload/article/files/99/77/338ca314401591e4dd6c168
+ a649d/6b690bcf-8b09-49f1-971a-05614dcdaab5.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:comap27-submit@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART:20270202T020000Z
+SUMMARY:2027年米国大学生数理モデリングコンテスト（MCM/IC
+ M） — 提出締切
+DESCRIPTION:最終論文の提出期限は、競技の作業終了時刻の
+ 1時間後。
+URL:https://www.contest.comap.org/undergraduate/contests/mcm/instructions.h
+ tml
+END:VEVENT
+BEGIN:VEVENT
+UID:if27-jury@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20270216
+DTEND;VALUE=DATE:20270219
+SUMMARY:2027年iFデザインアワード — 最終審査
+DESCRIPTION:ハンブルクでの最終審査。対象は予備審査通過
+ 作品のみ。参加登録は2026年11月に終了した。日付は主
+ 催者の現地暦に基づく。
+URL:https://ifdesign.com/en/if-design-award-get-in-contact
+END:VEVENT
+BEGIN:VEVENT
+UID:x-cncee-works@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20270222
+DTEND;VALUE=DATE:20270314
+SUMMARY:第13回全国大学生エネルギー経済学術アイデアコ
+ ンテスト — 作品提出
+DESCRIPTION:作品番号を取得したチームは、連絡担当者が作
+ 品と関連資料をアップロードする。
+URL:https://energy.qibebt.ac.cn/eneco/contribution/index.html#/newsDetail?i
+ d=982d8290-d469-11f1-9175-7b297bcc3d39
+END:VEVENT
+BEGIN:VEVENT
+UID:red27-late@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20270318
+DTEND;VALUE=DATE:20270429
+SUMMARY:2027年レッド・ドット・デザイン賞 デザインコン
+ セプト部門 — 後期申込
+DESCRIPTION:デザインコンセプト部門は登録時期により料金
+ が異なる。日付は主催者の日程表に基づく。料金と応
+ 募資格は原文を参照。
+URL:https://www.red-dot.org/de/design-concept/dates-fees
+END:VEVENT
+BEGIN:VEVENT
+UID:jx16-signup@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART:20270326T100000Z
+SUMMARY:第16回全国大学生金属組織学技能コンテスト — 大
+ 学による申込締切
+DESCRIPTION:3部門とも大学が一括して登録する。学生は所
+ 属大学の予選日程を別途確認すること。
+URL:https://www.jxds.tech/dangjie-shiyan-zhinan
+END:VEVENT
+BEGIN:VEVENT
+UID:lanqiao18-art@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART:20270426T060000Z
+SUMMARY:第18回藍橋杯 ビジュアルアートデザイン・デジタ
+ ル技術革新部門 — 申込締切
+DESCRIPTION:全国システムの締切。大学独自の締切が早い場
+ 合がある。ビジュアルデザイン部門や特別部門の認定
+ は所属学院に確認すること。
+URL:https://www.cqie.edu.cn/uploads/98044313534702081/file/2026/10/20261028
+ 135716223_j02ilae6gr4t.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:x-culsc-results@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20270531
+DTEND;VALUE=DATE:20270601
+SUMMARY:第12回全国大学生生命科学コンテスト（科学探究
+ 部門） — 書類締切
+DESCRIPTION:掲載日の24:00までに実験記録、論文、参加誓約
+ 書をアップロードする。
+URL:https://xxgk.czu.cn/_upload/article/files/99/77/338ca314401591e4dd6c168
+ a649d/6b690bcf-8b09-49f1-971a-05614dcdaab5.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:sg27-finals@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20270614
+DTEND;VALUE=DATE:20270617
+SUMMARY:サンゴバン建築学生コンテスト2027 マドリード大
+ 会 — 国際大会
+DESCRIPTION:マドリードでの国際大会。掲載日は主催者の現
+ 地暦に基づく。各国の予選と申込期間は各国の担当者
+ が発表する。
+URL:https://architecture-student-contest.saint-gobain.com/edition-2027-madr
+ id
+END:VEVENT
+BEGIN:VEVENT
+UID:jx16-final@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20270727
+DTEND;VALUE=DATE:20270731
+SUMMARY:第16回全国大学生金属組織学技能コンテスト — 決
+ 勝
+DESCRIPTION:実験技能部門の決勝。会場は西南交通大学犀浦
+ キャンパス。
+URL:https://www.jxds.tech/dangjie-shiyan-zhinan
+END:VEVENT
+BEGIN:VEVENT
+UID:igem27@events.hachile.org
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20271018
+DTEND;VALUE=DATE:20271022
+SUMMARY:2027年iGEMグランドジャンボリー — 大会
+DESCRIPTION:パリ国際会議場で開催。掲載日は主催者の現地
+ 暦に基づく大会の開催日。
+URL:https://review.igem.org/main/jamboree/2026/home
+END:VEVENT
+END:VCALENDAR

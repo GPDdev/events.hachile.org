@@ -5,76 +5,81 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="theme-color" content="#19333a">
   <meta name="description" content="查询同济校园活动与大学生竞赛时间，按学院浏览竞赛目录和奖学金评审依据。">
-  <title>同济校园活动与竞赛日历 | Hachile Events</title>
+  <title>同济校园活动与竞赛日历 | Tongji Events</title>
   <link rel="icon" href="./favicon.svg" type="image/svg+xml">
   <link rel="stylesheet" href="./styles.css">
   <script type="module" src="./app.js"></script>
 </head>
 <body>
-  <a class="skip" href="#workspace">跳到日历与竞赛目录</a>
+  <a class="skip" href="#workspace" data-i18n="skip">跳到日历与竞赛目录</a>
   <header class="masthead"><div class="wrap mast-inner">
-    <a class="brand" href="./" aria-label="Hachile Events 首页"><img src="./favicon.svg" width="34" height="34" alt="">Hachile <b>Events</b></a>
-    <a class="site-link" href="https://site.hachile.org/">Hachile 站点目录</a>
+    <a class="brand" href="./" aria-label="Tongji Events 首页" data-i18n-aria="home"><img src="./favicon.svg" width="34" height="34" alt="">Tongji <b>Events</b></a>
+    <div class="language-switch" role="group" aria-label="界面语言" data-i18n-aria="language">
+      <button type="button" data-lang="zh" lang="zh-CN" aria-pressed="true">中文</button>
+      <button type="button" data-lang="en" lang="en" aria-pressed="false">English</button>
+      <button type="button" data-lang="ja" lang="ja" aria-pressed="false">日本語</button>
+      <button type="button" data-lang="de" lang="de" aria-pressed="false">Deutsch</button>
+    </div>
   </div></header>
   <main>
     <div class="wrap">
       <section class="cover" aria-labelledby="page-title">
         <div class="cover-copy">
-          <p class="eyebrow">TONGJI CAMPUS CALENDAR</p>
-          <h1 id="page-title">校园活动与竞赛日历</h1>
-          <p class="intro">查找报名截止日、比赛时间和校园活动，按学院查看竞赛推荐与奖学金评审依据。</p>
+          <p class="eyebrow" data-i18n="eyebrow">同济大学校园日历</p>
+          <h1 id="page-title" data-i18n="heading">校园活动与竞赛日历</h1>
+          <p class="intro" data-i18n="intro">查找报名截止日、比赛时间和校园活动，按学院查看竞赛推荐与奖学金评审依据。</p>
         </div>
-        <div class="date-paper" aria-label="上海今日日期">
-          <div class="paper-line"><span>今日</span><span id="paper-month"></span></div>
+        <div class="date-paper" role="group" aria-label="上海今日日期" data-i18n-aria="shanghaiDate">
+          <div class="paper-line"><span data-i18n="today">今日</span><span id="paper-month"></span></div>
           <strong id="paper-day">—</strong>
           <div id="paper-week"></div>
         </div>
       </section>
-      <div class="view-nav" id="workspace" aria-label="浏览内容" role="group">
-        <button type="button" data-view="agenda" aria-pressed="true">活动日历</button>
-        <button type="button" data-view="catalog" aria-pressed="false">学院竞赛目录</button>
-        <button type="button" data-view="saved" aria-pressed="false">我的收藏 <span id="saved-count">0</span></button>
+      <div class="view-nav" id="workspace" aria-label="浏览内容" data-i18n-aria="browse" role="group" tabindex="-1">
+        <button type="button" data-view="agenda" aria-pressed="true" data-i18n="calendar">活动日历</button>
+        <button type="button" data-view="catalog" aria-pressed="false" data-i18n="catalog">学院竞赛目录</button>
+        <button type="button" data-view="saved" aria-pressed="false"><span data-i18n="saved">我的收藏</span> <span id="saved-count">0</span></button>
       </div>
       <form class="filters" role="search" onsubmit="return false">
-        <label class="search-field"><span class="search-icon" aria-hidden="true"></span><input id="query" type="search" placeholder="搜索活动、竞赛或学院" aria-label="搜索活动、竞赛或学院"></label>
-        <label>学院<select id="college"><option value="">全部学院</option></select></label>
-        <label data-event-filter>类别<select id="kind"><option value="">全部类别</option></select></label>
-        <label data-event-filter>节点<select id="stage"><option value="">全部节点</option></select></label>
-        <label id="scope-filter" hidden>目录范围<select id="scope"><option value="">全部范围</option><option>院系评奖与推荐</option><option>校级竞赛目录</option><option>院系赛事通知</option></select></label>
+        <label class="search-field"><span class="search-icon" aria-hidden="true"></span><input id="query" type="search" placeholder="搜索活动、竞赛或学院" aria-label="搜索活动、竞赛或学院" data-i18n-aria="query" data-i18n-placeholder="query"></label>
+        <label><span data-i18n="college">学院</span><select id="college"><option value="" data-i18n="allColleges">全部学院</option></select></label>
+        <label data-event-filter><span data-i18n="kind">类别</span><select id="kind"><option value="" data-i18n="allKinds">全部类别</option></select></label>
+        <label data-event-filter><span data-i18n="stage">节点</span><select id="stage"><option value="" data-i18n="allStages">全部节点</option></select></label>
+        <label id="scope-filter" hidden><span data-i18n="scope">目录范围</span><select id="scope"><option value="" data-i18n="allScopes">全部范围</option><option value="院系评奖与推荐" data-i18n="collegeRules">院系评奖与推荐</option><option value="校级竞赛目录" data-i18n="universityList">校级竞赛目录</option><option value="院系赛事通知" data-i18n="collegeNotices">院系赛事通知</option></select></label>
       </form>
-      <label id="general-filter" hidden><input type="checkbox" id="include-general"> 同时显示其他面向全校或公开报名的日程</label>
-      <div id="load-error" class="notice" hidden>日历数据暂时无法载入。<button type="button" id="reload">重新加载</button></div>
+      <label id="general-filter" hidden><input type="checkbox" id="include-general"> <span data-i18n="includeGeneral">同时显示其他面向全校或公开报名的日程</span></label>
+      <div id="load-error" class="notice" role="alert" hidden><span data-i18n="loadError">日历数据暂时无法载入。</span> <button type="button" id="reload" data-i18n="reload">重新加载</button></div>
       <noscript><p class="notice">启用 JavaScript 后即可筛选日历，也可直接打开<a href="./data.json">活动与竞赛数据</a>。</p></noscript>
       <div class="agenda-layout" id="agenda-view">
-        <aside class="month-panel" aria-label="月历">
-          <div class="month-head"><h2 id="month-title">月历</h2><div><button id="prev-month" type="button" aria-label="上个月">‹</button><button id="next-month" type="button" aria-label="下个月">›</button></div></div>
+        <aside class="month-panel" aria-label="月历" data-i18n-aria="month">
+          <div class="month-head"><h2 id="month-title"><span data-i18n="month">月历</span></h2><div><button id="prev-month" type="button" aria-label="上个月" data-i18n-aria="prev">‹</button><button id="next-month" type="button" aria-label="下个月" data-i18n-aria="next">›</button></div></div>
           <div class="weekdays" aria-hidden="true"><span>一</span><span>二</span><span>三</span><span>四</span><span>五</span><span>六</span><span>日</span></div>
-          <div id="month-grid" class="month-grid" aria-label="选择日期"></div>
-          <div class="month-foot"><span class="dot"></span> 有日程<button type="button" id="today">回到今天</button></div>
+          <div id="month-grid" class="month-grid" role="group" aria-label="选择日期" data-i18n-aria="chooseDay"></div>
+          <div class="month-foot"><span class="dot"></span><span data-i18n="hasEvents">有日程</span><button type="button" id="today" data-i18n="backToday">回到今天</button></div>
         </aside>
         <section class="agenda" aria-labelledby="agenda-title">
-          <div class="section-head"><h2 id="agenda-title">日程表</h2><div class="calendar-actions"><a class="source" href="webcal://events.hachile.org/calendar.ics">订阅全站日历</a><button type="button" class="export" id="export">导出当前日程 <small>.ics</small></button></div></div>
-          <div class="periods" role="group" aria-label="日程时间范围">
-            <button type="button" data-period="upcoming" aria-pressed="true">进行中与即将开始</button>
-            <button type="button" data-period="month" aria-pressed="false">当前月历</button>
-            <button type="button" data-period="past" aria-pressed="false">往期日程</button>
+          <div class="section-head"><h2 id="agenda-title" data-i18n="agenda">日程表</h2><div class="calendar-actions"><a class="source" href="webcal://events.hachile.org/calendar.ics" data-i18n="subscribe">订阅全站日历</a><button type="button" class="export" id="export"><span data-i18n="export">导出当前日程</span> <small>.ics</small></button></div></div>
+          <div class="periods" role="group" aria-label="日程时间范围" data-i18n-aria="period">
+            <button type="button" data-period="upcoming" aria-pressed="true" data-i18n="upcoming">进行中与即将开始</button>
+            <button type="button" data-period="month" aria-pressed="false" data-i18n="shownMonth">当前月历</button>
+            <button type="button" data-period="past" aria-pressed="false" data-i18n="past">往期日程</button>
           </div>
           <p id="agenda-status" class="list-status" aria-live="polite"></p>
-          <div id="event-list" class="entry-list"><p class="empty">正在载入日程…</p></div>
+          <div id="event-list" class="entry-list"><p class="empty" data-i18n="loading">正在载入日程…</p></div>
         </section>
       </div>
       <section id="catalog-view" class="wide-view" hidden aria-labelledby="catalog-title">
-        <div class="section-head"><h2 id="catalog-title">学院竞赛目录</h2></div>
-        <p class="section-note">院系条目列出适用年度、对象与文件依据。校级目录按赛事责任单位索引，奖学金认定请查阅本人所在学院的评审办法。</p>
+        <div class="section-head"><h2 id="catalog-title" data-i18n="catalog">学院竞赛目录</h2></div>
+        <p class="section-note" data-i18n="catalogNote">院系条目列出适用年度、对象与文件依据。校级目录按赛事责任单位索引，奖学金认定请查阅本人所在学院的评审办法。</p>
         <p class="list-status" id="catalog-status" aria-live="polite"></p><div id="catalog-list"></div>
       </section>
       <section id="saved-view" class="wide-view" hidden aria-labelledby="saved-title">
-        <div class="section-head"><h2 id="saved-title">我的收藏</h2><button type="button" class="export" id="export-saved">导出收藏日程 <small>.ics</small></button></div>
-        <p class="section-note">收藏保存在当前浏览器中。</p>
+        <div class="section-head"><h2 id="saved-title" data-i18n="saved">我的收藏</h2><button type="button" class="export" id="export-saved"><span data-i18n="exportSaved">导出收藏日程</span> <small>.ics</small></button></div>
+        <p class="section-note" data-i18n="savedNote">收藏保存在当前浏览器中。</p>
         <p class="list-status" id="saved-status" aria-live="polite"></p><div id="saved-list" class="entry-list"></div>
       </section>
     </div>
   </main>
-  <footer><div class="wrap"><span>GPDdev 个人整理</span><a class="source" href="https://github.com/GPDdev/events.hachile.org/issues/new">提交活动或纠错</a><span>北京时间 <i>/</i> 资料更新 <time id="updated">—</time></span></div></footer>
+  <footer><div class="wrap"><a class="author" href="https://github.com/GPDdev" data-i18n="author">GPDdev 个人整理</a><a class="source" href="https://github.com/GPDdev/events.hachile.org/issues/new" data-i18n="feedback">提交活动或纠错</a><span><span data-i18n="timezone">北京时间</span> <i>/</i> <span data-i18n="updated">资料更新</span> <time id="updated">—</time></span></div></footer>
 </body>
 </html>
